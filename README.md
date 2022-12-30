@@ -2,7 +2,7 @@
 *Made whilst wasting on Arwen's wasting pillow*
 
 ## TTT Extended
-For: Combined TTT Extended Edition ripped from blu-ray discs, 3:55:24 runtime
+**For: Combined TTT Extended Edition ripped from USA blu-ray discs (set w/ embedded Sindarin text occasionally), 3:55:24 runtime combined**
 Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD.
 
 ### Process:
@@ -17,7 +17,7 @@ mkvextract "The Lord of the Rings 2 The Two Towers - Extended Edition.mkv" track
 * Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, most I's are |'s, misses most accent marks. Better than bianary.
 * Save SRT as original. Save as SRT as translated for edits.
 * Load in the movie to Subtitle Edit, use TTT subs from https://subscene.com/u/1418112 as a guide for general times Sindarin/Rohirric happen (timings aren't quite right).
-* Add them all in painfully. Hard-coded subs require Sindarin to be on 1 line only.
+* Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
 * Use http://www.arwen-undomiel.com/elvish/ttt.html to check translation quality, catch few missing Sindarin lines at the battle for Helm's Deep.
 * Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...` (but not the very first `GANDALF: <i>You cannot pass!...` for ?reasons?.
 * Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
