@@ -1,11 +1,11 @@
 ﻿1
 00:01:16,743 --> 00:01:20,497
 GANDALF: <i>You cannot pass!</i>
-FRODO: <i>Gandalf!</i>
+ FRODO: <i>Gandalf!</i>
 
 2
 00:01:25,335 --> 00:01:30,674
-GANDALF: <i>I am a servant of the Secret
+GANDALF: <i> I am a servant of the Secret
 Fire, wielder of the flame of Anor.</i>
 
 3
@@ -833,7 +833,7 @@ and Saruman...</i>
 
 196
 00:20:17,133 --> 00:20:21,387
-SARUMAN: <i>The Old World will burn
+SARUMAN: <i> The Old World will burn
 in the fires of industry.</i>
 
 197
@@ -930,7 +930,7 @@ Burn every village!
 
 217
 00:21:54,563 --> 00:21:59,735
-SARUMAN: <i>We have only to
+SARUMAN: <i> We have only to
 remove those who oppose us.</i>
 
 218
@@ -2410,7 +2410,7 @@ of Morgoth.</i>
 
 565
 00:54:19,298 --> 00:54:22,009
-GANDALF: <i>Until at last
+GANDALF: <i> Until at last
 I threw down my enemy...</i>
 
 566
@@ -5033,7 +5033,7 @@ I'm sorry. Please, eat.
 
 1172
 01:49:51,993 --> 01:49:56,164
-ARWEN: <i>The light of the Evenstar
+ARWEN: <i> The light of the Evenstar
 does not wax and wane.</i>
 
 1173
@@ -5050,7 +5050,7 @@ does not wax and wane.</i>
 
 1176
 01:50:08,885 --> 01:50:11,387
-| am asleep.
+I am asleep.
 
 1177
 01:50:17,852 --> 01:50:19,812
@@ -5586,7 +5586,7 @@ The war has started.
 
 1300
 02:07:22,417 --> 02:07:26,797
-ARWEN: <i>May the grace of the Valar
+ARWEN: <i> May the grace of the Valar
 protect you.</i>
 
 1301
@@ -6199,7 +6199,7 @@ and yet he tries to do your will.
 
 1437
 02:20:46,137 --> 02:20:48,890
-...l know his uses, and they are few.
+...I know his uses, and they are few.
 
 1438
 02:20:49,056 --> 02:20:52,685
@@ -8436,7 +8436,7 @@ The sun is rising.
 
 1959
 03:14:25,061 --> 03:14:28,064
-GANDALF: <i>Look to my coming
+GANDALF: <i> Look to my coming
 at first light on the fifth day.</i>
 
 1960
