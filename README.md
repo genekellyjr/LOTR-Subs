@@ -6,7 +6,7 @@
 Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD.
 
 ### Process:
-* mkvtoolnix's mkvextract.exe to extract PGS subtitles from combined blu-ray rip.
+* MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip.
 ```
 mkvmerge -i "The Lord of the Rings 2 The Two Towers - Extended Edition.mkv"
 
@@ -16,7 +16,7 @@ mkvextract "The Lord of the Rings 2 The Two Towers - Extended Edition.mkv" track
 ```
 * Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, most I's are |'s, misses most accent marks. Better than bianary.
 * Save SRT as original. Save as SRT as translated for edits.
-* Load in the movie to Subtitle Edit, use TTT subs from https://subscene.com/u/1418112 as a guide for general times Sindarin/Rohirric happen (timings aren't quite right).
+* Load in the movie to Subtitle Edit, use TTT subs from https://subscene.com/u/1418112 (thx to the user Dietrich!) as a guide for general times Sindarin/Rohirric happen (timings aren't quite right).
 * Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
 * Use http://www.arwen-undomiel.com/elvish/ttt.html to check translation quality, catch few missing Sindarin lines at the battle for Helm's Deep.
 * Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...` (but not the very first `GANDALF: <i>You cannot pass!...` for ?reasons?.
@@ -33,4 +33,4 @@ Frame rate: 23.976
 Shadow width: 0
 Line height: 72
 ```
-Export, use mkvtoolnix to merge, remove old subs!
+Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
