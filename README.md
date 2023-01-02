@@ -1,6 +1,13 @@
 # LOTR-Subs
 *Made whilst wasting on Arwen's wasting pillow*
 
+## FOTR Extended
+### Color Correction
+This is needed since the colors in FOTR are abs bjorked.
+* Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
+* *Note that if you want to encode with H.265 10-bit (small file size, good quality, 10-bit reduces banding), choose x265 and add these custom options: `--profile main10 --no-strong-intra-smoothing --no-rect --aq-mode 1 --qpfile D1-pause.txt` (change `D1-pause.txt` to `D2-pause.txt` for disc 2)*
+* *Note that if you get a `DirectShowSource` **error** when trying to use the `.avs` file with MeGUI, go download and install LAV Filters from https://forum.doom9.org/showthread.php?t=156191 OR find "MatroskaSplitter" and install it. I guess it's a codec thing?*
+
 ## TTT Extended
 **For: Combined TTT Extended Edition ripped from USA blu-ray discs (set w/ embedded Sindarin text occasionally), 3:55:24 runtime combined**
 Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD.
