@@ -97,10 +97,14 @@ Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 ## Style Guide
 
 ### 1st line of Elvish w/ baked-on translations
+```
 \[IN SINDARIN\]: (Suilad.)
+```
 
 ### Missing baked-on translations
+```
 \[IN SINDARIN\]: \[Frodo is dying.] (Frodo fîr. Suilad.)
+```
 
 ### Fully missing translations
 ```
@@ -116,6 +120,6 @@ PERSON IN SINDARIN: Hi.
 
 ### All italicized text needs an extra space after the </i> for it to show correctly in the blu-ray PGS .sub output
 ```
-PERSON: </i> Hello.
-Hi. <//i>
+PERSON: <i> Hello.
+Hi. </i>
 ```
