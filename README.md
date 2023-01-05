@@ -119,7 +119,7 @@ PERSON IN SINDARIN: Hi.
 ```
 
 
-### All italicized text needs an extra space after the </i> for it to show correctly in the blu-ray PGS .sub output
+### All italicized text needs an extra space after the `<i>` for it to show correctly in the blu-ray PGS .sub output
 ```
 PERSON: <i> Hello.
 Hi. </i>
