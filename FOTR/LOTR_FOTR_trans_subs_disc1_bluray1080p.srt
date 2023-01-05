@@ -1943,7 +1943,7 @@ Wait.
 
 441
 00:37:31,708 --> 00:37:33,768
-[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Wizard...
+[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Sauron...
 (Zigur...)
 
 442
@@ -2041,7 +2041,7 @@ Sauron was destroyed.
 
 463
 00:38:47,929 --> 00:38:50,578
-[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Wizard...
+[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Sauron...
 (Zigur...)
 
 464
@@ -4808,7 +4808,7 @@ Only there can it be unmade.
 It must be taken deep into Mordor...
 
 1081
-01:41:53,530 --> 01:41:58,535
+01:41:53,523 --> 01:41:58,528
 ...and cast back into the fiery chasm
 from whence it came.
 
@@ -4902,8 +4902,7 @@ You'll all be destroyed!
 
 1101
 01:43:14,481 --> 01:43:16,787
-[THE VOICE OF THE RING WHISPERS IN BLACK SPEECH]: 
-One Ring to rule them all...
+[THE RING IN BLACK SPEECH]: One Ring to rule them all...
 (Ash Nazg durbatulûk...)
 
 1102
