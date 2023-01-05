@@ -40,7 +40,7 @@ mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
 ```
 * Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, many I's are |'s, misses most accent marks. Better than bianary.
 * Save SRT as original. Save as SRT as translated for edits.
-* Load in the movie to Subtitle Edit, use FOTR subs from https://subscene.com/u/1418112 (thx to the user Dietrich!) as a guide for general times Sindarin/Quenya/Black Speech happen (timings aren't quite right due to Disc1+Disc2 combo differing prob idk).
+* Load in the movie to Subtitle Edit, use FOTR subs from https://subscene.com/u/1418112 as a guide for general times Sindarin/Quenya/Black Speech happen (timings aren't quite right due to Disc1+Disc2 combo differing prob idk).
 * Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
 * Use http://www.arwen-undomiel.com/elvish/fotr.html & https://www.elvish.org/gwaith/movie_fotr.htm to check translation quality, catch few missing.
 * Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...`.
