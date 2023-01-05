@@ -18,7 +18,7 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 **For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally) - combined per following instructions (so times match) or in original disc 1/2 format**
 Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.
 
-### Color Correction & Combine (or just combine w/ howtogeek's timings - make sure you use the qpfile if not color correcting so it combines properly)
+### Color Correction & Combine (or just combine w/ howtogeek's timings - make sure you use the qpfile [D1-pause.txt] if not color correcting so it combines properly)
 This is needed since the colors in FOTR are abs bjorked.
 * Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
 * *Note that you should use https://github.com/AviSynth/AviSynthPlus instead of the old AviSynth since it's modern (should be faster) but also completely compatible for this.*
