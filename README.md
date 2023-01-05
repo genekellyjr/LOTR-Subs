@@ -122,6 +122,21 @@ PERSON [IN SINDARIN]: Hi.
 (Suilad.)
 ```
 
+### Song
+```
+Words words words
+
+Words words words
+```
+Punctuation not needed for verses.
+
+### Continued sentences
+```
+<i>All you have to decide...</i>
+<i>...is what to do with the time
+that is given to you.</i>
+```
+
 
 ### All italicized text needs an extra space after the `<i>` for it to show correctly in the blu-ray PGS .sub output
 ```
