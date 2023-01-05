@@ -16,7 +16,8 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 
 ## FOTR Extended
 **For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally) - combined per following instructions (so times match) or in original disc 1/2 format**
-Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.
+
+*Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
 
 ### Color Correction & Combine
 #### (or just combine w/ howtogeek's timings - make sure you use the qpfile `D1-pause.txt` & `D2-pause.txt` if not color correcting so it combines properly)
