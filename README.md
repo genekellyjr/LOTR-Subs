@@ -92,3 +92,24 @@ Shadow width: 0
 Line height: 72
 ```
 Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
+
+
+## Style Guide
+
+### 1st line of Elvish w/ baked-on translations
+\[IN SINDARIN\]: (Suilad.)
+
+### Missing baked-on translations
+\[IN SINDARIN\]: \[Frodo,\] (Frodo, suilad.)
+
+### Fully missing translations
+PERSON IN SINDARIN: Hi.
+(Suilad.)
+
+\[IN SINDARIN\]: Hi.
+(Suilad.)
+
+
+### All italicized text needs an extra space after the </i> for it to show correctly in the blu-ray PGS .sub output
+PERSON: </i> Hello.
+Hi. <//i>
