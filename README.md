@@ -12,6 +12,9 @@
 
 *You can also embed the .srt file instead of the .sup file. The .sup file is blu-ray PGS subtitles which are pictures and look nice, while the .srt file is just text and it's up to your player to decide how to show them. I haven't done any work on positioning the .srt subtitles, just making sure they're right.*
 
+## Help translate anything missing!
+
+If you notice anything missing a translation, note the movie, time, and disc# or combined and open an issue or find an issue for it already. Hopefully I can find someone translating it (since I am but a laylad) or be graced with someone who can translate it.
 
 ## FOTR Extended
 **For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally) - combined per following instructions (so times match) or in original disc 1/2 format**
@@ -35,12 +38,12 @@ mkvextract "C:\path\to\LORT FOTR_d1.mkv" tracks #:"C:\path\to\LORT FOTR_d1.sup"
 
 mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
 ```
-* Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, most I's are |'s, misses most accent marks. Better than bianary.
+* Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, many I's are |'s, misses most accent marks. Better than bianary.
 * Save SRT as original. Save as SRT as translated for edits.
-* Load in the movie to Subtitle Edit, use TTT subs from https://subscene.com/u/1418112 (thx to the user Dietrich!) as a guide for general times Sindarin/Rohirric happen (timings aren't quite right).
+* Load in the movie to Subtitle Edit, use FOTR subs from https://subscene.com/u/1418112 (thx to the user Dietrich!) as a guide for general times Sindarin/Quenya/Black Speech happen (timings aren't quite right due to Disc1+Disc2 combo differing prob idk).
 * Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
-* Use http://www.arwen-undomiel.com/elvish/ttt.html to check translation quality, catch few missing Sindarin lines at the battle for Helm's Deep.
-* Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...` (but not the very first `GANDALF: <i>You cannot pass!...` for ?reasons?).
+* Use http://www.arwen-undomiel.com/elvish/fotr.html & https://www.elvish.org/gwaith/movie_fotr.htm to check translation quality, catch few missing.
+* Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...`.
 * Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
 
 ```
