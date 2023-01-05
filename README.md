@@ -99,7 +99,7 @@ Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 
 ### 1st line of Elvish w/ baked-on translations
 ```
-[IN SINDARIN]: (Suilad.)
+[IN SINDARIN] (Suilad.)
 ```
 
 ```
@@ -108,7 +108,7 @@ PERSON [IN SINDARIN]: (Suilad.)
 
 ### Missing baked-on translations
 ```
-[IN SINDARIN]: [Frodo is dying.] (Frodo fîr. Suilad.)
+[IN SINDARIN] [Frodo is dying.] (Frodo fîr. Suilad.)
 ```
 
 ### Fully missing translations
@@ -118,7 +118,7 @@ PERSON [IN SINDARIN]: Hi.
 ```
 
 ```
-[IN SINDARIN]: Hi.
+[IN SINDARIN] Hi.
 (Suilad.)
 ```
 
