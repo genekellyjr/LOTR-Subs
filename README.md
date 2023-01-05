@@ -6,9 +6,7 @@
 
 *If choosing combined PGS subs, make sure your combined is the same as mine since the timings will be off slightly for disc2 stuff if not.*
 
-*You can generate your own PGS subs instead of using the release ones I made by opening the .srt file in Subtitle Edit and then 
-
-* Use MKVToolNix's GUI to replace the original subtitles with the appropriate .sup file for the appropriate movie or movie part.
+*You can generate your own PGS subs instead of using the release ones I made by opening the .srt file in Subtitle Edit and then use MKVToolNix's GUI to replace the original subtitles with the appropriate .sup file for the appropriate movie or movie part.*
 
 *You can also embed the .srt file instead of the .sup file. The .sup file is blu-ray PGS subtitles which are pictures and look nice, while the .srt file is just text and it's up to your player to decide how to show them. I haven't done any work on positioning the .srt subtitles, just making sure they're right.*
 
