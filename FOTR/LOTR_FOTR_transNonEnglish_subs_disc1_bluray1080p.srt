@@ -1,0 +1,271 @@
+﻿1
+00:00:31,334 --> 00:00:34,326
+GALADRIEL [IN SINDARIN]:
+<i>(I amar prestar aen.)</i>
+
+2
+00:00:36,425 --> 00:00:37,764
+<i>(Han mathon ne nen.)</i>
+
+3
+00:00:39,883 --> 00:00:41,518
+<i>(Han mathon ne chae.)</i>
+
+4
+00:00:43,735 --> 00:00:46,021
+<i>(A han noston ned 'wilith.)</i>
+
+5
+00:02:49,294 --> 00:02:50,347
+[IN SINDARIN]: Hold positions!
+(Tangado haid!)
+
+6
+00:02:51,847 --> 00:02:53,647
+Release the arrows!
+(Leithio i philinn!)
+
+7
+00:02:54,149 --> 00:02:54,971
+Positions!
+(Haid!)
+
+8
+00:37:33,107 --> 00:37:35,333
+[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Wizard...
+(Zigur...)
+
+9
+00:38:47,929 --> 00:38:50,578
+[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Wizard...
+(Zigur...)
+
+10
+00:45:09,002 --> 00:45:16,807
+[SINGING IN SINDARIN]: <i> O Queen beyond the Western Seas!
+(A Bereth thar Ennui Aeair!)</i>
+
+11
+00:45:18,251 --> 00:45:26,704
+<i>O light to us that wander
+(Calad ammen i reniar)</i>
+
+12
+00:45:28,008 --> 00:45:36,457
+<i>Amid the tree-woven lands of Middle-earth.
+(Mi 'aladhremmin ennorath.)</i>
+
+13
+00:45:38,097 --> 00:45:46,820
+<i>O Elbereth Star-kindler
+(A Elbereth Gilthoniel)</i>
+
+14
+00:45:47,763 --> 00:45:56,473
+<i>your eyes and breath like shining jewels...
+(i chin a thûl lín míriel...)</i>
+
+15
+01:07:51,612 --> 01:07:54,297
+STRIDER HUMS [IN SINDARIN]: <i>Tinúviel the elven-fair
+(Tinúviel elvanui)</i>
+
+16
+01:07:55,869 --> 01:07:59,325
+<i>Immortal maiden...
+(Elleth alfirin...)</i>
+
+17
+01:08:00,193 --> 01:08:02,112
+<i>...elven-wise
+(...edhelhael)</i>
+
+18
+01:08:03,788 --> 01:08:10,572
+<i>About him cast her night-dark hair
+(O hon ring finnil fuinui)</i>
+
+19
+01:08:11,673 --> 01:08:14,607
+<i>And arms like silver...
+(A renc gelebrin...)</i>
+
+20
+01:15:46,125 --> 01:16:03,508
+[FEMALE ELVES SINGING IN QUENYA]: <i>The earth groans
+(I cemen nurrua)</i>
+
+21
+01:16:03,774 --> 01:16:11,257
+<i>And the wind...
+(Ar i sure...)</i>
+
+22
+01:16:11,282 --> 01:16:16,699
+<i>...the wind...
+(...i súre...)</i>
+
+23
+01:16:17,148 --> 01:16:24,455
+<i>...is crying!
+(...naina!)</i>
+
+24
+01:19:13,874 --> 01:19:17,100
+[IN SINDARIN]: (Im Arwen - telin le thaed.)
+
+25
+01:19:19,434 --> 01:19:21,301
+(Lasto beth nîn...)
+
+26
+01:19:21,519 --> 01:19:23,685
+(Tolo dan nan galad.)
+
+27
+01:19:55,132 --> 01:19:57,675
+[IN SINDARIN]: (Dartho guin Beriain - rych le ad tolthathon.)
+
+28
+01:19:57,700 --> 01:19:59,508
+(Hon mabathon - rochon ellint im.)
+
+29
+01:20:00,313 --> 01:20:01,718
+(Andelu i ven.)
+
+30
+01:20:03,350 --> 01:20:05,479
+ARWEN: [Frodo is dying.] (Frodo fîr. Ae athradon i hîr...)
+
+31
+01:20:05,519 --> 01:20:08,230
+(...tûr gwaith nîn beriatha hon.)
+
+32
+01:20:14,685 --> 01:20:16,645
+[IN SINDARIN]: As you wish.
+(Be iest lîn.)
+
+33
+01:20:24,706 --> 01:20:26,913
+[IN SINDARIN]: Ride fast, Asfaloth, ride fast!
+(Noro lim, Asfaloth, noro lim!)
+
+34
+01:21:45,109 --> 01:21:47,653
+Ride fast, Asfaloth!
+(Noro lim, Asfaloth!)
+
+35
+01:22:47,838 --> 01:22:50,176
+[IN SINDARIN]: Waters of the Misty Mountains, listen to the great word;
+(Nîn o Chithaeglir, lasto beth daer;)
+
+36
+01:22:50,568 --> 01:22:53,515
+flow waters of Loudwater, against the Ringwraiths!
+(rimmo nîn Bruinen, dan in Ulaer!)
+
+37
+01:22:53,706 --> 01:22:56,325
+Waters of the Misty Mountains, listen to the great word;
+(Nîn o Chithaeglir, lasto beth daer;)
+
+38
+01:22:56,873 --> 01:22:59,922
+flow waters of Loudwater, against the Ringwraiths!
+(rimmo nîn Bruinen, dan in Ulaer!)
+
+39
+01:24:05,596 --> 01:24:10,009
+[IN SINDARIN]: Hear my voice. Come back to the light.
+(Lasto beth nîn. Tolo dan nan galad.)
+
+40
+01:35:46,459 --> 01:35:48,921
+[IN SINDARIN]: (A si i-Dhúath ú-orthor, Aragorn.)
+
+41
+01:35:49,904 --> 01:35:53,506
+(Ú or le... a ú or nin.)
+
+42
+01:36:04,850 --> 01:36:08,097
+(Renich i lú i erui govannem?)
+
+43
+01:36:11,641 --> 01:36:16,187
+(Nauthannen i ned ôl reniannen.)
+
+44
+01:36:16,716 --> 01:36:19,243
+(Gwenwin in enninath.)
+
+45
+01:36:20,915 --> 01:36:22,915
+(Ú-'arnech in naeth i si celich.)
+
+46
+01:36:25,752 --> 01:36:27,829
+(Renich i beth i pennen?)
+
+47
+01:38:59,507 --> 01:39:02,809
+[CHANTS IN BLACK SPEECH]: One Ring to rule them all...
+(Ash Nazg durbatulûk...)
+
+48
+01:39:03,186 --> 01:39:07,117
+...One Ring to find them...
+(...Ash Nazg gimbatul...)
+
+49
+01:39:07,142 --> 01:39:10,025
+...One Ring to bring them all...
+(...Ash Nazg thrakatulûk...)
+
+50
+01:39:13,039 --> 01:39:17,027
+...and in the darkness bind them.
+(...agh burzum-ishi krimpatul.)
+
+51
+01:40:44,924 --> 01:40:46,422
+[IN SINDARIN]: (Havo dad, Legolas.)
+
+52
+01:43:14,481 --> 01:43:16,787
+[THE RING IN BLACK SPEECH]: One Ring to rule them all...
+(Ash Nazg durbatulûk...)
+
+53
+01:43:16,812 --> 01:43:18,821
+...One Ring to find them...
+(...Ash Nazg gimbatul...)
+
+54
+01:43:18,845 --> 01:43:21,347
+One Ring to rule them all...
+(Ash Nazg durbatulûk...)
+
+55
+01:43:21,371 --> 01:43:23,534
+...One Ring to find them...
+(...Ash Nazg gimbatul...)
+
+56
+01:43:23,559 --> 01:43:25,729
+One Ring to rule them all...
+(Ash Nazg durbatulûk...)
+
+57
+01:43:25,753 --> 01:43:27,869
+...One Ring to find them...
+(...Ash Nazg gimbatul...)
+
+58
+01:43:27,893 --> 01:43:29,582
+One Ring to rule them all...
+(Ash Nazg durbatulûk...)
+
