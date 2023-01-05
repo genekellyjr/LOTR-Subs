@@ -100,7 +100,7 @@ Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 \[IN SINDARIN\]: (Suilad.)
 
 ### Missing baked-on translations
-\[IN SINDARIN\]: \[Frodo,\] (Frodo, suilad.)
+\[IN SINDARIN\]: \[Frodo is dying.] (Frodo fîr. Suilad.)
 
 ### Fully missing translations
 PERSON IN SINDARIN: Hi.
