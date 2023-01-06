@@ -123,8 +123,8 @@ PERSON [IN SINDARIN]: Hi.
 ```
 
 ```
-VOICE OF THE RING [WHISPERS IN BLACK SPEECH]: Sauron...
-(Zigur...)
+VOICE OF THE RING [WHISPERS IN BLACK SPEECH]: <i> Sauron...
+(Zigur...)</i>
 ```
 
 ### Song
