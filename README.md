@@ -135,6 +135,16 @@ Words words words
 ```
 Punctuation not needed for verses.
 
+```
+[SINGING IN SINDARIN] <i> O Queen beyond the Western Seas!
+(A Bereth thar Ennui Aeair!)</i>
+```
+
+```
+STRIDER [HUMS IN SINDARIN]: <i> Tinúviel the elven-fair
+(Tinúviel elvanui)</i>
+```
+
 ### Continued sentences
 ```
 <i>All you have to decide...</i>
@@ -142,7 +152,6 @@ Punctuation not needed for verses.
 ...is what to do with the time
 that is given to you.
 ```
-
 
 ### All italicized text needs an extra space after the `<i>` for it to show correctly in the blu-ray PGS .sub output
 ```
