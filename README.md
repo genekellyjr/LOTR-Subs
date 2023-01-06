@@ -122,6 +122,11 @@ PERSON [IN SINDARIN]: Hi.
 (Suilad.)
 ```
 
+```
+VOICE OF THE RING [WHISPERS IN BLACK SPEECH]: Sauron...
+(Zigur...)
+```
+
 ### Song
 ```
 Words words words
