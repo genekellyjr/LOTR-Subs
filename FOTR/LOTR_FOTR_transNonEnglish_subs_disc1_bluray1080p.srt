@@ -17,7 +17,7 @@ GALADRIEL [IN SINDARIN]:
 
 5
 00:02:49,294 --> 00:02:50,347
-[IN SINDARIN]: Hold positions!
+[IN SINDARIN] Hold positions!
 (Tangado haid!)
 
 6
@@ -32,17 +32,17 @@ Positions!
 
 8
 00:37:33,107 --> 00:37:35,333
-[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Sauron...
-(Zigur...)
+VOICE OF THE RING [WHISPERS IN BLACK SPEECH]: <i> Sauron...
+(Zigur...)</i>
 
 9
 00:38:47,929 --> 00:38:50,578
-[VOICE OF THE RING WHISPERS IN BLACK SPEECH]: Sauron...
-(Zigur...)
+VOICE OF THE RING [WHISPERS IN BLACK SPEECH]: <i> Sauron...
+(Zigur...)</i>
 
 10
 00:45:09,002 --> 00:45:16,807
-[SINGING IN SINDARIN]: <i> O Queen beyond the Western Seas!
+[SINGING IN SINDARIN] <i> O Queen beyond the Western Seas!
 (A Bereth thar Ennui Aeair!)</i>
 
 11
@@ -67,7 +67,7 @@ Positions!
 
 15
 01:07:51,612 --> 01:07:54,297
-STRIDER HUMS [IN SINDARIN]: <i>Tinúviel the elven-fair
+STRIDER [HUMS IN SINDARIN]: <i> Tinúviel the elven-fair
 (Tinúviel elvanui)</i>
 
 16
@@ -91,181 +91,206 @@ STRIDER HUMS [IN SINDARIN]: <i>Tinúviel the elven-fair
 (A renc gelebrin...)</i>
 
 20
-01:15:46,125 --> 01:16:03,508
-[FEMALE ELVES SINGING IN QUENYA]: <i>The earth groans
-(I cemen nurrua)</i>
+01:12:49,031 --> 01:12:50,913
+VOICE OF THE RING [IN BLACK SPEECH]: <i> In...
+(Ishi...)</i>
 
 21
+01:12:53,014 --> 01:12:54,286
+<i>The One...
+(Ashi...)</i>
+
+22
+01:13:13,835 --> 01:13:15,336
+<i>Death...
+(Gurum...)</i>
+
+23
+01:13:30,516 --> 01:13:33,528
+VOICE OF THE RING: <i> Where the Shadows lie...
+(Makha Gulshu darul...)</i>
+
+24
+01:13:33,808 --> 01:13:39,378
+<i>In the Land of Mordor where Shadows lie.
+(Daghburz-ishi makha Gulshu darulu.)</i>
+
+25
+01:15:46,125 --> 01:16:03,508
+[SINGING IN QUENYA] <i> The earth groans
+(I cemen nurrua)</i>
+
+26
 01:16:03,774 --> 01:16:11,257
 <i>And the wind...
 (Ar i sure...)</i>
 
-22
+27
 01:16:11,282 --> 01:16:16,699
 <i>...the wind...
 (...i súre...)</i>
 
-23
+28
 01:16:17,148 --> 01:16:24,455
 <i>...is crying!
 (...naina!)</i>
 
-24
+29
 01:19:13,874 --> 01:19:17,100
-[IN SINDARIN]: (Im Arwen - telin le thaed.)
+[IN SINDARIN] (Im Arwen - telin le thaed.)
 
-25
+30
 01:19:19,434 --> 01:19:21,301
 (Lasto beth nîn...)
 
-26
+31
 01:19:21,519 --> 01:19:23,685
 (Tolo dan nan galad.)
 
-27
+32
 01:19:55,132 --> 01:19:57,675
-[IN SINDARIN]: (Dartho guin Beriain - rych le ad tolthathon.)
+[IN SINDARIN] (Dartho guin Beriain - rych le ad tolthathon.)
 
-28
+33
 01:19:57,700 --> 01:19:59,508
 (Hon mabathon - rochon ellint im.)
 
-29
+34
 01:20:00,313 --> 01:20:01,718
 (Andelu i ven.)
 
-30
+35
 01:20:03,350 --> 01:20:05,479
 ARWEN: [Frodo is dying.] (Frodo fîr. Ae athradon i hîr...)
 
-31
+36
 01:20:05,519 --> 01:20:08,230
 (...tûr gwaith nîn beriatha hon.)
 
-32
+37
 01:20:14,685 --> 01:20:16,645
-[IN SINDARIN]: As you wish.
+[IN SINDARIN] As you wish.
 (Be iest lîn.)
 
-33
+38
 01:20:24,706 --> 01:20:26,913
-[IN SINDARIN]: Ride fast, Asfaloth, ride fast!
+[IN SINDARIN] Ride fast, Asfaloth, ride fast!
 (Noro lim, Asfaloth, noro lim!)
 
-34
+39
 01:21:45,109 --> 01:21:47,653
 Ride fast, Asfaloth!
 (Noro lim, Asfaloth!)
 
-35
+40
 01:22:47,838 --> 01:22:50,176
-[IN SINDARIN]: Waters of the Misty Mountains, listen to the great word;
+[IN SINDARIN] Waters of the Misty Mountains, listen to the great word;
 (Nîn o Chithaeglir, lasto beth daer;)
 
-36
+41
 01:22:50,568 --> 01:22:53,515
 flow waters of Loudwater, against the Ringwraiths!
 (rimmo nîn Bruinen, dan in Ulaer!)
 
-37
+42
 01:22:53,706 --> 01:22:56,325
 Waters of the Misty Mountains, listen to the great word;
 (Nîn o Chithaeglir, lasto beth daer;)
 
-38
+43
 01:22:56,873 --> 01:22:59,922
 flow waters of Loudwater, against the Ringwraiths!
 (rimmo nîn Bruinen, dan in Ulaer!)
 
-39
+44
 01:24:05,596 --> 01:24:10,009
-[IN SINDARIN]: Hear my voice. Come back to the light.
+[IN SINDARIN] Hear my voice. Come back to the light.
 (Lasto beth nîn. Tolo dan nan galad.)
 
-40
+45
 01:35:46,459 --> 01:35:48,921
-[IN SINDARIN]: (A si i-Dhúath ú-orthor, Aragorn.)
+[IN SINDARIN] (A si i-Dhúath ú-orthor, Aragorn.)
 
-41
+46
 01:35:49,904 --> 01:35:53,506
 (Ú or le... a ú or nin.)
 
-42
+47
 01:36:04,850 --> 01:36:08,097
 (Renich i lú i erui govannem?)
 
-43
+48
 01:36:11,641 --> 01:36:16,187
 (Nauthannen i ned ôl reniannen.)
 
-44
+49
 01:36:16,716 --> 01:36:19,243
 (Gwenwin in enninath.)
 
-45
+50
 01:36:20,915 --> 01:36:22,915
 (Ú-'arnech in naeth i si celich.)
 
-46
+51
 01:36:25,752 --> 01:36:27,829
 (Renich i beth i pennen?)
 
-47
+52
 01:38:59,507 --> 01:39:02,809
-[CHANTS IN BLACK SPEECH]: One Ring to rule them all...
+[CHANTS IN BLACK SPEECH] One Ring to rule them all...
 (Ash Nazg durbatulûk...)
 
-48
+53
 01:39:03,186 --> 01:39:07,117
 ...One Ring to find them...
 (...Ash Nazg gimbatul...)
 
-49
+54
 01:39:07,142 --> 01:39:10,025
 ...One Ring to bring them all...
 (...Ash Nazg thrakatulûk...)
 
-50
+55
 01:39:13,039 --> 01:39:17,027
 ...and in the darkness bind them.
 (...agh burzum-ishi krimpatul.)
 
-51
-01:40:44,924 --> 01:40:46,422
-[IN SINDARIN]: (Havo dad, Legolas.)
-
-52
-01:43:14,481 --> 01:43:16,787
-[THE RING IN BLACK SPEECH]: One Ring to rule them all...
-(Ash Nazg durbatulûk...)
-
-53
-01:43:16,812 --> 01:43:18,821
-...One Ring to find them...
-(...Ash Nazg gimbatul...)
-
-54
-01:43:18,845 --> 01:43:21,347
-One Ring to rule them all...
-(Ash Nazg durbatulûk...)
-
-55
-01:43:21,371 --> 01:43:23,534
-...One Ring to find them...
-(...Ash Nazg gimbatul...)
-
 56
-01:43:23,559 --> 01:43:25,729
-One Ring to rule them all...
-(Ash Nazg durbatulûk...)
+01:40:44,924 --> 01:40:46,422
+[IN SINDARIN] (Havo dad, Legolas.)
 
 57
-01:43:25,753 --> 01:43:27,869
-...One Ring to find them...
-(...Ash Nazg gimbatul...)
+01:43:14,481 --> 01:43:16,787
+THE RING [IN BLACK SPEECH]: <i> One Ring to rule them all...
+(Ash Nazg durbatulûk...)</i>
 
 58
+01:43:16,812 --> 01:43:18,821
+<i>...One Ring to find them...
+(...Ash Nazg gimbatul...)</i>
+
+59
+01:43:18,845 --> 01:43:21,347
+<i>One Ring to rule them all...
+(Ash Nazg durbatulûk...)</i>
+
+60
+01:43:21,371 --> 01:43:23,534
+<i>...One Ring to find them...
+(...Ash Nazg gimbatul...)</i>
+
+61
+01:43:23,559 --> 01:43:25,729
+<i>One Ring to rule them all...
+(Ash Nazg durbatulûk...)</i>
+
+62
+01:43:25,753 --> 01:43:27,869
+<i>...One Ring to find them...
+(...Ash Nazg gimbatul...)</i>
+
+63
 01:43:27,893 --> 01:43:29,582
-One Ring to rule them all...
-(Ash Nazg durbatulûk...)
+<i>One Ring to rule them all...
+(Ash Nazg durbatulûk...)</i>
 
