@@ -15,17 +15,36 @@
 If you notice anything missing a translation, note the movie, time, and disc# or combined and open an issue or find an issue for it already. Hopefully I can find someone translating it (since I am but a laylad) or be graced with someone who can translate it.
 
 ## FOTR Extended
-**For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally) - combined per following instructions (so times match) or in original disc 1/2 format**
+**For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). If using combined they must follow the frame combining times below or else things will be off.**
 
 *Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
 
+*Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
+
 ### Color Correction & Combine
-#### (or just combine w/ howtogeek's timings - make sure you use the qpfile `D1-pause.txt` & `D2-pause.txt` if not color correcting so it combines properly)
+#### Color Correct
 This is needed since the colors in FOTR are abs bjorked.
+
+* Your qpfiles (`D1-pause.txt` & `D2-pause.txt`) must be `151967 K` for `D1-pause.txt` and `47 K` for `D2-pause.txt`. Do not use frames listed in the guide, they cut off a few frames.
 * Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
 * *Note that you should use https://github.com/AviSynth/AviSynthPlus instead of the old AviSynth since it's modern (should be faster) but also completely compatible for this.*
 * *Note that if you want to encode with H.265 10-bit (small file size, good quality, 10-bit reduces banding): choose x265, set it to Constant Quality 18, Preset Slow, and add these custom options (2nd tab at top of window): `--profile main10 --no-strong-intra-smoothing --no-rect --aq-mode 1 --qpfile "C:\path\to\D1-pause.txt"` (change `D1-pause.txt` to `D2-pause.txt` for disc 2)*
 * *Note that if you get a `DirectShowSource` **error** when trying to use the `.avs` file with MeGUI, go download and install LAV Filters from https://forum.doom9.org/showthread.php?t=156191 OR find "MatroskaSplitter" and install it. I guess it's a codec thing?*
+
+#### Combine
+You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers". Put in the box:
+```
+-151967,+152136-
+```
+(based on 152089 total frames in Disc 1 plus 47)
+
+Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for FOTR
+```
+Fellowship of the Ring:
+Disc 1 - 151967
+Disc 2 - 47
+```
+*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
 ### Process to do yourself:
 * MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip. (I open a CMD window in the MKVToolNix folder and work from there, type `cmd` in Explorer address bar when in the MKVToolNix folder to open a CMD window in said folder)
@@ -64,6 +83,14 @@ Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 **For: Combined TTT Extended Edition ripped from USA blu-ray discs (set w/ embedded Sindarin text occasionally), 3:55:24 runtime combined**
 Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD.
 
+Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for TTT
+```
+Two Towers
+Disc 1 - 153305
+Disc 2 - 47
+```
+*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
+
 ### Process:
 * MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip.
 ```
@@ -93,6 +120,15 @@ Shadow width: 0
 Line height: 72
 ```
 Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
+
+## ROTK Extended
+Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for ROTK
+```
+Return of the King
+Disc 1 - 183540
+Disc 2 - 47
+```
+*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
 
 ## Style Guide
