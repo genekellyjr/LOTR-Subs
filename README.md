@@ -157,6 +157,12 @@ http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/mo
 ### ROTK
 http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/movie_rotk.htm
 
+### Black Speech resources
+
+List of all known words https://web.archive.org/web/20180501031101/http://folk.uib.no/hnohf/o2.htm
+
+Translated Black Speech score (used in at least 1 scene as words) https://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf at "BLACK SPEECH RING-VERSE" on page 17
+
 ## Style Guide
 
 ### 1st line of Elvish w/ baked-on translations
