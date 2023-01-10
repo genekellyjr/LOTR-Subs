@@ -41,7 +41,7 @@ You need to combine in MKVToolNix and in the Output tab's Splitting section set 
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for FOTR
 ```
 Fellowship of the Ring:
-Disc 1 - 151967
+Disc 1 - 151968
 Disc 2 - 47
 ```
 *Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
