@@ -46,37 +46,7 @@ Disc 2 - 47
 ```
 *Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
-### Process to do yourself:
-* MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip. (I open a CMD window in the MKVToolNix folder and work from there, type `cmd` in Explorer address bar when in the MKVToolNix folder to open a CMD window in said folder)
-```
-mkvmerge -i "C:\path\to\LORT FOTR_d1.mkv"
 
->identify subtitle ID #
-
-mkvextract "C:\path\to\LORT FOTR_d1.mkv" tracks #:"C:\path\to\LORT FOTR_d1.sup"
-
-mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
-```
-* Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, many I's are |'s, misses most accent marks. Better than bianary.
-* Save SRT as original. Save as SRT as translated for edits.
-* Load in the movie to Subtitle Edit, use FOTR subs from https://subscene.com/u/1418112 as a guide for general times Sindarin/Quenya/Black Speech happen (timings aren't quite right due to Disc1+Disc2 combo differing prob idk).
-* Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
-* Use http://www.arwen-undomiel.com/elvish/fotr.html & https://www.elvish.org/gwaith/movie_fotr.htm to check translation quality, catch few missing.
-* Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...`.
-* Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
-
-```
-Font Family: Arial
-Font Size: 66
-Video res: 1080p
-Align: Center, left justify dialog
-Bottom margin: 2%
-Border style: Normal, width=3
-Frame rate: 23.976
-Shadow width: 0
-Line height: 72
-```
-Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 
 
 ## TTT Extended
@@ -130,6 +100,62 @@ Disc 2 - 47
 ```
 *Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
+
+## Process to do yourself
+* MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip. (I open a CMD window in the MKVToolNix folder and work from there, type `cmd` in Explorer address bar when in the MKVToolNix folder to open a CMD window in said folder)
+```
+mkvmerge -i "C:\path\to\LORT FOTR_d1.mkv"
+
+>identify subtitle ID #
+
+mkvextract "C:\path\to\LORT FOTR_d1.mkv" tracks #:"C:\path\to\LORT FOTR_d1.sup"
+
+mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
+```
+* Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, many I's are |'s, misses most accent marks. Better than bianary.
+* Save SRT as original. Save as SRT as translated for edits.
+* Load in the movie to Subtitle Edit, use FOTR/TTT/ROTK subs from https://subscene.com/u/1418112 as a guide for general times Sindarin/Quenya/Black Speech happen (timings aren't quite right due to Disc1+Disc2 combo differing prob idk).
+* Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
+* Use resources (below) to check translation quality, catch few missing translations.
+* Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...`.
+* Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
+
+```
+Font Family: Arial
+Font Size: 66
+Video res: 1080p
+Align: Center, left justify dialog
+Bottom margin: 2%
+Border style: Normal, width=3
+Frame rate: 23.976
+Shadow width: 0
+Line height: 72
+```
+Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs (or keep and rename/remove default tag)!
+
+
+## Resources per movie
+### FOTR
+http://www.arwen-undomiel.com/elvish/fotr.html & https://www.elvish.org/gwaith/movie_fotr.htm
+
+The Lament for Gandalf needs extra crutches:
+* Soundtrack from https://youtu.be/5VA0s8kOc1Y?t=442
+
+* Words to the non-extended version of the soundtrack https://www.youtube.com/watch?v=vgN0ydtrnbo
+
+* Sheet music page 1 https://web.archive.org/web/20230107014344/https://www.musicnotes.com/images/productimages/large/mtd/MN0041737.gif
+
+* Sheet music page 2 https://web.archive.org/web/20230107014254/https://cdn.shopify.com/s/files/1/0017/6760/4339/products/84c32bde7d375fec4fd1c5d0df0a1a74_1024x1024.png?v=1618329648
+
+* Official words and translation https://web.archive.org/web/20221209124726/https://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf
+
+* Unofficial words and translation (#10 notes and #11) https://web.archive.org/web/20221126204330/https://www.elvish.org/gwaith/movie_soundtrack_fotr.htm
+
+### TTT
+http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/movie_ttt.htm
+
+### ROTK
+http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/movie_rotk.htm
 
 ## Style Guide
 
