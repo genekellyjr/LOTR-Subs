@@ -39,18 +39,7 @@ Put in the box:
 ```
 -151968,+152138-
 ```
-*1st number goes up to last movie frame (151968) and splits at 151969 (which is set as the key frame). 2nd number is based on 152090 total frames in Disc 1 plus 48, so it splits at 1st movie frame and goes from there.*
-
-Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for FOTR *note they are unaware that MPC-HC counts the 1st frame as 0 (counting from 0) but MKVToolNix's frame splits follow x265 convention where the 1st frame is 1, so the numbers are 1 too low*
-```
-Fellowship of the Ring:
-Disc 1 - 151969
-Disc 2 - 48
-```
-*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense. Additionally, for 151967 (last movie frame) and 151968 (first black frame) - you want a keyframe at 151968 (first black frame) so you can split between 1-151967 (inclusive) and 151968-end*
-
-
-
+*1st number goes up to last movie frame (151968) and splits at 151969 (first black frame which is set as the key frame). 2nd number is based on 152090 total frames in Disc 1 plus 48, so it starts a split at 1st movie frame in d2 (48) and goes from there. Identify frames in MPC-HC via CTRL+G, note it counts from 1st frame 0 while MKVToolNix counts from 1st frame 1, so you need to add 1 to whatever you find.*
 
 ## TTT Extended
 **For: Combined TTT Extended Edition ripped from USA blu-ray discs (set w/ embedded Sindarin text occasionally), 3:55:24 runtime combined**
