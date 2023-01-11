@@ -39,7 +39,7 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 * Rip each extended disk to its own MKV, for example, LOTR1d1.mkv and LOTR1d2.mkv
 * Drag Disc 1 into MkvToolNix by itself
-* <Add Color Corrected version if using it and disable the H.264 original video>
+* /<Add Color Corrected version if using it and disable the H.264 original video/>
 * Go into the Output tab.
 * Change Split mode from Do not split to After frame/field numbers
 * Use frame# **151969 for disc 1** and frame# **48 for disc 2**.
