@@ -37,19 +37,19 @@ This is needed since the colors in FOTR are abs bjorked.
 
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *Note their frame #s are off because they missed that MPC-HC counts from 0 as 1st frame while MKVToolNix counts from 1 as 1st frame and that MKVToolNix's ranges are inclusive, so they're off by 2 frames but otherwise right.*
 
-    Rip each extended disk to its own MKV, for example, LOTR1d1.mkv and LOTR1d2.mkv
-    Drag Disc 1 into MkvToolNix by itself
-    <Add Color Corrected version if using it and disable the H.264 original video>
-    Go into the Output tab.
-    Change Split mode from Do not split to After frame/field numbers
-    Use frame# **151969 for disc 1** and frame# **48 for disc 2**.
-    The destination file can be LOTR1d1-clipped.mkv as an example.
-    When you click Start multiplexing, it will create two files - LOTR1d1-clipped-001.mkv and LOTR1d1-clipped-002.mkv
-    Repeat for Disc 2.
-    You'll see that for the first disc, -002 will be just a couple of seconds of black, while for the second disc, -001 will be just a couple of seconds of black.
-    Create a new Multiplexer, and drag LOTR1d1-clipped-001.mkv to the list. Right click that video, and do Append files and click LOTR1d2-clipped-002.mkv.
-    Make sure the Output section's Split Mode is set to "Do not split", you can rename in the Output sections' File Title
-    Click Start multiplexing and verify the output.
+* Rip each extended disk to its own MKV, for example, LOTR1d1.mkv and LOTR1d2.mkv
+* Drag Disc 1 into MkvToolNix by itself
+* <Add Color Corrected version if using it and disable the H.264 original video>
+* Go into the Output tab.
+* Change Split mode from Do not split to After frame/field numbers
+* Use frame# **151969 for disc 1** and frame# **48 for disc 2**.
+* The destination file can be LOTR1d1-clipped.mkv as an example.
+* When you click Start multiplexing, it will create two files - LOTR1d1-clipped-001.mkv and LOTR1d1-clipped-002.mkv
+* Repeat for Disc 2.
+* You'll see that for the first disc, -002 will be just a couple of seconds of black, while for the second disc, -001 will be just a couple of seconds of black.
+* Create a new Multiplexer, and drag LOTR1d1-clipped-001.mkv to the list. Right click that video, and do Append files and click LOTR1d2-clipped-002.mkv.
+* Make sure the Output section's Split Mode is set to "Do not split", you can rename in the Output sections' File Title
+* Click Start multiplexing and verify the output.
 
 <sup><sub> *I tried several times to make it a one shot go type deal but the audio was off. Some track must be longer and pushes the audio alignment off or something?? Following is the frame number science* </sub></sup>
 
