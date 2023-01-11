@@ -25,7 +25,7 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 #### Color Correct
 This is needed since the colors in FOTR are abs bjorked.
 
-* Your qpfiles (`D1-pause.txt` & `D2-pause.txt`) must be `151967 K` for `D1-pause.txt` and `47 K` for `D2-pause.txt`. Do not use frames listed in the guide, they cut off a few frames.
+* Your qpfiles (`D1-pause.txt` & `D2-pause.txt`) must be `151968 K` for `D1-pause.txt` and `47 K` for `D2-pause.txt`. Do not use frames listed in the guide, they cut off a few frames.
 * Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
 * *Note that you should use https://github.com/AviSynth/AviSynthPlus instead of the old AviSynth since it's modern (should be faster) but also completely compatible for this.*
 * *Note that if you want to encode with H.265 10-bit (small file size, good quality, 10-bit reduces banding): choose x265, set it to Constant Quality 18, Preset Slow, and add these custom options (2nd tab at top of window): `--profile main10 --no-strong-intra-smoothing --no-rect --aq-mode 1 --qpfile "C:\path\to\D1-pause.txt"` (change `D1-pause.txt` to `D2-pause.txt` for disc 2)*
