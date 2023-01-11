@@ -22,7 +22,6 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 *Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
 
 ### Color Correction & Combine
-**If you color correct and encode to H.265 10-bit you need to manually trim (`After frame/field numbers` 151969 (d1) and 48 (d2)) then merge with ffmpeg https://trac.ffmpeg.org/wiki/Concatenate, MKVToolNix makes the 2nd part jittery otherwise.**
 #### Color Correct
 This is needed since the colors in FOTR are abs bjorked.
 
@@ -34,7 +33,7 @@ This is needed since the colors in FOTR are abs bjorked.
 * *Note that if you get a `DirectShowSource` **error** when trying to use the `.avs` file with MeGUI, go download and install LAV Filters from https://forum.doom9.org/showthread.php?t=156191 OR find "MatroskaSplitter" and install it. I guess it's a codec thing?*
 
 #### Combine
-You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers". **If you color correct and encode to H.265 10-bit you need to manually trim (`After frame/field numbers` 151969 (d1) and 48 (d2)) then merge with ffmpeg https://trac.ffmpeg.org/wiki/Concatenate, MKVToolNix makes the 2nd part jittery otherwise.**
+You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers".
 
 Put in the box:
 ```
