@@ -22,29 +22,31 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 *Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
 
 ### Color Correction & Combine
+**If you color correct and encode to H.265 10-bit you need to manually trim (`After frame/field numbers` 151969 (d1) and 48 (d2)) then merge with ffmpeg https://trac.ffmpeg.org/wiki/Concatenate, MKVToolNix makes the 2nd part jittery otherwise.**
 #### Color Correct
 This is needed since the colors in FOTR are abs bjorked.
 
-* Your qpfiles (`D1-pause.txt` & `D2-pause.txt`) must be `151968 K` for `D1-pause.txt` and `47 K` for `D2-pause.txt`. Do not use frames listed in the guide, they cut off a few frames.
 * Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
 * *Note that you should use https://github.com/AviSynth/AviSynthPlus instead of the old AviSynth since it's modern (should be faster) but also completely compatible for this.*
 * *Note that if you want to encode with H.265 10-bit (small file size, good quality, 10-bit reduces banding): choose x265, set it to Constant Quality 18, Preset Slow, and add these custom options (2nd tab at top of window): `--profile main10 --no-strong-intra-smoothing --no-rect --aq-mode 1 --qpfile "C:\path\to\D1-pause.txt"` (change `D1-pause.txt` to `D2-pause.txt` for disc 2)*
 * *Note that if you get a `DirectShowSource` **error** when trying to use the `.avs` file with MeGUI, go download and install LAV Filters from https://forum.doom9.org/showthread.php?t=156191 OR find "MatroskaSplitter" and install it. I guess it's a codec thing?*
 
 #### Combine
-You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers". Put in the box:
-```
--151968,+152137-
-```
-(based on 152090 total frames in Disc 1 plus 47)
+You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers". **If you color correct and encode to H.265 10-bit you need to manually trim (`After frame/field numbers` 151969 (d1) and 48 (d2)) then merge with ffmpeg https://trac.ffmpeg.org/wiki/Concatenate, MKVToolNix makes the 2nd part jittery otherwise.**
 
-Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for FOTR
+Put in the box:
+```
+-151968,+152138-
+```
+*1st number goes up to last movie frame (151968) and splits at 151969 (which is set as the key frame). 2nd number is based on 152090 total frames in Disc 1 plus 48, so it splits at 1st movie frame and goes from there.*
+
+Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for FOTR *note they are unaware that MPC-HC counts the 1st frame as 0 (counting from 0) but MKVToolNix's frame splits follow x265 convention where the 1st frame is 1, so the numbers are 1 too low*
 ```
 Fellowship of the Ring:
-Disc 1 - 151968
-Disc 2 - 47
+Disc 1 - 151969
+Disc 2 - 48
 ```
-*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
+*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense. Additionally, for 151967 (last movie frame) and 151968 (first black frame) - you want a keyframe at 151968 (first black frame) so you can split between 1-151967 (inclusive) and 151968-end*
 
 
 
