@@ -34,7 +34,7 @@ This is needed since the colors in FOTR are abs bjorked.
 #### Combine
 You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers". Put in the box:
 ```
--151967,+152137-
+-151968,+152137-
 ```
 (based on 152090 total frames in Disc 1 plus 47)
 
