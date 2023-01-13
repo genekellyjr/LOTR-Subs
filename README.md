@@ -16,7 +16,7 @@
 
 If you notice anything missing a translation, note the movie, time, and disc# or combined and open an issue or find an issue for it already. Hopefully I can find someone translating it (since I am but a laylad) or be graced with someone who can translate it.
 
-## FOTR Extended
+## FOTR Extended Combine Discs 1 & 2 Instructions
 **For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). If using combined they must follow the frame combining times below or else things will be off. The combined runtime is 3:48:10.744, 328250 frames, no gap between disc1/2 transition**
 
 *Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
@@ -68,7 +68,7 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 <sup><sub> *1st number goes up to last movie frame (151968) and splits at 151969 (first black frame which is set as the key frame). 2nd number is based on 152090 total frames in Disc 1 plus 48, so it starts a split at 1st movie frame in d2 (48) and goes from there. Identify frames in MPC-HC via CTRL+G, note it counts from 1st frame 0 while MKVToolNix counts from 1st frame 1, so you need to add 1 to whatever you find.* </sub></sup>
   
-## TTT Extended
+## TTT Extended Combine Discs 1 & 2 Instructions
 **For: Combined TTT Extended Edition ripped from USA blu-ray discs (set w/ embedded Sindarin text occasionally), 3:55:24 runtime combined**
 Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD.
 
@@ -110,7 +110,7 @@ Line height: 72
 ```
 Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 
-## ROTK Extended
+## ROTK Extended Combine Discs 1 & 2 Instructions
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for ROTK
 ```
 Return of the King
@@ -120,7 +120,7 @@ Disc 2 - 48
 *Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
 
-## Process to do yourself
+## Process to translate yourself
 * MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip. (I open a CMD window in the MKVToolNix folder and work from there, type `cmd` in Explorer address bar when in the MKVToolNix folder to open a CMD window in said folder)
 ```
 mkvmerge -i "C:\path\to\LORT FOTR_d1.mkv"
