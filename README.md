@@ -32,7 +32,8 @@ This is needed since the colors in FOTR are abs bjorked.
 * *Note that if you want to encode with H.265 10-bit (small file size, good quality, 10-bit reduces banding): choose x265, set it to Constant Quality 18, Preset Slow, and add these custom options (2nd tab at top of window): for d1 `--profile main10 --no-strong-intra-smoothing --no-rect --aq-mode 1 --qpfile "C:\path\to\D1-pause.txt"` and for d2 `--profile main10 --no-strong-intra-smoothing --no-rect --aq-mode 1 --no-open-gop --qpfile "C:\path\to\D2-pause.txt"` (note they are different!)*
 * *Note that for combining following the guide in combo with if you ?keep the commentary tracks? the audio is off by 1 second on the disc 2 stuff. You need to make cut versions of Disc 1 and 2 then append them together, detailed in the Combine section just a bit down. If just the movie audio you are probably OK to do it all in 1 shot per the link above.*
 
-*Shout out to Pascal @ https://gitlab.com/mbunkus/mkvtoolnix/-/issues/2990 for noting the issue was default open GOP (whatver that is). It's no problem for disc 1 b/c it counts from the start of the file, but disc 2 gets cut and references non-existant earlier stuff and goes bad, so --no-open-gop it is for disc 2!*
+<sup><sub>Shout out to Pascal @ https://gitlab.com/mbunkus/mkvtoolnix/-/issues/2990 for noting the issue was default open GOP (whatver that is). It's no problem for disc 1 b/c it counts from the start of the file, but disc 2 gets cut and references non-existant earlier stuff and goes bad, so --no-open-gop it is for disc 2!</sup></sub>
+
 * *Note that if you get a `DirectShowSource` **error** when trying to use the `.avs` file with MeGUI, go download and install LAV Filters from https://forum.doom9.org/showthread.php?t=156191 OR find "MatroskaSplitter" and install it. I guess it's a codec thing?*
 
 #### Combine
