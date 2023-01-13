@@ -38,6 +38,8 @@ This is needed since the colors in FOTR are abs bjorked.
 
 #### Combine
 
+*The multi-step way below will not have any timing issues, but it is more steps than the 1-shot. Esp. use if you're keeping the commentary tracks.*
+
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *Note their frame #s are off because they missed that MPC-HC counts from 0 as 1st frame while MKVToolNix counts from 1 as 1st frame and that MKVToolNix's ranges are inclusive, so they're off by 2 frames but otherwise right.*
 
 * Rip each extended disk to its own MKV, for example, LOTR1d1.mkv and LOTR1d2.mkv
@@ -54,13 +56,15 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 * Make sure the Output section's Split Mode is set to "Do not split", you can rename in the Output sections' File Title
 * Click Start multiplexing and verify the output.
 
-<sup><sub> *I tried several times to make it a one shot go type deal but the audio was off. Some track must be longer and pushes the audio alignment off or something?? Following is the frame number science* </sub></sup>
+*This is the 1-shot way, it will fail if you have commentary tracks since I guess one of them is a bit long so the audio gets offset or something.*
 
-<sup><sub> You need to combine in MKVToolNix and in the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers". </sub></sup>
+* In MKVToolNix "Add as new source files..." the disc 1 movie, the d1 color corrected mkv (if using it, and disable movie's x264 version), and either the d1 translated subs (can add them later tho via the combined) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie, the d2 color corrected to the d1 color corrected, and the d2 subs to the d1 subs.
 
-<sup><sub> Put in the box: </sub></sup>
+* In MKVToolNix go to the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers".
 
-<sup><sub> `-151968,+152138-` </sub></sup>
+* Put in the box: `-151968,+152138-`
+
+* Click "Start multiplexing"
 
 <sup><sub> *1st number goes up to last movie frame (151968) and splits at 151969 (first black frame which is set as the key frame). 2nd number is based on 152090 total frames in Disc 1 plus 48, so it starts a split at 1st movie frame in d2 (48) and goes from there. Identify frames in MPC-HC via CTRL+G, note it counts from 1st frame 0 while MKVToolNix counts from 1st frame 1, so you need to add 1 to whatever you find.* </sub></sup>
   
