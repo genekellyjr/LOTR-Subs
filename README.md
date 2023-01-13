@@ -68,8 +68,8 @@ Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for TTT
 ```
 Two Towers
-Disc 1 - 153305
-Disc 2 - 47
+Disc 1 - 153307
+Disc 2 - 48
 ```
 *Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
@@ -107,8 +107,8 @@ Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for ROTK
 ```
 Return of the King
-Disc 1 - 183540
-Disc 2 - 47
+Disc 1 - 183542
+Disc 2 - 48
 ```
 *Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
 
