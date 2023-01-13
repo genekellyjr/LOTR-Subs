@@ -12,12 +12,15 @@
 
 * Use MKVToolNix to "Add as new source files..." the .SUP (or .SRT) files, set your subtitle options as needed (default, forced for transNonEnglish), optionally delete the original subtitles (trans subs include all original subtitles with added Elvish/other languages), change save name at bottom, and hit the "Start multiplexing" button.
 
+### FOTR Extended Specs
+* 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). 
+* If using combined they must follow the FOTR combining instructions or else things will be off. The combined runtime is 3:48:10.744, 328250 frames, no gap between disc1/2 transition.
+
 ## Help translate anything missing!
 
 If you notice anything missing a translation, note the movie, time, and disc# or combined and open an issue or find an issue for it already. Hopefully I can find someone translating it (since I am but a laylad) or be graced with someone who can translate it.
 
 ## FOTR Extended Combine Discs 1 & 2 Instructions
-**For: 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). If using combined they must follow the frame combining times below or else things will be off. The combined runtime is 3:48:10.744, 328250 frames, no gap between disc1/2 transition**
 
 *Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
 
