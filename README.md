@@ -41,7 +41,9 @@ This is needed since the colors in FOTR are abs bjorked.
 
 #### Combine
 
-*The multi-step way below will not have any timing issues, but it is more steps than the 1-shot. Esp. use if you're keeping the commentary tracks.*
+*If you did not re-encode with key frames 151969 for d1 and 48 for d2 included your timing may very well be off since you can only split at key frames (which are full frames that following frames use)*
+
+*The multi-step way below will not have any timing issues, but it is more steps than the 1-shot. Especially use if you're keeping the commentary tracks.*
 
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *Note their frame #s are off because they missed that MPC-HC counts from 0 as 1st frame while MKVToolNix counts from 1 as 1st frame and that MKVToolNix's ranges are inclusive, so they're off by 2 frames but otherwise right.*
 
