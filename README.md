@@ -41,7 +41,7 @@ This is needed since the colors in FOTR are abs bjorked.
 
 #### Combine
 
-*If you did not re-encode with key frames 151969 for d1 and 48 for d2 included your timing may very well be off since you can only split at key frames (which are full frames that following frames use)*
+<sup><sub>If you did not re-encode with key frames 151969 for d1 and 48 for d2 included your timing may very well be off since you can only split at key frames (which are full frames that following frames use)</sup></sub>
 
 *The multi-step way below will not have any timing issues, but it is more steps than the 1-shot. Especially use if you're keeping the commentary tracks.*
 
