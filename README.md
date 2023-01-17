@@ -79,10 +79,10 @@ Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `
 
 ```
 Two Towers
-Disc 1 - 153336
+Disc 1 - 153395
 Disc 2 - 24
 ```
-*153336 is based on the time that the music ends (01:46:35.353, according to a waveform of the audio), 24 is the first frame of movie*
+*153395 is based on the time that the music ends (01:46:37.814, according to a waveform of the audio via Audacity), 24 is the first frame of movie*
 
 ### Process:
 * MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip.
