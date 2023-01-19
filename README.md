@@ -82,7 +82,7 @@ Two Towers
 Disc 1 - 153368
 Disc 2 - 24
 ```
-*The music definitively ends on frame 153396 (1:46:37.814, according to a waveform of the audio via Audacity. plus 1 frame). (the first black frame is on frame 153307 but the music abruptly cuts then) The original 1080p encoding has key frames of 6394.179 (f#153306), 6395.014, 6395.848, **6396.682 (1:46:36.682, f#153368)**, 6397.516 (1:46:37.516, f#153387), 6398.350 (1:46:38.350). You can re-encode with a keyframe set at 153396 to get it just right, but the wait seems a bit egregious then. Cutting it at when I more or less can't hear it anymore (1:46:36.343, so closest keyframe after it) should let the scene end but also not be too long, which was the key frame 153368, 2.503 seconds after the first black frame.*
+*The music definitively ends on frame 153396 (1:46:37.814, according to a waveform of the audio via Audacity. plus 1 frame). (the first black frame is on frame 153307 but the music abruptly cuts then) The original 1080p encoding has key frames of 6394.179 (f#153307), 6395.014, 6395.848, **6396.682 (1:46:36.682, f#153368)**, 6397.516 (1:46:37.516, f#153387), 6398.350 (1:46:38.350). You can re-encode with a keyframe set at 153396 to get it just right, but the wait seems a bit egregious then. Cutting it at when I more or less can't hear it anymore (1:46:36.343, so closest keyframe after it) should let the scene end but also not be too long, which was the key frame 153368, 2.503 seconds after the first black frame.*
 
 ### Process:
 * MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip.
