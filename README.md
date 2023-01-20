@@ -16,6 +16,10 @@
 * 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). 
 * If using combined they must follow the FOTR combining instructions or else things will be off. The combined runtime is 3:48:10.744, 328250 frames, no gap between disc1/2 transition.
 
+### TTT Extended Specs
+* 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). 
+* If using combined they must follow the TTT combining instructions or else things will be off. The combined runtime is 3:55:26.923, 338708 frames, limited gap between disc1/2 transition (for the tunes).
+
 *Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
 
 ## Help translate anything missing!
@@ -74,45 +78,19 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 <sup><sub> *1st number goes up to last movie frame (151968) and splits at 151969 (first black frame which is set as the key frame). 2nd number is based on 152090 total frames in Disc 1 plus 48, so it starts a split at 1st movie frame in d2 (48) and goes from there. Identify frames in MPC-HC via CTRL+G, note it counts from 1st frame 0 while MKVToolNix counts from 1st frame 1, so you need to add 1 to whatever you find.* </sub></sup>
   
 ## TTT Extended Combine Discs 1 & 2 Instructions
-**For: Combined TTT Extended Edition ripped from USA blu-ray discs (set w/ embedded Sindarin text occasionally), 3:55:24 runtime combined**
-Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD.
 
-```
-Two Towers
-Disc 1 - 153368
-Disc 2 - 24
-```
-*The music definitively ends on frame 153396 (1:46:37.814, according to a waveform of the audio via Audacity. plus 1 frame). (the first black frame is on frame 153307 but the music abruptly cuts then) The original 1080p encoding has key frames of 6394.179 (f#153307), 6395.014, 6395.848, **6396.682 (1:46:36.682, f#153368)**, 6397.516 (1:46:37.516, f#153387), 6398.350 (1:46:38.350). You can re-encode with a keyframe set at 153396 to get it just right, but the wait seems a bit egregious then. Cutting it at when I more or less can't hear it anymore (1:46:36.343, so closest keyframe after it) should let the scene end but also not be too long, which was the key frame 153368, 2.503 seconds after the first black frame.*
+* In MKVToolNix "Add as new source files..." the disc 1 movie and either the d1 translated subs (can add them later tho via the combined) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie and the d2 subs to the d1 subs (if not adding in the combined subs later).
 
-### Process:
-* MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip.
-```
-mkvmerge -i "The Lord of the Rings 2 The Two Towers - Extended Edition.mkv"
+* In MKVToolNix go to the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers".
 
->identify subtitle ID #
+* Put in the box: `-153368,+153450-`
 
-mkvextract "The Lord of the Rings 2 The Two Towers - Extended Edition.mkv" tracks #:extracted.sup
-```
-* Subtitle Edit's Tesseract 5 OCR to convert to SRT with correct timings. Edit each line manually, most I's are |'s, misses most accent marks. Better than bianary.
-* Save SRT as original. Save as SRT as translated for edits.
-* Load in the movie to Subtitle Edit, use TTT subs from https://subscene.com/u/1418112 (thx to the user Dietrich!) as a guide for general times Sindarin/Rohirric happen (timings aren't quite right).
-* Add them all in painfully. Pre-embedded subs require Sindarin to be on 1 line only.
-* Use http://www.arwen-undomiel.com/elvish/ttt.html to check translation quality, catch few missing Sindarin lines at the battle for Helm's Deep.
-* Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...` (but not the very first `GANDALF: <i>You cannot pass!...` for ?reasons?).
-* Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
+* Click "Start multiplexing"
 
-```
-Font Family: Arial
-Font Size: 66
-Video res: 1080p
-Align: Center, left justify dialog
-Bottom margin: 2%
-Border style: Normal, width=3
-Frame rate: 23.976
-Shadow width: 0
-Line height: 72
-```
-Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs!
+*Note that I got a warning about indexes being bad or something from MKVToolNix but everything seems fine. I got the warning for doing it in the 1 shot method and appending the seperately split files (split d1 at 153368, split d2 at 24, then append without any splitting), so seems no way to avoid but no problem either.*
+
+<sup><sub> *The music definitively ends on frame 153396 (1:46:37.814, according to a waveform of the audio via Audacity. plus 1 frame). (the first black frame is on frame 153307 but the music abruptly cuts then) The original 1080p encoding has key frames of 6394.179 (f#153307), 6395.014, 6395.848, **6396.682 (1:46:36.682, f#153368)**, 6397.516 (1:46:37.516, f#153387), 6398.350 (1:46:38.350). You can re-encode with a keyframe set at 153396 to get it just right, but the wait seems a bit egregious then. Cutting it at when I more or less can't hear it anymore (1:46:36.343, so closest keyframe after it) should let the scene end but also not be too long, which was the key frame 153368, 2.503 seconds after the first black frame. With the cut at 153368 established, and d2 has 24 frames over black, d1 has 153426 total frames so after appending both together you get up to 153368 and then 153450 (153426+24) to the end.* </sub></sup>
+
 
 ## ROTK Extended Combine Discs 1 & 2 Instructions
 Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for ROTK
