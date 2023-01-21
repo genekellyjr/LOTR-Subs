@@ -67,7 +67,7 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 *This is the 1-shot way, it will fail if you have commentary tracks since I guess one of them is a bit long so the audio gets offset or something.*
 
-* In MKVToolNix "Add as new source files..." the disc 1 movie, the d1 color corrected mkv (if using it, and disable movie's x264 version), and either the d1 translated subs (can add them later tho via the combined) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie, the d2 color corrected to the d1 color corrected, and the d2 subs to the d1 subs.
+* In MKVToolNix "Add as new source files..." the disc 1 movie, the d1 color corrected mkv (if using it, and disable movie's x264 version), and either the d1 translated subs (can add them after combining tho via the combined subs) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie, the d2 color corrected to the d1 color corrected, and the d2 subs to the d1 subs.
 
 * In MKVToolNix go to the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers".
 
@@ -79,7 +79,7 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
   
 ## TTT Extended Combine Discs 1 & 2 Instructions
 
-* In MKVToolNix "Add as new source files..." the disc 1 movie and either the d1 translated subs (can add them later tho via the combined) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie and the d2 subs to the d1 subs (if not adding in the combined subs later).
+* In MKVToolNix "Add as new source files..." the disc 1 movie and either the d1 translated subs (can add them after combining tho via the combined subs) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie and the d2 subs to the d1 subs (if not adding in the combined subs later).
 
 * In MKVToolNix go to the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers".
 
@@ -94,12 +94,17 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 ## ROTK Extended Combine Discs 1 & 2 Instructions
 
-```
-Return of the King
-Disc 1 - 183583
-Disc 2 - 183686 (total frames d1 183662+24)
-```
-<sup><sub> *ROTK has a similar setup to TTT at the end of d1 with the music drifting off. It becomes mostly unhearable at 2:07:36.364 (f#183570). Frame 183542 is the first black frame. The key frames are 2:7:35.231 f#183542, 2:7:36.065 f#183563, 2:7:36.899, f#183583, 2:7:37.733, 2:7:38.568, 2:7:39.402. Again, the hard cut at 183542 feels wrong (music just cuts), so closest at **f#183583** is used.* </sub></sup>
+* In MKVToolNix "Add as new source files..." the disc 1 movie and either the d1 translated subs (can add them after combining tho via the combined subs) or directly go for the combined (do not append d2 trans subs to that). Then "Append" (right click thing you want to append to, choose Append) the d2 movie to the d1 movie and the d2 subs to the d1 subs (if not adding in the combined subs later).
+
+* In MKVToolNix go to the Output tab's Splitting section set the Split Mode to "By parts based on frame/field numbers".
+
+* Put in the box: `-183583,+183686-`
+
+* Click "Start multiplexing"
+
+*Note that I got a warning about indexes being bad or something from MKVToolNix but everything seems fine. I got the warning for doing it in the 1 shot method and appending the seperately split files (split d1 at 153368, split d2 at 24, then append without any splitting), so seems no way to avoid but no problem either.*
+
+<sup><sub> *ROTK has a similar setup to TTT at the end of d1 with the music drifting off. It becomes mostly unhearable at 2:07:36.364 (f#183570). Frame 183542 is the first black frame. The key frames are 2:7:35.231 f#183542, 2:7:36.065 f#183563, 2:7:36.899, f#183583, 2:7:37.733, 2:7:38.568, 2:7:39.402. Again, the hard cut at 183542 feels wrong (music just cuts), so closest at **f#183583** is used. With the cut at 183583 established, and d2 has 24 frames over black, d1 has 183662 total frames so after appending both together you get up to 183583 and then 183686 (183662+24) to the end.* </sub></sup>
 
 
 ## Process to translate yourself
