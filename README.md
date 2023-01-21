@@ -20,6 +20,10 @@
 * 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). 
 * If using combined they must follow the TTT combining instructions or else things will be off. The combined runtime is 3:55:26.923, 338708 frames, limited gap between disc1/2 transition (for the tunes).
 
+### ROTK Extended Specs
+* 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). 
+* If using combined they must follow the ROTK combining instructions or else things will be off. The combined runtime is 4:23:11.335, 378614 frames, limited gap between disc1/2 transition (for the tunes).
+
 *Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
 
 ## Help translate anything missing!
