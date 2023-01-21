@@ -93,13 +93,13 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 
 ## ROTK Extended Combine Discs 1 & 2 Instructions
-Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657 for ROTK
+
 ```
 Return of the King
-Disc 1 - 183542
-Disc 2 - 48
+Disc 1 - 183583
+Disc 2 - 183686 (total frames d1 183662+24)
 ```
-*Note that I disagreed with 46, which is the last black frame. The ranges are inclusive per https://mkvtoolnix.download/doc/mkvmerge.html so keeping 1 black frame didn't make sense - may change if key frame is at 46 or something*
+<sup><sub> *ROTK has a similar setup to TTT at the end of d1 with the music drifting off. It becomes mostly unhearable at 2:07:36.364 (f#183570). Frame 183542 is the first black frame. The key frames are 2:7:35.231 f#183542, 2:7:36.065 f#183563, 2:7:36.899, f#183583, 2:7:37.733, 2:7:38.568, 2:7:39.402. Again, the hard cut at 183542 feels wrong (music just cuts), so closest at **f#183583** is used.* </sub></sup>
 
 
 ## Process to translate yourself
