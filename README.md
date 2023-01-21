@@ -30,8 +30,7 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 
 *Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
 
-### Color Correction & Combine
-#### Color Correct
+### Color Correct
 This is needed since the colors in FOTR are abs bjorked.
 
 * Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
@@ -43,9 +42,9 @@ This is needed since the colors in FOTR are abs bjorked.
 
 * *Note that if you get a `DirectShowSource` **error** when trying to use the `.avs` file with MeGUI, go download and install LAV Filters from https://forum.doom9.org/showthread.php?t=156191 OR find "MatroskaSplitter" and install it. I guess it's a codec thing?*
 
-#### Combine
+### Combine
 
-<sup><sub>If you did not re-encode with key frames 151969 for d1 and 48 for d2 included your timing may very well be off since you can only split at key frames (which are full frames that other frames use to reconstitute themselves)</sup></sub>
+<sup><sub>Do not worry if you did not re-encode with key frames 151969 for d1 and 48 for d2, they are key frames in the original x264 encoding because they're the first black frame/first non-black frame so the encoder put key frames there automatically. Splitting will work great!</sup></sub>
 
 *The multi-step way below will not have any timing issues, but it is more steps than the 1-shot. Especially use if you're keeping the commentary tracks.*
 
