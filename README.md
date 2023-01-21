@@ -35,7 +35,7 @@ If you notice anything missing a translation, note the movie, time, and disc# or
 *Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
 
 ### Color Correct
-This is needed since the colors in FOTR are abs bjorked.
+This is needed since the colors in FOTR are abs bjorked. (Do not color correct 4k FOTR, I hear its colors are just fine!)
 
 * Follow the guide https://www.howtogeek.com/238725/how-to-fix-the-green-tint-in-the-lord-of-the-rings-fellowship-of-the-ring-extended-edition-blu-ray/ there, use the Web Archive to access any files you can't get.
 * *Note that you should use https://github.com/AviSynth/AviSynthPlus instead of the old AviSynth since it's modern (should be faster) but also completely compatible for this.*
