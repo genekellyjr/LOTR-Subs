@@ -102,7 +102,7 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 * Click "Start multiplexing"
 
-*Note that I got a warning about indexes being bad or something from MKVToolNix but everything seems fine. I got the warning for doing it in the 1 shot method and appending the seperately split files (split d1 at 153368, split d2 at 24, then append without any splitting), so seems no way to avoid but no problem either.*
+*Note that I got a warning about indexes being bad or something from MKVToolNix but everything seems fine. I got the warning for doing it in the 1 shot method and appending the seperately split files (split d1 at 183583, split d2 at 24, then append without any splitting), so seems no way to avoid but no problem either.*
 
 <sup><sub> *ROTK has a similar setup to TTT at the end of d1 with the music drifting off. It becomes mostly unhearable at 2:07:36.364 (f#183570). Frame 183542 is the first black frame. The key frames are 2:7:35.231 f#183542, 2:7:36.065 f#183563, 2:7:36.899, f#183583, 2:7:37.733, 2:7:38.568, 2:7:39.402. Again, the hard cut at 183542 feels wrong (music just cuts), so closest at **f#183583** is used. With the cut at 183583 established, and d2 has 24 frames over black, d1 has 183662 total frames so after appending both together you get up to 183583 and then 183686 (183662+24) to the end. Identify frames in MPC-HC via CTRL+G, note it counts from 1st frame 0 while MKVToolNix counts from 1st frame 1, so you need to add 1 to whatever you find.* </sub></sup>
 
