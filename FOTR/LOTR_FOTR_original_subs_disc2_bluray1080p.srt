@@ -2974,7 +2974,7 @@ FRODO:
 
 680
 01:29:34,703 --> 01:29:37,455
-GANDALF: <i>So do all who live
+GANDALF: <i> So do all who live
 to see such times...</i>
 
 681

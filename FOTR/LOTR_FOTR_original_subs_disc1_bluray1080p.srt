@@ -236,7 +236,7 @@ My precious.
 
 55
 00:06:01,695 --> 00:06:04,239
-FEMALE VOICE: <i>The Ring came
+FEMALE VOICE: <i> The Ring came
 to the creature Gollum...</i>
 
 56
@@ -263,7 +263,7 @@ My precious.
 
 61
 00:06:26,970 --> 00:06:30,390
-FEMALE VOICE: <i>The Ring brought
+FEMALE VOICE: <i> The Ring brought
 to Gollum unnatural long life.</i>
 
 62
@@ -2119,7 +2119,7 @@ But the enemy found him first.
 
 481
 00:40:09,699 --> 00:40:12,201
-GANDALF: <i>I don't know how long
+GANDALF: <i> I don't know how long
 they tortured him.</i>
 
 482
@@ -2504,7 +2504,7 @@ Me neither, Sam.
 
 567
 00:47:00,568 --> 00:47:03,612
-MALE VOICE: <i>Smoke rises
+MALE VOICE: <i> Smoke rises
 from the Mountain of Doom.</i>
 
 568
@@ -3485,7 +3485,7 @@ Get some sleep, Frodo.
 
 788
 01:08:56,633 --> 01:09:00,720
-SARUMAN: <i>The power of Isengard
+SARUMAN: <i> The power of Isengard
 is at your command...</i>
 
 789
@@ -4159,7 +4159,7 @@ Gandalf...
 
 939
 01:31:12,550 --> 01:31:15,720
-ELROND: <i>This peril belongs
+ELROND: <i> This peril belongs
 to all Middle-earth.</i>
 
 940
@@ -4228,7 +4228,7 @@ Isildur, hurry! Follow me.
 
 954
 01:32:17,282 --> 01:32:20,910
-ELROND: <i>I led Isildur into the heart
+ELROND: <i> I led Isildur into the heart
 of Mount Doom...</i>
 
 955
@@ -4256,7 +4256,7 @@ Isildur!
 
 960
 01:32:40,388 --> 01:32:45,143
-ELROND: <i>It should have ended that day,
+ELROND: <i> It should have ended that day,
 but evil was allowed to endure.</i>
 
 961

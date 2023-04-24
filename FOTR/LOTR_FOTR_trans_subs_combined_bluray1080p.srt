@@ -5444,7 +5444,7 @@ No!
 
 1222
 01:55:40,550 --> 01:55:46,826
-SARUMAN [CHANTS IN QUENYA]: <i>Wake up cruel Redhorn!
+SARUMAN [CHANTS IN QUENYA]: <i> Wake up cruel Redhorn!
 (Cuiva nwalca Carnirassë!)</i>
 
 1223
@@ -8039,7 +8039,7 @@ SPEAKS IN BLACK SPEECH]
 
 1809
 03:02:37,041 --> 03:02:41,028
-VOICE OF THE RING: <i>They will fall.
+VOICE OF THE RING: <i> They will fall.
 (A'ghi gûr'ruzh.)</i>
 
 1810
@@ -8324,7 +8324,7 @@ FRODO:
 
 1875
 03:15:11,101 --> 03:15:13,853
-GANDALF: <i>So do all who live
+GANDALF: <i> So do all who live
 to see such times...</i>
 
 1876
@@ -8480,5 +8480,5 @@ Sam...
 
 1911
 03:48:06,074 --> 03:48:08,076
-[English - US - SDH - v1.2]
+[English & Sindarin & Quenya - US - SDH - v1.3]
 

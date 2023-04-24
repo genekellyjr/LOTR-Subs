@@ -314,7 +314,7 @@ ELROND [IN SINDARIN]: (Anirne hene beriad i chên lîn...)
 
 68
 01:55:40,550 --> 01:55:46,826
-SARUMAN [CHANTS IN QUENYA]: <i>Wake up cruel Redhorn!
+SARUMAN [CHANTS IN QUENYA]: <i> Wake up cruel Redhorn!
 (Cuiva nwalca Carnirassë!)</i>
 
 69
@@ -589,10 +589,10 @@ But...
 
 127
 03:02:37,041 --> 03:02:41,028
-VOICE OF THE RING: <i>They will fall.
+VOICE OF THE RING: <i> They will fall.
 (A'ghi gûr'ruzh.)</i>
 
 128
 03:48:06,074 --> 03:48:08,076
-[v1.2]
+[v1.3]
 
