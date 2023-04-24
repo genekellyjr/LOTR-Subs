@@ -1,0 +1,4962 @@
+﻿1
+00:01:16,743 --> 00:01:20,497
+GANDALF: <i>You cannot pass!</i>
+ FRODO: <i>Gandalf!</i>
+
+2
+00:01:25,335 --> 00:01:30,674
+GANDALF: <i> I am a servant of the Secret
+Fire, wielder of the flame of Anor.</i>
+
+3
+00:01:38,640 --> 00:01:41,393
+<i>Go back to the Shadow.</i>
+
+4
+00:01:42,311 --> 00:01:46,106
+<i>The dark fire will not avail you,
+flame of Udûn!</i>
+
+5
+00:01:49,943 --> 00:01:54,531
+You shall not pass!
+
+6
+00:02:00,454 --> 00:02:02,039
+[ROARING]
+
+7
+00:02:16,219 --> 00:02:18,055
+[GRUNTS]
+
+8
+00:02:21,642 --> 00:02:23,352
+BOROMIR:
+No! No!
+
+9
+00:02:23,560 --> 00:02:25,562
+Gandalf!
+
+10
+00:02:33,070 --> 00:02:34,821
+Fly, you fools.
+
+11
+00:02:35,447 --> 00:02:37,324
+No!
+
+12
+00:02:39,284 --> 00:02:41,370
+Gandalf!
+
+13
+00:02:57,469 --> 00:03:01,598
+[ROARING AND YELLING]
+
+14
+00:03:50,021 --> 00:03:51,857
+Gandalf!
+
+15
+00:03:52,858 --> 00:03:55,152
+What is it, Mr. Frodo?
+
+16
+00:03:57,028 --> 00:03:58,780
+Nothing.
+
+17
+00:04:06,079 --> 00:04:08,165
+Just a dream.
+
+18
+00:04:21,303 --> 00:04:22,512
+Can you see the bottom?
+
+19
+00:04:23,805 --> 00:04:26,933
+No! Don't look down, Sam!
+Just keep going!
+
+20
+00:04:33,690 --> 00:04:35,776
+[GRUNTS]
+
+21
+00:04:37,736 --> 00:04:39,905
+Catch it! Grab it, Mr. Frodo!
+
+22
+00:04:41,531 --> 00:04:42,783
+[YELLS]
+
+23
+00:04:42,991 --> 00:04:44,951
+Mr. Frodo!
+
+24
+00:04:47,537 --> 00:04:49,289
+I think I've found the bottom.
+
+25
+00:04:54,711 --> 00:04:57,672
+SAM: Bogs and rope,
+and goodness knows what.
+
+26
+00:04:57,839 --> 00:05:01,092
+It's not natural. None of it.
+
+27
+00:05:04,262 --> 00:05:06,348
+-What's in this?
+-Nothing.
+
+28
+00:05:07,724 --> 00:05:08,767
+Just a bit of seasoning.
+
+29
+00:05:09,351 --> 00:05:12,145
+I thought maybe if we was having
+a roast chicken one night or something.
+
+30
+00:05:12,729 --> 00:05:14,898
+Roast chicken?!
+
+31
+00:05:15,524 --> 00:05:16,775
+You never know.
+
+32
+00:05:17,234 --> 00:05:20,237
+Sam. My dear Sam.
+
+33
+00:05:21,863 --> 00:05:25,826
+It's very special, that.
+It's the best salt in all the Shire.
+
+34
+00:05:27,077 --> 00:05:29,079
+It is special.
+
+35
+00:05:32,958 --> 00:05:34,876
+It's a little bit of home.
+
+36
+00:05:38,171 --> 00:05:40,590
+We can't leave this here for someone
+to follow us down.
+
+37
+00:05:41,049 --> 00:05:44,553
+Who's gonna follow us down here,
+Mr. Frodo?
+
+38
+00:05:45,387 --> 00:05:49,266
+It's a shame, really.
+Lady Galadriel gave me that.
+
+39
+00:05:49,891 --> 00:05:51,852
+Real Elvish rope.
+
+40
+00:05:52,769 --> 00:05:55,146
+Well, there's nothing for it.
+It's one of my knots.
+
+41
+00:05:55,313 --> 00:05:57,274
+Won't come free in a hurry.
+
+42
+00:06:06,283 --> 00:06:08,368
+Real Elvish rope.
+
+43
+00:06:22,465 --> 00:06:26,970
+Mordor. The one place in Middle-earth
+we don't want to see any closer.
+
+44
+00:06:27,137 --> 00:06:29,347
+And it's the one place
+we're trying to get to.
+
+45
+00:06:30,098 --> 00:06:31,850
+It's just where we can't get.
+
+46
+00:06:33,310 --> 00:06:36,313
+Let's face it, Mr. Frodo, we're lost.
+
+47
+00:06:38,607 --> 00:06:41,359
+I don't think Gandalf meant for us to
+come this way.
+
+48
+00:06:42,986 --> 00:06:46,323
+He didn't mean for a lot of things
+to happen, Sam...
+
+49
+00:06:47,115 --> 00:06:48,617
+...but they did.
+
+50
+00:06:55,332 --> 00:06:57,959
+[RUMBLING]
+
+51
+00:06:58,126 --> 00:07:00,503
+[GASPING]
+
+52
+00:07:01,671 --> 00:07:02,714
+Mr. Frodo?
+
+53
+00:07:06,635 --> 00:07:08,053
+It's the Ring, isn't it?
+
+54
+00:07:09,137 --> 00:07:11,640
+It's getting heavier.
+
+55
+00:07:24,235 --> 00:07:26,988
+-What food have we got left?
+-Let me see.
+
+56
+00:07:27,697 --> 00:07:29,783
+Oh, yes. Lovely.
+
+57
+00:07:29,950 --> 00:07:32,702
+Lembas bread. And look!
+
+58
+00:07:35,163 --> 00:07:37,415
+More lembas bread.
+
+59
+00:07:48,176 --> 00:07:50,136
+I don't usually hold with foreign food...
+
+60
+00:07:50,387 --> 00:07:53,306
+...but this Elvish stuff, it's not bad.
+
+61
+00:07:54,182 --> 00:07:57,686
+Nothing ever dampens your spirits,
+does it, Sam?
+
+62
+00:08:03,525 --> 00:08:05,819
+Those rain clouds might.
+
+63
+00:08:09,280 --> 00:08:11,741
+[THUNDER ROLLING]
+
+64
+00:08:40,061 --> 00:08:42,856
+SAM:
+This looks strangely familiar.
+
+65
+00:08:43,440 --> 00:08:45,942
+It's because we've been here before.
+
+66
+00:08:46,109 --> 00:08:48,695
+We're going in circles.
+
+67
+00:08:49,446 --> 00:08:51,281
+SAM:
+What is that horrid stink?
+
+68
+00:08:51,448 --> 00:08:53,658
+I warrant there's a nasty bog nearby.
+
+69
+00:08:53,825 --> 00:08:55,744
+-Can you smell it?
+-Yes.
+
+70
+00:08:57,787 --> 00:09:00,040
+I can smell it.
+
+71
+00:09:03,293 --> 00:09:05,754
+We're not alone.
+
+72
+00:09:19,392 --> 00:09:23,480
+The thieves. The thieves.
+
+73
+00:09:23,646 --> 00:09:27,609
+The filthy little thieves.
+
+74
+00:09:28,276 --> 00:09:30,445
+Where is it?
+
+75
+00:09:30,612 --> 00:09:33,323
+Where is it?
+
+76
+00:09:33,990 --> 00:09:37,243
+They stole it from us.
+
+77
+00:09:37,410 --> 00:09:41,623
+My precious.
+
+78
+00:09:42,499 --> 00:09:45,752
+Curse them, we hates them!
+
+79
+00:09:45,919 --> 00:09:50,006
+It's ours, it is, and we wants it!
+
+80
+00:09:50,381 --> 00:09:53,218
+[YELLING]
+
+81
+00:10:30,213 --> 00:10:32,549
+[SAM YELLS]
+
+82
+00:10:45,061 --> 00:10:46,855
+This is Sting.
+
+83
+00:10:47,063 --> 00:10:48,565
+You've seen it before...
+
+84
+00:10:48,731 --> 00:10:51,234
+...haven't you, Gollum?
+
+85
+00:10:55,280 --> 00:10:58,783
+Release him or I'll cut your throat.
+
+86
+00:11:00,910 --> 00:11:02,662
+[SIGHS]
+
+87
+00:11:04,789 --> 00:11:07,375
+[WHIMPERS]
+
+88
+00:11:10,295 --> 00:11:12,172
+[GOLLUM SCREAMING]
+
+89
+00:11:14,841 --> 00:11:16,634
+It burns!
+
+90
+00:11:16,801 --> 00:11:19,095
+It burns us!
+
+91
+00:11:20,597 --> 00:11:22,098
+It freezes!
+
+92
+00:11:23,850 --> 00:11:26,102
+Nasty Elves twisted it.
+
+93
+00:11:26,269 --> 00:11:28,938
+-Take it off us!
+-Quiet, you!
+
+94
+00:11:32,358 --> 00:11:36,613
+It's hopeless. Every Orc in Mordor's
+going to hear this racket.
+
+95
+00:11:36,779 --> 00:11:39,407
+-Let's just tie him up and leave him.
+-No!
+
+96
+00:11:39,657 --> 00:11:43,161
+That would kill us! Kill us!
+
+97
+00:11:43,328 --> 00:11:46,039
+It's no more than you deserve!
+
+98
+00:11:47,707 --> 00:11:49,751
+Maybe he does deserve to die.
+
+99
+00:11:52,128 --> 00:11:55,632
+But now that I see him, I do pity him.
+
+100
+00:11:59,052 --> 00:12:03,932
+We be nice to them
+if they be nice to us.
+
+101
+00:12:04,182 --> 00:12:06,935
+Take it off us.
+
+102
+00:12:10,063 --> 00:12:13,983
+We swears to do what you wants.
+
+103
+00:12:14,150 --> 00:12:16,152
+We swears.
+
+104
+00:12:16,402 --> 00:12:18,821
+There's no promise you can make
+that I can trust.
+
+105
+00:12:21,491 --> 00:12:23,284
+We swears...
+
+106
+00:12:23,493 --> 00:12:28,248
+...to serve the master
+of the precious.
+
+107
+00:12:29,874 --> 00:12:32,210
+We will swear on...
+
+108
+00:12:32,377 --> 00:12:34,337
+...on the precious.
+
+109
+00:12:34,504 --> 00:12:36,714
+Gollum. Gollum.
+
+110
+00:12:36,881 --> 00:12:41,010
+The Ring is treacherous.
+It will hold you to your word.
+
+111
+00:12:41,844 --> 00:12:43,179
+Yes...
+
+112
+00:12:43,763 --> 00:12:46,266
+...on the precious.
+
+113
+00:12:48,685 --> 00:12:51,062
+On the precious.
+
+114
+00:12:52,230 --> 00:12:53,731
+I don't believe you!
+
+115
+00:12:55,733 --> 00:12:59,237
+-Get down! I said, down!
+-Sam!
+
+116
+00:12:59,445 --> 00:13:01,155
+He's trying to trick us.
+
+117
+00:13:01,322 --> 00:13:04,367
+If we let him go, he'll throttle us
+in our sleep.
+
+118
+00:13:04,534 --> 00:13:07,036
+[WHEEZING]
+
+119
+00:13:15,795 --> 00:13:20,341
+-You know the way to Mordor?
+-Yes.
+
+120
+00:13:23,261 --> 00:13:25,013
+You've been there before?
+
+121
+00:13:26,014 --> 00:13:27,598
+Yes.
+
+122
+00:13:38,484 --> 00:13:41,112
+You will lead us to the Black Gate.
+
+123
+00:13:49,746 --> 00:13:53,541
+SMÉAGOL: To the Gate, to the Gate!
+To the Gate, the master says. Yes!
+
+124
+00:13:53,750 --> 00:13:58,546
+GOLLUM: No! We won't go back.
+Not there. Not to him.
+
+125
+00:13:58,755 --> 00:14:03,009
+They can't make us. Gollum! Gollum!
+
+126
+00:14:03,176 --> 00:14:06,637
+But we swore to serve the master
+of the precious.
+
+127
+00:14:06,804 --> 00:14:12,769
+No. Ashes and dust and thirst there is,
+and pits, pits, pits.
+
+128
+00:14:12,935 --> 00:14:15,813
+And Orcses, thousands of Orcses.
+
+129
+00:14:15,980 --> 00:14:21,110
+And always the Great Eye watching,
+watching.
+
+130
+00:14:24,072 --> 00:14:27,909
+Hey! Come back now! Come back!
+
+131
+00:14:30,286 --> 00:14:32,538
+There! What did I tell you?
+
+132
+00:14:32,705 --> 00:14:34,916
+He's run off, the old villain.
+
+133
+00:14:35,083 --> 00:14:37,627
+So much for his promises.
+
+134
+00:14:37,794 --> 00:14:39,420
+SMÉAGOL:
+This way, Hobbits.
+
+135
+00:14:39,629 --> 00:14:41,714
+Follow me!
+
+136
+00:14:55,520 --> 00:14:56,938
+PIPPIN:
+Merry!
+
+137
+00:14:57,897 --> 00:14:59,399
+Merry!
+
+138
+00:15:04,946 --> 00:15:08,741
+You're late.
+Our master grows impatient.
+
+139
+00:15:08,908 --> 00:15:10,743
+He wants the Shire-rats now.
+
+140
+00:15:11,577 --> 00:15:16,165
+I don't take orders from Orc-maggots.
+
+141
+00:15:17,208 --> 00:15:20,294
+Saruman will have his prize.
+
+142
+00:15:20,461 --> 00:15:23,631
+We will deliver them.
+
+143
+00:15:29,846 --> 00:15:31,222
+Merry!
+
+144
+00:15:31,973 --> 00:15:33,724
+Merry? Wake up.
+
+145
+00:15:37,186 --> 00:15:39,063
+My friend is sick.
+
+146
+00:15:39,480 --> 00:15:42,150
+He needs water. Please!
+
+147
+00:15:42,900 --> 00:15:46,863
+Sick, is he?
+Give him some medicine, boys!
+
+148
+00:15:47,029 --> 00:15:48,990
+[LAUGHING]
+
+149
+00:15:50,074 --> 00:15:51,742
+Stop it!
+
+150
+00:15:53,953 --> 00:15:56,581
+Can't take his draught!
+
+151
+00:15:59,250 --> 00:16:01,878
+-Leave him alone!
+-Why?
+
+152
+00:16:02,378 --> 00:16:05,298
+You want some? Huh?
+
+153
+00:16:05,506 --> 00:16:08,885
+Then keep your mouth shut.
+
+154
+00:16:12,305 --> 00:16:14,390
+Merry.
+
+155
+00:16:15,183 --> 00:16:16,726
+Hello, Pip.
+
+156
+00:16:18,519 --> 00:16:20,980
+-You're hurt.
+-I'm fine.
+
+157
+00:16:21,147 --> 00:16:23,691
+-It was just an act.
+-An act?
+
+158
+00:16:24,317 --> 00:16:27,195
+See? I fooled you too.
+
+159
+00:16:29,906 --> 00:16:31,616
+Don't worry about me, Pippin.
+
+160
+00:16:33,910 --> 00:16:35,912
+What is it? What do you smell?
+
+161
+00:16:36,913 --> 00:16:38,206
+Man-flesh.
+
+162
+00:16:40,333 --> 00:16:42,710
+They've picked up our trail.
+
+163
+00:16:43,794 --> 00:16:44,921
+Aragorn.
+
+164
+00:16:46,631 --> 00:16:48,466
+Let's move!
+
+165
+00:17:09,820 --> 00:17:11,906
+[RUMBLING]
+
+166
+00:17:12,073 --> 00:17:14,575
+Their pace has quickened.
+
+167
+00:17:15,576 --> 00:17:17,578
+They must have caught our scent.
+
+168
+00:17:17,745 --> 00:17:19,497
+Hurry!
+
+169
+00:17:23,125 --> 00:17:24,961
+Come on, Gimli!
+
+170
+00:17:28,714 --> 00:17:31,008
+Three days and nights pursuit.
+
+171
+00:17:31,175 --> 00:17:34,136
+No food. No rest.
+
+172
+00:17:34,303 --> 00:17:38,307
+And no sign of our quarry,
+but what bare rock can tell.
+
+173
+00:18:09,755 --> 00:18:13,009
+Not idly do the leaves of Lórien fall.
+
+174
+00:18:14,302 --> 00:18:16,637
+They may yet be alive.
+
+175
+00:18:17,513 --> 00:18:20,141
+Less than a day ahead of us. Come.
+
+176
+00:18:22,727 --> 00:18:25,229
+Come, Gimli! We're gaining on them!
+
+177
+00:18:25,396 --> 00:18:29,692
+I'm wasted on cross-country.
+We Dwarves are natural sprinters.
+
+178
+00:18:30,192 --> 00:18:33,529
+Very dangerous over short distances.
+
+179
+00:18:45,207 --> 00:18:46,959
+ARAGORN:
+Rohan.
+
+180
+00:18:47,126 --> 00:18:49,920
+Home of the Horse-lords.
+
+181
+00:18:51,130 --> 00:18:53,674
+There's something strange at work here.
+
+182
+00:18:53,841 --> 00:18:56,844
+Some evil gives speed
+to these creatures.
+
+183
+00:18:57,053 --> 00:18:59,972
+Sets its will against us.
+
+184
+00:19:05,186 --> 00:19:08,064
+ARAGORN:
+Legolas! What do your Elf-eyes see?
+
+185
+00:19:08,230 --> 00:19:10,816
+LEGOLAS:
+The Uruks turn northeast.
+
+186
+00:19:11,651 --> 00:19:13,819
+They are taking the Hobbits to Isengard.
+
+187
+00:19:14,695 --> 00:19:15,946
+Saruman.
+
+188
+00:19:24,372 --> 00:19:27,541
+SARUMAN:
+<i>The world is changing.</i>
+
+189
+00:19:27,708 --> 00:19:33,339
+<i>Who now has the strength to stand
+against the armies of Isengard...</i>
+
+190
+00:19:34,006 --> 00:19:36,759
+<i>...and Mordor?</i>
+
+191
+00:19:38,427 --> 00:19:44,058
+<i>To stand against the might of Sauron
+and Saruman...</i>
+
+192
+00:19:44,225 --> 00:19:47,895
+<i>...and the union of the two towers?</i>
+
+193
+00:19:54,402 --> 00:19:57,363
+<i>Together, my Lord Sauron...</i>
+
+194
+00:19:57,530 --> 00:20:01,117
+<i>...we shall rule this Middle-earth.</i>
+
+195
+00:20:11,335 --> 00:20:13,212
+[YELLING AND SQUEALING]
+
+196
+00:20:17,133 --> 00:20:21,387
+SARUMAN: <i> The Old World will burn
+in the fires of industry.</i>
+
+197
+00:20:21,929 --> 00:20:25,224
+<i>The forests will fall.</i>
+
+198
+00:20:27,143 --> 00:20:29,979
+<i>A new order will rise.</i>
+
+199
+00:20:31,063 --> 00:20:35,943
+<i>We will drive the machine of war
+with the sword and the spear...</i>
+
+200
+00:20:36,152 --> 00:20:40,156
+<i>...and the iron fists of the Orc.</i>
+
+201
+00:20:52,585 --> 00:20:55,796
+SARUMAN: I want them armed and
+ready to march within two weeks!
+
+202
+00:20:55,963 --> 00:20:57,631
+ORC:
+But, my lord, there are too many!
+
+203
+00:20:57,798 --> 00:21:00,801
+We cannot all be armed in time,
+we don't have the means.
+
+204
+00:21:00,968 --> 00:21:04,180
+Build a dam, block the stream,
+work the furnaces night and day.
+
+205
+00:21:04,764 --> 00:21:07,183
+We don't have enough fuel
+to feed the fires.
+
+206
+00:21:08,476 --> 00:21:12,772
+The Forest of Fangorn
+lies on our doorstep.
+
+207
+00:21:14,190 --> 00:21:16,525
+-Burn it.
+-Yes.
+
+208
+00:21:17,234 --> 00:21:19,528
+WILD MAN:
+We will fight for you.
+
+209
+00:21:19,695 --> 00:21:21,697
+Swear it.
+
+210
+00:21:32,208 --> 00:21:36,962
+We will die for Saruman.
+
+211
+00:21:38,047 --> 00:21:40,049
+SARUMAN:
+The Horse-Men took your lands.
+
+212
+00:21:40,216 --> 00:21:44,762
+They drove your people into the hills
+to scratch a living off rocks.
+
+213
+00:21:44,929 --> 00:21:46,347
+Murderers!
+
+214
+00:21:47,264 --> 00:21:49,391
+SARUMAN:
+Take back the lands they stole from you.
+
+215
+00:21:49,558 --> 00:21:51,352
+Burn every village!
+
+216
+00:21:51,644 --> 00:21:54,104
+[YELLING]
+
+217
+00:21:54,563 --> 00:21:59,735
+SARUMAN: <i> We have only to
+remove those who oppose us.</i>
+
+218
+00:22:00,236 --> 00:22:02,780
+<i>It will begin in Rohan.</i>
+
+219
+00:22:03,531 --> 00:22:07,034
+<i>Too long have these peasants
+stood against you.</i>
+
+220
+00:22:07,243 --> 00:22:09,036
+<i>But no more.</i>
+
+221
+00:22:09,245 --> 00:22:11,455
+Éothain! Éothain!
+
+222
+00:22:13,624 --> 00:22:16,293
+You take your sister.
+You'll go faster with just two.
+
+223
+00:22:16,669 --> 00:22:19,338
+FREDA:
+Papa says Éothain must not ride Garulf.
+
+224
+00:22:19,505 --> 00:22:21,173
+He is too big for him.
+
+225
+00:22:21,340 --> 00:22:24,343
+Listen to me. You must ride to Edoras
+and raise the alarm.
+
+226
+00:22:24,510 --> 00:22:27,054
+-Do you understand me?
+-Yes, Mama.
+
+227
+00:22:27,304 --> 00:22:30,224
+I don't want to leave.
+I don't want to go, Mama.
+
+228
+00:22:30,391 --> 00:22:34,103
+Freda, I will find you there.
+
+229
+00:22:34,270 --> 00:22:35,813
+[SCREAMING]
+
+230
+00:22:39,024 --> 00:22:40,776
+Quickly!
+
+231
+00:22:47,116 --> 00:22:48,701
+Go, child.
+
+232
+00:23:01,547 --> 00:23:03,549
+SARUMAN:
+<i>Rohan, my lord...</i>
+
+233
+00:23:03,966 --> 00:23:06,719
+<i>...is ready to fall.</i>
+
+234
+00:23:06,927 --> 00:23:09,179
+[THUNDER ROLLING]
+
+235
+00:23:12,600 --> 00:23:15,060
+[HOOVES BEATING]
+
+236
+00:23:17,938 --> 00:23:19,481
+Théodred.
+
+237
+00:23:19,690 --> 00:23:21,317
+Find the king's son!
+
+238
+00:23:37,750 --> 00:23:43,839
+-Mordor will pay for this.
+-These Orcs are not from Mordor.
+
+239
+00:23:44,673 --> 00:23:47,509
+My Lord Éomer, over here!
+
+240
+00:23:56,352 --> 00:23:58,020
+He's alive.
+
+241
+00:24:28,968 --> 00:24:31,053
+Théodred.
+
+242
+00:24:44,400 --> 00:24:47,444
+ÉOWYN:
+Your son is badly wounded, my lord.
+
+243
+00:24:47,903 --> 00:24:50,406
+He was ambushed by Orcs.
+
+244
+00:24:51,907 --> 00:24:55,536
+If we don't defend our country,
+Saruman will take it by force.
+
+245
+00:24:55,911 --> 00:24:58,414
+That is a lie.
+
+246
+00:25:00,582 --> 00:25:05,462
+Saruman the White has ever been
+our friend and ally.
+
+247
+00:25:07,089 --> 00:25:09,133
+THÉODEN:
+Gríma.
+
+248
+00:25:10,551 --> 00:25:12,469
+Gríma.
+
+249
+00:25:15,014 --> 00:25:16,557
+Gríma.
+
+250
+00:25:17,307 --> 00:25:20,436
+Orcs are roaming freely
+across our lands.
+
+251
+00:25:20,769 --> 00:25:24,440
+Unchecked. Unchallenged.
+Killing at will.
+
+252
+00:25:25,065 --> 00:25:27,943
+Orcs bearing the White Hand of Saruman.
+
+253
+00:25:35,784 --> 00:25:41,582
+Why do you lay these troubles
+on an already troubled mind?
+
+254
+00:25:41,749 --> 00:25:44,209
+Can you not see?
+
+255
+00:25:44,376 --> 00:25:49,423
+Your uncle is wearied
+by your malcontent...
+
+256
+00:25:49,590 --> 00:25:52,134
+...your warmongering.
+
+257
+00:25:54,344 --> 00:25:56,305
+Warmongering?
+
+258
+00:25:56,472 --> 00:25:58,640
+How long is it since
+Saruman bought you?
+
+259
+00:25:59,475 --> 00:26:01,852
+What was the promised price, Gríma?
+
+260
+00:26:02,102 --> 00:26:05,773
+When all the Men are dead,
+you will take your share of the treasure?
+
+261
+00:26:18,202 --> 00:26:20,871
+Too long have you watched my sister.
+
+262
+00:26:21,038 --> 00:26:23,040
+Too long have you haunted her steps.
+
+263
+00:26:31,090 --> 00:26:35,427
+You see much, Éomer, son of Éomund.
+
+264
+00:26:35,594 --> 00:26:36,762
+Too much.
+
+265
+00:26:37,262 --> 00:26:38,931
+[GRUNTING]
+
+266
+00:26:39,098 --> 00:26:43,894
+You are banished forthwith
+from the kingdom of Rohan...
+
+267
+00:26:44,061 --> 00:26:48,857
+...and all its domains
+under pain of death.
+
+268
+00:26:49,316 --> 00:26:51,652
+You have no authority here.
+
+269
+00:26:51,819 --> 00:26:54,279
+Your orders mean nothing.
+
+270
+00:26:54,822 --> 00:26:58,659
+This order does not come from me.
+
+271
+00:26:58,826 --> 00:27:01,036
+It comes from the king.
+
+272
+00:27:01,578 --> 00:27:04,248
+He signed it this morning.
+
+273
+00:27:07,167 --> 00:27:08,836
+[YELLS]
+
+274
+00:27:35,779 --> 00:27:38,490
+Keep breathing. That's the key.
+
+275
+00:27:38,699 --> 00:27:40,409
+Breathe.
+
+276
+00:27:44,580 --> 00:27:48,375
+They've run as if the very whips
+of their masters were behind them.
+
+277
+00:28:04,600 --> 00:28:06,560
+ORC 1:
+We're not going no further...
+
+278
+00:28:06,727 --> 00:28:08,729
+...until we've had a breather.
+
+279
+00:28:09,271 --> 00:28:11,231
+Get a fire going!
+
+280
+00:28:15,319 --> 00:28:16,904
+Merry!
+
+281
+00:28:17,237 --> 00:28:18,614
+Merry!
+
+282
+00:28:20,282 --> 00:28:25,495
+I think we might have made a mistake
+leaving the Shire, Pippin.
+
+283
+00:28:30,792 --> 00:28:33,837
+[GROANING]
+
+284
+00:28:34,922 --> 00:28:37,132
+What's making that noise?
+
+285
+00:28:38,717 --> 00:28:40,177
+It's the trees.
+
+286
+00:28:40,928 --> 00:28:41,970
+What?
+
+287
+00:28:42,304 --> 00:28:46,141
+You remember the Old Forest,
+on the borders of Buckland?
+
+288
+00:28:46,308 --> 00:28:50,812
+Folk used to say there was something in
+the water that made the trees grow tall...
+
+289
+00:28:50,979 --> 00:28:52,522
+...and come alive.
+
+290
+00:28:52,773 --> 00:28:54,441
+Alive?
+
+291
+00:28:55,317 --> 00:28:57,027
+Trees that could whisper...
+
+292
+00:28:58,028 --> 00:29:00,489
+...talk to each other...
+
+293
+00:29:00,656 --> 00:29:02,532
+...even move.
+
+294
+00:29:04,159 --> 00:29:06,370
+I'm starving.
+
+295
+00:29:06,536 --> 00:29:10,666
+We ain't had nothing but maggoty bread
+for three stinking days.
+
+296
+00:29:10,958 --> 00:29:12,251
+Yeah!
+
+297
+00:29:12,459 --> 00:29:15,712
+Why can't we have some meat?!
+
+298
+00:29:18,090 --> 00:29:20,300
+What about them?
+
+299
+00:29:20,467 --> 00:29:22,344
+They're fresh.
+
+300
+00:29:23,011 --> 00:29:26,807
+They are not for eating.
+
+301
+00:29:32,771 --> 00:29:34,731
+What about their legs?
+
+302
+00:29:34,898 --> 00:29:37,234
+They don't need those.
+
+303
+00:29:38,694 --> 00:29:41,863
+-They look tasty.
+LEADER: Get back, scum!
+
+304
+00:29:43,699 --> 00:29:48,578
+The prisoners go to Saruman.
+Alive and unspoiled.
+
+305
+00:29:48,954 --> 00:29:50,872
+Alive?
+
+306
+00:29:53,834 --> 00:29:58,130
+Why alive?
+Do they give good sport?
+
+307
+00:30:00,507 --> 00:30:03,885
+They have something.
+An Elvish weapon.
+
+308
+00:30:04,052 --> 00:30:07,097
+The master wants it for the war.
+
+309
+00:30:09,975 --> 00:30:11,852
+-They think we have the Ring.
+-Shh.
+
+310
+00:30:12,019 --> 00:30:14,438
+As soon as they find out we don't,
+we're dead.
+
+311
+00:30:16,315 --> 00:30:18,275
+Just a mouthful...
+
+312
+00:30:18,442 --> 00:30:19,651
+...a bit of the flank.
+
+313
+00:30:26,450 --> 00:30:30,037
+Looks like meat's back on the menu,
+boys.
+
+314
+00:30:30,245 --> 00:30:32,164
+[ROARING]
+
+315
+00:30:36,626 --> 00:30:37,878
+Pippin.
+
+316
+00:30:38,045 --> 00:30:39,755
+Let's go.
+
+317
+00:30:48,180 --> 00:30:49,723
+Go on.
+
+318
+00:30:49,890 --> 00:30:51,391
+Call for help.
+
+319
+00:30:52,768 --> 00:30:53,852
+Squeal.
+
+320
+00:30:54,061 --> 00:30:57,272
+No one's going to save you now.
+
+321
+00:31:01,276 --> 00:31:02,819
+[HORSES NEIGHING]
+
+322
+00:31:06,448 --> 00:31:07,866
+MERRY:
+Pippin!
+
+323
+00:31:32,099 --> 00:31:34,601
+A red sunrises.
+
+324
+00:31:35,102 --> 00:31:38,021
+Blood has been spilled this night.
+
+325
+00:31:50,492 --> 00:31:52,953
+[HOOVES BEATING]
+
+326
+00:32:09,261 --> 00:32:11,138
+Riders of Rohan...
+
+327
+00:32:11,555 --> 00:32:13,974
+...what news from the Mark?
+
+328
+00:32:41,710 --> 00:32:46,131
+What business does an Elf, a Man
+and a Dwarf have in the Riddermark?
+
+329
+00:32:46,923 --> 00:32:48,175
+Speak quickly!
+
+330
+00:32:48,508 --> 00:32:53,180
+Give me your name, horse-master,
+and I shall give you mine.
+
+331
+00:33:02,314 --> 00:33:04,900
+I would cut off your head, Dwarf...
+
+332
+00:33:05,400 --> 00:33:07,694
+...if it stood but a little higher
+from the ground.
+
+333
+00:33:08,737 --> 00:33:10,822
+You would die before your stroke fell.
+
+334
+00:33:19,539 --> 00:33:21,416
+I am Aragorn, son of Arathorn.
+
+335
+00:33:21,750 --> 00:33:25,962
+This is Gimli, son of Glóin,
+and Legolas of the Woodland Realm.
+
+336
+00:33:26,129 --> 00:33:29,424
+We are friends of Rohan
+and of Théoden, your king.
+
+337
+00:33:31,051 --> 00:33:34,846
+Théoden no longer recognizes
+friend from foe.
+
+338
+00:33:35,055 --> 00:33:37,265
+Not even his own kin.
+
+339
+00:33:41,770 --> 00:33:43,730
+Saruman has poisoned the mind
+of the king...
+
+340
+00:33:43,939 --> 00:33:45,857
+...and claimed lordship over these lands.
+
+341
+00:33:47,817 --> 00:33:50,820
+My company are those loyal to Rohan.
+
+342
+00:33:50,987 --> 00:33:52,739
+And for that, we are banished.
+
+343
+00:33:54,824 --> 00:33:58,119
+The White Wizard is cunning.
+
+344
+00:33:58,787 --> 00:34:01,206
+He walks here and there, they say...
+
+345
+00:34:01,373 --> 00:34:03,458
+...as an old man hooded and cloaked.
+
+346
+00:34:05,293 --> 00:34:09,089
+And everywhere, his spies
+slip past our nets.
+
+347
+00:34:09,256 --> 00:34:11,466
+We are no spies.
+
+348
+00:34:11,633 --> 00:34:14,594
+We track a party of Uruk-hai
+westward across the plain.
+
+349
+00:34:14,886 --> 00:34:17,222
+They have taken two of our friends
+captive.
+
+350
+00:34:18,014 --> 00:34:20,475
+The Uruks are destroyed.
+We slaughtered them during the night.
+
+351
+00:34:20,642 --> 00:34:23,812
+But there were two Hobbits.
+Did you see two Hobbits with them?
+
+352
+00:34:23,979 --> 00:34:26,982
+They would be small.
+Only children to your eyes.
+
+353
+00:34:30,277 --> 00:34:32,279
+We left none alive.
+
+354
+00:34:32,988 --> 00:34:35,865
+We piled the carcasses and burned them.
+
+355
+00:34:41,329 --> 00:34:42,581
+Dead?
+
+356
+00:34:45,584 --> 00:34:47,294
+I am sorry.
+
+357
+00:34:51,631 --> 00:34:52,674
+[WHISTLES]
+
+358
+00:34:52,841 --> 00:34:55,135
+Hasufel! Arod!
+
+359
+00:34:57,012 --> 00:35:01,641
+May these horses bear you to better
+fortune than their former masters.
+
+360
+00:35:02,892 --> 00:35:04,519
+Farewell.
+
+361
+00:35:09,649 --> 00:35:11,943
+Look for your friends.
+
+362
+00:35:12,360 --> 00:35:14,613
+But do not trust to hope.
+
+363
+00:35:16,323 --> 00:35:18,867
+It has forsaken these lands.
+
+364
+00:35:19,075 --> 00:35:21,077
+We ride north!
+
+365
+00:36:11,711 --> 00:36:13,588
+It's one of their wee belts.
+
+366
+00:36:14,727 --> 00:36:19,108
+[IN SINDARIN] May they find peace after death.
+(Hiro hyn hîdh ab 'wanath.)
+
+367
+00:36:21,721 --> 00:36:23,515
+[YELLS]
+
+368
+00:36:27,310 --> 00:36:29,354
+We failed them.
+
+369
+00:36:43,410 --> 00:36:45,620
+A Hobbit lay here.
+
+370
+00:36:47,455 --> 00:36:49,124
+And the other.
+
+371
+00:36:59,884 --> 00:37:01,469
+They crawled.
+
+372
+00:37:05,640 --> 00:37:07,767
+Their hands were bound.
+
+373
+00:37:19,904 --> 00:37:21,740
+Their bonds were cut.
+
+374
+00:37:37,172 --> 00:37:39,299
+They ran over here.
+
+375
+00:37:42,969 --> 00:37:44,179
+They were followed.
+
+376
+00:37:47,348 --> 00:37:49,100
+MERRY:
+The belt!
+
+377
+00:37:52,979 --> 00:37:54,189
+Run!
+
+378
+00:37:57,817 --> 00:37:59,194
+Tracks lead away from the battle...
+
+379
+00:38:04,032 --> 00:38:06,201
+...into Fangorn Forest.
+
+380
+00:38:07,035 --> 00:38:08,495
+Fangorn?
+
+381
+00:38:08,703 --> 00:38:11,289
+What madness drove them in there?
+
+382
+00:38:27,555 --> 00:38:28,848
+[TREES GROANING]
+
+383
+00:38:29,015 --> 00:38:32,018
+PIPPIN:
+Did we lose him? I think we lost him.
+
+384
+00:38:32,352 --> 00:38:35,063
+[SNARLING]
+
+385
+00:38:38,733 --> 00:38:42,153
+I'm going to rip out
+your filthy little innards!
+
+386
+00:38:48,326 --> 00:38:49,369
+Come here!
+
+387
+00:38:54,874 --> 00:38:57,460
+Trees. Climb a tree.
+
+388
+00:39:06,803 --> 00:39:08,555
+He's gone.
+
+389
+00:39:09,180 --> 00:39:10,390
+[GROWLING]
+
+390
+00:39:20,608 --> 00:39:22,944
+Merry!
+
+391
+00:39:24,362 --> 00:39:27,365
+[GROANS]
+
+392
+00:39:34,414 --> 00:39:38,793
+Let's put a maggot hole in your belly!
+
+393
+00:39:45,925 --> 00:39:47,468
+Run, Merry!
+
+394
+00:39:53,808 --> 00:39:55,602
+[HOBBITS GRUNTING]
+
+395
+00:39:57,312 --> 00:40:01,608
+Little Orcs.
+
+396
+00:40:01,816 --> 00:40:04,110
+It's talking, Merry.
+The tree is talking.
+
+397
+00:40:04,319 --> 00:40:06,154
+Tree?
+
+398
+00:40:06,321 --> 00:40:09,324
+I am no tree!
+
+399
+00:40:09,532 --> 00:40:11,743
+I am an Ent.
+
+400
+00:40:12,327 --> 00:40:14,454
+A tree-herder.
+
+401
+00:40:14,954 --> 00:40:16,956
+A shepherd of the forest.
+
+402
+00:40:17,123 --> 00:40:18,458
+Don't talk to it, Merry.
+
+403
+00:40:18,958 --> 00:40:20,460
+Don't encourage it!
+
+404
+00:40:20,627 --> 00:40:24,881
+Treebeard, some call me.
+
+405
+00:40:25,048 --> 00:40:27,008
+And whose side are you on?
+
+406
+00:40:27,634 --> 00:40:29,260
+Side?
+
+407
+00:40:29,469 --> 00:40:32,347
+I am on nobody's side...
+
+408
+00:40:32,680 --> 00:40:38,019
+...because nobody's on my side,
+little Orc.
+
+409
+00:40:38,853 --> 00:40:43,483
+Nobody cares for the woods anymore.
+
+410
+00:40:43,858 --> 00:40:46,235
+We're not Orcs! We're Hobbits!
+
+411
+00:40:46,402 --> 00:40:48,696
+Hobbits?
+
+412
+00:40:49,948 --> 00:40:54,869
+Never heard of a Hobbit before.
+
+413
+00:40:55,995 --> 00:40:59,290
+Sounds like Orc mischief to me!
+
+414
+00:40:59,457 --> 00:41:00,500
+[HOBBITS GROANING]
+
+415
+00:41:00,667 --> 00:41:02,877
+They come with fire.
+
+416
+00:41:03,086 --> 00:41:05,672
+They come with axes.
+
+417
+00:41:05,880 --> 00:41:10,677
+Gnawing, biting, breaking,
+hacking, burning!
+
+418
+00:41:10,885 --> 00:41:14,681
+-Destroyers and usurpers! Curse them!
+-No!
+
+419
+00:41:14,889 --> 00:41:17,684
+You don't understand. We're Hobbits!
+
+420
+00:41:17,892 --> 00:41:19,686
+Halflings!
+
+421
+00:41:19,894 --> 00:41:21,020
+Shire-folk!
+
+422
+00:41:21,187 --> 00:41:23,523
+Maybe you are...
+
+423
+00:41:23,815 --> 00:41:27,443
+...and maybe you aren't.
+
+424
+00:41:28,528 --> 00:41:32,448
+The White Wizard will know.
+
+425
+00:41:33,241 --> 00:41:35,201
+The White Wizard?
+
+426
+00:41:36,703 --> 00:41:38,204
+Saruman.
+
+427
+00:41:50,758 --> 00:41:52,468
+GOLLUM:
+See? See?
+
+428
+00:41:52,677 --> 00:41:55,054
+We've led you out.
+
+429
+00:41:55,221 --> 00:41:57,765
+Hurry, Hobbitses. Hurry!
+
+430
+00:42:00,852 --> 00:42:03,438
+Very lucky we find you.
+
+431
+00:42:10,069 --> 00:42:11,779
+Nice Hobbit.
+
+432
+00:42:13,448 --> 00:42:17,952
+Oh! It's a bog. He's led us
+into a swamp.
+
+433
+00:42:18,119 --> 00:42:20,747
+A swamp, yes, yes.
+
+434
+00:42:21,497 --> 00:42:26,252
+Come, master. We will take you
+on safe paths through the mist.
+
+435
+00:42:28,546 --> 00:42:32,008
+Come, Hobbits! Come! We go quickly.
+
+436
+00:42:35,261 --> 00:42:37,889
+I found it. I did.
+
+437
+00:42:38,097 --> 00:42:40,767
+The way through the marshes.
+
+438
+00:42:40,975 --> 00:42:44,479
+Orcs don't use it.
+Orcs don't know it.
+
+439
+00:42:44,645 --> 00:42:48,733
+They go around for miles and miles.
+
+440
+00:42:48,983 --> 00:42:50,359
+Come quickly.
+
+441
+00:42:50,568 --> 00:42:54,614
+Soft and quick as shadows we must be.
+
+442
+00:42:55,782 --> 00:42:59,118
+I hate this place. It's too quiet.
+
+443
+00:42:59,285 --> 00:43:01,537
+There's been no sight nor sound
+of a bird for two days.
+
+444
+00:43:01,704 --> 00:43:05,124
+No, no birdses to eat.
+
+445
+00:43:05,374 --> 00:43:09,629
+No crunchable birdses.
+
+446
+00:43:10,213 --> 00:43:13,091
+And we are famished! Yes!
+
+447
+00:43:13,257 --> 00:43:17,553
+Famished we are, precious!
+
+448
+00:43:32,527 --> 00:43:34,028
+Here.
+
+449
+00:43:35,196 --> 00:43:37,240
+GOLLUM:
+What does it eats?
+
+450
+00:43:37,406 --> 00:43:39,367
+Is it tasty?
+
+451
+00:43:41,869 --> 00:43:43,746
+[COUGHS]
+
+452
+00:43:44,664 --> 00:43:47,291
+It tries to chokes us!
+
+453
+00:43:47,542 --> 00:43:51,212
+We can't eats Hobbit food!
+
+454
+00:43:52,922 --> 00:43:56,968
+We must starve!
+
+455
+00:43:57,135 --> 00:43:59,554
+Well, starve, then. And good riddance!
+
+456
+00:44:00,263 --> 00:44:02,515
+Oh, cruel Hobbit.
+
+457
+00:44:02,682 --> 00:44:05,560
+It does not care if we be hungry.
+
+458
+00:44:05,768 --> 00:44:10,565
+Does not care if we should die.
+
+459
+00:44:11,149 --> 00:44:13,985
+Not like master.
+
+460
+00:44:15,361 --> 00:44:17,446
+Master cares.
+
+461
+00:44:18,614 --> 00:44:20,491
+Master knows.
+
+462
+00:44:22,952 --> 00:44:24,912
+Yes.
+
+463
+00:44:25,079 --> 00:44:27,707
+Precious.
+
+464
+00:44:31,294 --> 00:44:34,922
+Once it takes hold of us...
+
+465
+00:44:36,757 --> 00:44:40,970
+...it never lets go.
+
+466
+00:44:41,637 --> 00:44:42,805
+Don't touch me!
+
+467
+00:45:15,296 --> 00:45:17,173
+SAM:
+There are dead things!
+
+468
+00:45:17,340 --> 00:45:19,133
+Dead faces in the water.
+
+469
+00:45:23,930 --> 00:45:27,934
+GOLLUM:
+All dead. All rotten.
+
+470
+00:45:28,434 --> 00:45:32,230
+Elves and Men and Orcses.
+
+471
+00:45:32,396 --> 00:45:36,025
+A great battle long ago.
+
+472
+00:45:36,817 --> 00:45:38,569
+Dead Marshes.
+
+473
+00:45:38,778 --> 00:45:41,489
+Yes. Yes, that is their name.
+
+474
+00:45:43,157 --> 00:45:44,951
+This way.
+
+475
+00:45:45,159 --> 00:45:47,870
+Don't follow the lights.
+
+476
+00:45:49,664 --> 00:45:53,459
+Careful now! Or Hobbits go down
+to join the dead ones...
+
+477
+00:45:53,668 --> 00:45:57,797
+...and light little candles
+of their own.
+
+478
+00:46:23,990 --> 00:46:25,491
+Frodo!
+
+479
+00:47:02,653 --> 00:47:05,323
+[FRODO GASPS]
+
+480
+00:47:09,994 --> 00:47:14,665
+-Gollum?
+-Don't follow the lights.
+
+481
+00:47:14,832 --> 00:47:16,625
+FRODO: Gollum!
+-Mr. Frodo!
+
+482
+00:47:16,876 --> 00:47:18,753
+Are you all right?
+
+483
+00:47:22,131 --> 00:47:24,800
+[THUNDER ROLLING]
+
+484
+00:47:47,573 --> 00:47:50,576
+GOLLUM:
+So bright.
+
+485
+00:47:50,785 --> 00:47:54,580
+So beautiful.
+
+486
+00:47:54,789 --> 00:47:58,584
+Our precious.
+
+487
+00:48:00,044 --> 00:48:01,504
+What did you say?
+
+488
+00:48:01,796 --> 00:48:03,964
+Master should be resting.
+
+489
+00:48:04,131 --> 00:48:08,219
+Master needs to keep up his strength.
+
+490
+00:48:10,179 --> 00:48:13,432
+-Who are you?
+-Mustn't ask us. Not its business.
+
+491
+00:48:13,599 --> 00:48:15,101
+Gollum. Gollum.
+
+492
+00:48:15,309 --> 00:48:17,103
+Gandalf told me you were
+one of the river-folk.
+
+493
+00:48:17,311 --> 00:48:21,357
+<i>Cold be heart and hand and bone
+Cold be travelers far from home</i>
+
+494
+00:48:21,524 --> 00:48:23,109
+He said your life was a sad story.
+
+495
+00:48:23,317 --> 00:48:27,822
+<i>They do not see what lies ahead
+When sun has failed and moon is dead</i>
+
+496
+00:48:27,988 --> 00:48:30,991
+You were not so very different
+from a Hobbit once.
+
+497
+00:48:31,158 --> 00:48:32,952
+Were you?
+
+498
+00:48:35,121 --> 00:48:37,373
+Sméagol.
+
+499
+00:48:42,086 --> 00:48:44,630
+What did you call me?
+
+500
+00:48:45,965 --> 00:48:48,717
+That was your name once, wasn't it?
+
+501
+00:48:49,343 --> 00:48:51,637
+A long time ago.
+
+502
+00:48:52,471 --> 00:48:54,640
+My name.
+
+503
+00:48:55,724 --> 00:48:57,226
+My name.
+
+504
+00:49:04,150 --> 00:49:06,652
+Sméagol.
+
+505
+00:49:07,278 --> 00:49:09,155
+[RINGWRAITH SCREECHING]
+
+506
+00:49:10,739 --> 00:49:12,366
+Black Riders!
+
+507
+00:49:12,533 --> 00:49:13,868
+Hide! Hide!
+
+508
+00:49:14,034 --> 00:49:16,412
+[FRODO GROANING]
+
+509
+00:49:24,462 --> 00:49:26,755
+Come on, Frodo. Come on!
+
+510
+00:49:26,922 --> 00:49:30,551
+SMÉAGOL: Quick! They will see us!
+They will see us!
+
+511
+00:49:31,385 --> 00:49:34,013
+-I thought they were dead.
+-Dead?
+
+512
+00:49:34,180 --> 00:49:37,099
+No, you cannot kill them. No.
+
+513
+00:49:53,407 --> 00:49:55,576
+[ROARS]
+
+514
+00:50:04,251 --> 00:50:05,377
+SMÉAGOL:
+Wraiths!
+
+515
+00:50:05,544 --> 00:50:07,755
+Wraiths on wings!
+
+516
+00:50:10,674 --> 00:50:13,302
+[SCREECHING]
+
+517
+00:50:15,721 --> 00:50:17,806
+They are calling for it.
+
+518
+00:50:18,015 --> 00:50:21,477
+They are calling for the precious.
+
+519
+00:50:23,687 --> 00:50:25,814
+Mr. Frodo! It's all right.
+
+520
+00:50:25,981 --> 00:50:27,233
+I'm here.
+
+521
+00:50:34,949 --> 00:50:37,117
+[ROARS]
+
+522
+00:50:43,249 --> 00:50:44,792
+SMÉAGOL:
+Hurry, Hobbits.
+
+523
+00:50:45,334 --> 00:50:49,255
+The Black Gate is very close.
+
+524
+00:50:54,969 --> 00:50:55,970
+[SPITS]
+
+525
+00:50:56,136 --> 00:50:58,013
+Orc blood.
+
+526
+00:51:08,023 --> 00:51:09,775
+These are strange tracks.
+
+527
+00:51:11,068 --> 00:51:13,028
+The air is so close in here.
+
+528
+00:51:14,238 --> 00:51:16,657
+This forest is old.
+
+529
+00:51:17,491 --> 00:51:19,493
+Very old.
+
+530
+00:51:21,203 --> 00:51:23,497
+Full of memory...
+
+531
+00:51:26,125 --> 00:51:28,502
+...and anger.
+
+532
+00:51:29,044 --> 00:51:32,131
+[TREES GROANING]
+
+533
+00:51:34,633 --> 00:51:37,511
+The trees are speaking to each other.
+
+534
+00:51:37,678 --> 00:51:39,179
+ARAGORN:
+Gimli!
+
+535
+00:51:39,346 --> 00:51:41,307
+Lower your ax.
+
+536
+00:51:44,101 --> 00:51:46,854
+They have feelings, my friend.
+
+537
+00:51:47,396 --> 00:51:49,398
+The Elves began it.
+
+538
+00:51:49,565 --> 00:51:54,320
+Waking up the trees,
+teaching them to speak.
+
+539
+00:51:54,820 --> 00:51:57,156
+Talking trees.
+
+540
+00:51:57,823 --> 00:52:00,826
+What do trees have to talk about?
+
+541
+00:52:01,035 --> 00:52:04,246
+Except the consistency
+of squirrel droppings.
+
+542
+00:52:07,833 --> 00:52:09,298
+[IN SINDARIN] (Aragorn, nad no ennas!)
+
+543
+00:52:15,860 --> 00:52:17,635
+[IN SINDARIN] (Man cenich?)
+
+544
+00:52:18,177 --> 00:52:20,638
+[IN ENGLISH]
+The White Wizard approaches.
+
+545
+00:52:26,810 --> 00:52:31,106
+[IN ENGLISH] Do not let him speak.
+He will put a spell on us.
+
+546
+00:52:40,699 --> 00:52:42,951
+We must be quick.
+
+547
+00:52:58,509 --> 00:53:02,179
+WHITE WIZARD: You are tracking
+the footsteps of two young Hobbits.
+
+548
+00:53:02,763 --> 00:53:04,181
+Where are they?
+
+549
+00:53:04,348 --> 00:53:07,893
+WHITE WIZARD: They passed this way
+the day before yesterday.
+
+550
+00:53:08,102 --> 00:53:12,356
+They met someone they did not expect.
+
+551
+00:53:12,523 --> 00:53:14,650
+Does that comfort you?
+
+552
+00:53:14,817 --> 00:53:16,777
+Who are you?
+
+553
+00:53:18,237 --> 00:53:20,239
+Show yourself!
+
+554
+00:53:29,123 --> 00:53:31,125
+It cannot be.
+
+555
+00:53:34,044 --> 00:53:35,129
+Forgive me.
+
+556
+00:53:36,714 --> 00:53:38,632
+I mistook you for Saruman.
+
+557
+00:53:39,425 --> 00:53:42,177
+I am Saruman.
+
+558
+00:53:43,721 --> 00:53:47,641
+Or rather, Saruman
+as he should have been.
+
+559
+00:53:48,559 --> 00:53:50,060
+You fell.
+
+560
+00:53:51,520 --> 00:53:54,064
+Through fire...
+
+561
+00:53:54,231 --> 00:53:55,524
+...and water.
+
+562
+00:53:56,984 --> 00:53:59,528
+<i>From the lowest dungeon
+to the highest peak...</i>
+
+563
+00:53:59,695 --> 00:54:03,449
+<i>...I fought with the Balrog
+of Morgoth.</i>
+
+564
+00:54:04,199 --> 00:54:06,577
+[ROARING AND YELLING]
+
+565
+00:54:19,298 --> 00:54:22,009
+GANDALF: <i> Until at last
+I threw down my enemy...</i>
+
+566
+00:54:22,176 --> 00:54:26,680
+<i>...and smote his ruin
+upon the mountainside.</i>
+
+567
+00:54:32,686 --> 00:54:35,230
+<i>Darkness took me...</i>
+
+568
+00:54:35,981 --> 00:54:40,068
+<i>...and I strayed out of thought
+and time.</i>
+
+569
+00:54:40,819 --> 00:54:43,906
+<i>Stars wheeled overhead...</i>
+
+570
+00:54:44,198 --> 00:54:48,702
+<i>...and every day was as long
+as a life age of the Earth.</i>
+
+571
+00:54:50,788 --> 00:54:52,915
+<i>But it was not the end.</i>
+
+572
+00:54:53,207 --> 00:54:56,001
+<i>I felt life in me again.</i>
+
+573
+00:54:57,920 --> 00:55:00,464
+<i>I've been sent back...</i>
+
+574
+00:55:00,631 --> 00:55:02,216
+...until my task is done.
+
+575
+00:55:02,633 --> 00:55:04,510
+Gandalf.
+
+576
+00:55:05,219 --> 00:55:07,221
+Gandalf?
+
+577
+00:55:07,596 --> 00:55:09,389
+Yes.
+
+578
+00:55:12,226 --> 00:55:13,977
+That was what they used to call me.
+
+579
+00:55:16,855 --> 00:55:19,107
+Gandalf the Grey.
+
+580
+00:55:20,442 --> 00:55:22,236
+That was my name.
+
+581
+00:55:22,444 --> 00:55:23,821
+Gandalf.
+
+582
+00:55:25,781 --> 00:55:27,866
+I am Gandalf the White.
+
+583
+00:55:30,869 --> 00:55:33,956
+And I come back to you now...
+
+584
+00:55:34,122 --> 00:55:36,625
+...at the turn of the tide.
+
+585
+00:55:37,751 --> 00:55:40,754
+One stage of your journey is over.
+Another begins.
+
+586
+00:55:41,463 --> 00:55:44,633
+-We must travel to Edoras with all speed.
+GIMLI: Edoras?
+
+587
+00:55:45,551 --> 00:55:47,594
+That is no short distance!
+
+588
+00:55:47,845 --> 00:55:51,056
+We hear of trouble in Rohan.
+It goes ill with the king.
+
+589
+00:55:51,265 --> 00:55:53,350
+Yes, and it will not be easily cured.
+
+590
+00:55:53,517 --> 00:55:56,937
+Then we have run all this way for nothing?
+
+591
+00:55:57,104 --> 00:55:59,106
+Are we to leave those poor Hobbits here...
+
+592
+00:55:59,273 --> 00:56:03,193
+...in this horrid, dark, dank,
+tree-infested--?
+
+593
+00:56:03,360 --> 00:56:05,696
+[TREES GROANING]
+
+594
+00:56:06,113 --> 00:56:09,283
+I mean, charming...
+
+595
+00:56:09,449 --> 00:56:12,202
+...quite charming forest.
+
+596
+00:56:12,786 --> 00:56:16,415
+It was more than mere chance that
+brought Merry and Pippin to Fangorn.
+
+597
+00:56:16,582 --> 00:56:20,919
+A great power has been sleeping here
+for many long years.
+
+598
+00:56:21,086 --> 00:56:24,548
+The coming of Merry and Pippin
+will be like the falling of small stones...
+
+599
+00:56:24,715 --> 00:56:28,051
+...that starts an avalanche
+in the mountains.
+
+600
+00:56:28,218 --> 00:56:30,387
+In one thing you have not changed,
+dear friend.
+
+601
+00:56:30,554 --> 00:56:34,975
+-Hm?
+-You still speak in riddles.
+
+602
+00:56:37,811 --> 00:56:44,234
+A thing is about to happen that has not
+happened since the Elder Days.
+
+603
+00:56:44,401 --> 00:56:48,030
+The Ents are going to wake up...
+
+604
+00:56:48,572 --> 00:56:53,076
+-...and find that they are strong.
+-Strong?!
+
+605
+00:56:53,827 --> 00:56:54,995
+Oh, that's good.
+
+606
+00:56:55,162 --> 00:56:57,873
+So stop your fretting, Master Dwarf.
+
+607
+00:56:58,957 --> 00:57:01,209
+Merry and Pippin are quite safe.
+
+608
+00:57:01,376 --> 00:57:05,047
+In fact, they are far safer
+than you are about to be.
+
+609
+00:57:05,213 --> 00:57:08,967
+This new Gandalf's more grumpy
+than the old one.
+
+610
+00:57:09,217 --> 00:57:11,261
+[WHISTLING]
+
+611
+00:57:20,646 --> 00:57:22,481
+[HORSE NEIGHS]
+
+612
+00:57:31,198 --> 00:57:32,658
+That is one of the Mearas...
+
+613
+00:57:32,866 --> 00:57:35,619
+...unless my eyes are cheated
+by some spell.
+
+614
+00:57:53,220 --> 00:57:55,514
+GANDALF:
+Shadowfax.
+
+615
+00:57:58,100 --> 00:58:00,686
+He is the lord of all horses...
+
+616
+00:58:02,312 --> 00:58:06,233
+...and has been my friend
+through many dangers.
+
+617
+00:58:20,497 --> 00:58:24,084
+TREEBEARD:
+<i> O rowan mine</i>
+
+618
+00:58:24,251 --> 00:58:28,046
+<i>I saw you shine</i>
+
+619
+00:58:28,213 --> 00:58:31,758
+<i>Upon a summer's day</i>
+
+620
+00:58:32,843 --> 00:58:37,347
+<i>Upon your head
+How golden-red</i>
+
+621
+00:58:37,514 --> 00:58:42,227
+<i>The crown you bore aloft</i>
+
+622
+00:58:42,436 --> 00:58:44,813
+Such a beautiful verse.
+
+623
+00:58:44,980 --> 00:58:49,901
+-Is it much further?
+-Bru-ra-hroom. Don't be hasty.
+
+624
+00:58:50,068 --> 00:58:53,321
+You might call it far, perhaps.
+
+625
+00:58:54,239 --> 00:58:58,035
+My home lies deep in the forest...
+
+626
+00:58:58,243 --> 00:59:02,122
+...near the roots of the mountain.
+
+627
+00:59:03,457 --> 00:59:07,127
+I told Gandalf I would keep you safe.
+
+628
+00:59:07,335 --> 00:59:11,339
+And safe is where I'll keep you.
+
+629
+00:59:11,590 --> 00:59:15,969
+I believe you will enjoy this next one too.
+
+630
+00:59:16,344 --> 00:59:19,347
+It's one of my own compositions.
+
+631
+00:59:19,514 --> 00:59:20,724
+Right.
+
+632
+00:59:20,891 --> 00:59:27,022
+<i>Beneath the roof of sleeping leaves</i>
+
+633
+00:59:27,189 --> 00:59:32,069
+<i>And the dreams of trees unfold</i>
+
+634
+00:59:32,235 --> 00:59:38,700
+<i>When woodland halls are green and cool</i>
+
+635
+00:59:38,867 --> 00:59:42,996
+<i>And the wind is in the West</i>
+
+636
+00:59:43,413 --> 00:59:46,083
+<i>Come back to me</i>
+
+637
+00:59:46,625 --> 00:59:51,088
+<i>Come back to me</i>
+
+638
+00:59:51,254 --> 00:59:57,677
+<i>And say my land is best</i>
+
+639
+00:59:59,179 --> 01:00:01,139
+Oh.
+
+640
+01:00:05,143 --> 01:00:08,814
+Sleep, little Shirelings.
+
+641
+01:00:09,022 --> 01:00:12,567
+Heed no nightly noise.
+
+642
+01:00:12,734 --> 01:00:16,655
+Sleep till morning light.
+
+643
+01:00:18,281 --> 01:00:22,452
+I have business in the forest.
+
+644
+01:00:22,619 --> 01:00:28,166
+There are many to call.
+Many that must come.
+
+645
+01:00:29,376 --> 01:00:34,047
+The Shadow lies on Fangorn.
+
+646
+01:00:34,214 --> 01:00:39,928
+The withering of all woods
+is drawing near.
+
+647
+01:00:49,479 --> 01:00:53,733
+The veiling shadow that glowers
+in the east takes shape.
+
+648
+01:00:54,568 --> 01:00:57,154
+Sauron will suffer no rival.
+
+649
+01:00:57,571 --> 01:01:01,867
+From the summit of Barad-dûr,
+his Eye watches ceaselessly.
+
+650
+01:01:02,075 --> 01:01:05,453
+But he is not so mighty yet
+that he is above fear.
+
+651
+01:01:06,496 --> 01:01:08,456
+Doubt ever gnaws at him.
+
+652
+01:01:08,623 --> 01:01:11,209
+The rumor has reached him.
+
+653
+01:01:11,376 --> 01:01:14,337
+The heir of Númenor still lives.
+
+654
+01:01:15,297 --> 01:01:18,133
+Sauron fears you, Aragorn.
+
+655
+01:01:19,426 --> 01:01:21,636
+He fears what you may become.
+
+656
+01:01:22,888 --> 01:01:26,308
+And so he'll strike hard and fast
+at the world of Men.
+
+657
+01:01:26,474 --> 01:01:30,103
+He will use his puppet, Saruman,
+to destroy Rohan.
+
+658
+01:01:30,270 --> 01:01:31,771
+War is coming.
+
+659
+01:01:31,938 --> 01:01:35,525
+Rohan must defend itself,
+and therein lies our first challenge...
+
+660
+01:01:35,692 --> 01:01:38,111
+...for Rohan is weak and ready to fall.
+
+661
+01:01:38,278 --> 01:01:41,990
+The king's mind is enslaved,
+it's an old device of Saruman's.
+
+662
+01:01:42,157 --> 01:01:45,243
+His hold over King Théoden
+is now very strong.
+
+663
+01:01:45,410 --> 01:01:50,123
+Sauron and Saruman
+are tightening the noose.
+
+664
+01:01:50,916 --> 01:01:53,084
+But for all their cunning...
+
+665
+01:01:53,251 --> 01:01:55,837
+...we have one advantage.
+
+666
+01:01:57,964 --> 01:02:00,550
+The Ring remains hidden.
+
+667
+01:02:01,635 --> 01:02:03,553
+And that we should seek to destroy it...
+
+668
+01:02:03,720 --> 01:02:06,681
+...has not yet entered
+their darkest dreams.
+
+669
+01:02:07,265 --> 01:02:10,602
+And so the weapon of the enemy
+is moving towards Mordor...
+
+670
+01:02:10,769 --> 01:02:12,270
+...in the hands of a Hobbit.
+
+671
+01:02:12,437 --> 01:02:16,524
+Each day brings it closer
+to the fires of Mount Doom.
+
+672
+01:02:16,691 --> 01:02:19,319
+We must trust now in Frodo.
+
+673
+01:02:19,486 --> 01:02:21,321
+Everything depends upon speed...
+
+674
+01:02:21,488 --> 01:02:24,491
+...and the secrecy of his quest.
+
+675
+01:02:26,451 --> 01:02:29,788
+Do not regret your decision to leave him.
+
+676
+01:02:30,664 --> 01:02:33,416
+Frodo must finish this task alone.
+
+677
+01:02:34,167 --> 01:02:36,461
+He's not alone.
+
+678
+01:02:36,670 --> 01:02:38,338
+Sam went with him.
+
+679
+01:02:39,005 --> 01:02:40,215
+Did he?
+
+680
+01:02:40,382 --> 01:02:45,011
+Did he, indeed? Good.
+
+681
+01:02:45,679 --> 01:02:48,056
+Yes, very good.
+
+682
+01:02:56,064 --> 01:03:00,944
+SMÉAGOL:
+The Black Gate of Mordor.
+
+683
+01:03:03,738 --> 01:03:06,241
+Oh, save us.
+
+684
+01:03:11,997 --> 01:03:15,250
+My old Gaffer would have a thing or two
+to say if he could see us now.
+
+685
+01:03:17,502 --> 01:03:21,965
+SMÉAGOL: Master says to
+show him the way into Mordor.
+
+686
+01:03:22,132 --> 01:03:25,552
+So good Sméagol does,
+master says so.
+
+687
+01:03:25,719 --> 01:03:26,970
+I did.
+
+688
+01:03:35,729 --> 01:03:37,731
+That's it, then.
+
+689
+01:03:39,274 --> 01:03:40,567
+We can't get past that.
+
+690
+01:03:41,109 --> 01:03:44,029
+[EASTERLINGS YELLING
+INDISTINCTLY]
+
+691
+01:03:51,745 --> 01:03:54,331
+[HORNS BLOWING]
+
+692
+01:04:04,382 --> 01:04:06,426
+[ROARS]
+
+693
+01:04:25,779 --> 01:04:27,113
+Look!
+
+694
+01:04:27,280 --> 01:04:28,740
+The gate.
+
+695
+01:04:28,907 --> 01:04:30,116
+It's opening!
+
+696
+01:04:37,540 --> 01:04:39,542
+I can see a way down.
+
+697
+01:04:40,293 --> 01:04:42,379
+Sam, no!
+
+698
+01:04:44,547 --> 01:04:45,924
+Master!
+
+699
+01:06:02,500 --> 01:06:05,211
+[EASTERLINGS YELLING
+INDISTINCTLY]
+
+700
+01:06:09,757 --> 01:06:13,303
+-I do not ask you to come with me, Sam.
+-I know, Mr. Frodo.
+
+701
+01:06:14,053 --> 01:06:17,223
+I doubt even these Elvish cloaks
+will hide us in there.
+
+702
+01:06:17,640 --> 01:06:19,517
+-Now!
+SMÉAGOL: No!
+
+703
+01:06:20,059 --> 01:06:22,061
+No! No, master!
+
+704
+01:06:22,228 --> 01:06:25,231
+They catch you! They catch you!
+
+705
+01:06:26,524 --> 01:06:29,068
+Don't take it to him.
+
+706
+01:06:32,030 --> 01:06:34,741
+He wants the precious.
+
+707
+01:06:34,908 --> 01:06:37,952
+Always he is looking for it.
+
+708
+01:06:38,119 --> 01:06:42,040
+And the precious is wanting
+to go back to him.
+
+709
+01:06:42,248 --> 01:06:46,169
+But we mustn't let him have it.
+
+710
+01:06:52,550 --> 01:06:54,677
+No! There's another way.
+
+711
+01:06:54,844 --> 01:06:57,514
+More secret. A dark way.
+
+712
+01:06:57,805 --> 01:07:01,476
+-Why haven't you spoken of this before?
+-Because master did not ask.
+
+713
+01:07:01,935 --> 01:07:03,061
+He's up to something.
+
+714
+01:07:03,645 --> 01:07:06,231
+Are you saying there's another way
+into Mordor?
+
+715
+01:07:06,439 --> 01:07:09,150
+Yes. There's a path...
+
+716
+01:07:09,317 --> 01:07:11,819
+...and some stairs.
+
+717
+01:07:12,028 --> 01:07:13,696
+And then...
+
+718
+01:07:13,863 --> 01:07:17,200
+...a tunnel.
+
+719
+01:07:17,575 --> 01:07:19,786
+[RUMBLING]
+
+720
+01:07:31,172 --> 01:07:32,966
+He's led us this far, Sam.
+
+721
+01:07:33,132 --> 01:07:34,551
+Mr. Frodo, no.
+
+722
+01:07:35,677 --> 01:07:37,136
+He's been true to his word.
+
+723
+01:07:42,016 --> 01:07:43,226
+No.
+
+724
+01:07:45,353 --> 01:07:46,980
+Lead the way, Sméagol.
+
+725
+01:07:47,605 --> 01:07:51,526
+Good Sméagol always helps.
+
+726
+01:08:25,518 --> 01:08:26,519
+Hello?
+
+727
+01:08:28,938 --> 01:08:31,024
+Treebeard?
+
+728
+01:08:31,649 --> 01:08:33,026
+Where has he gone?
+
+729
+01:08:33,192 --> 01:08:35,653
+PIPPIN:
+I had the loveliest dream last night.
+
+730
+01:08:36,279 --> 01:08:38,990
+There was this large barrel,
+full of pipe-weed.
+
+731
+01:08:39,157 --> 01:08:41,659
+And we smoked all of it.
+And then...
+
+732
+01:08:42,160 --> 01:08:44,078
+...you were sick.
+
+733
+01:08:45,663 --> 01:08:48,541
+I'd give anything for a whiff of Old Toby.
+
+734
+01:08:49,626 --> 01:08:51,711
+[GROANING]
+
+735
+01:08:52,045 --> 01:08:53,963
+Did you hear that?
+
+736
+01:09:01,054 --> 01:09:02,555
+There it is again.
+
+737
+01:09:03,389 --> 01:09:06,976
+Something's not right here.
+Not right at all.
+
+738
+01:09:07,143 --> 01:09:09,270
+[ENTISH GROAN]
+
+739
+01:09:11,814 --> 01:09:14,734
+You just said something... Treeish.
+
+740
+01:09:14,901 --> 01:09:18,905
+No, I didn't. I was just stretching.
+
+741
+01:09:26,454 --> 01:09:28,331
+You're taller.
+
+742
+01:09:28,873 --> 01:09:30,375
+-Who?
+-You!
+
+743
+01:09:30,583 --> 01:09:32,168
+-Than what?
+-Than me!
+
+744
+01:09:32,669 --> 01:09:34,796
+I've always been taller than you.
+
+745
+01:09:34,962 --> 01:09:39,592
+Pippin, everyone knows I'm the tall one.
+You're the short one.
+
+746
+01:09:40,426 --> 01:09:41,969
+Please, Merry.
+
+747
+01:09:42,136 --> 01:09:45,973
+You're what? Three-foot-six? At the most?
+
+748
+01:09:46,599 --> 01:09:48,726
+Whereas me, I'm pushing 3'7".
+
+749
+01:09:48,893 --> 01:09:50,603
+[ENTISH GROAN]
+
+750
+01:09:51,521 --> 01:09:53,773
+3'8"!
+
+751
+01:09:55,733 --> 01:09:57,610
+Three-foot-eight.
+
+752
+01:10:00,613 --> 01:10:02,532
+You did something.
+
+753
+01:10:08,329 --> 01:10:09,914
+PIPPIN:
+Merry, don't! Don't drink it!
+
+754
+01:10:10,832 --> 01:10:12,333
+Merry!
+
+755
+01:10:12,500 --> 01:10:14,836
+No, Treebeard said that you
+shouldn't have any.
+
+756
+01:10:15,002 --> 01:10:18,923
+MERRY: I want some!
+-It could well be dangerous!
+
+757
+01:10:19,132 --> 01:10:21,259
+Give me it back. Merry!
+
+758
+01:10:23,136 --> 01:10:24,429
+What's happening?!
+
+759
+01:10:25,304 --> 01:10:26,764
+It's got my leg!
+
+760
+01:10:27,140 --> 01:10:28,641
+Merry!
+
+761
+01:10:31,436 --> 01:10:33,938
+[GRUNTING]
+
+762
+01:10:37,150 --> 01:10:38,359
+No!
+
+763
+01:10:47,952 --> 01:10:49,662
+PIPPIN:
+Help!
+
+764
+01:10:56,335 --> 01:10:58,212
+TREEBEARD:
+Away with you.
+
+765
+01:10:58,379 --> 01:11:00,173
+You should not be waking.
+
+766
+01:11:00,673 --> 01:11:05,678
+Eat earth. Dig deep. Drink water.
+
+767
+01:11:06,220 --> 01:11:08,806
+Go to sleep.
+
+768
+01:11:09,182 --> 01:11:10,975
+Away with you.
+
+769
+01:11:11,184 --> 01:11:14,479
+Come, the forest is waking up.
+
+770
+01:11:15,021 --> 01:11:16,981
+It isn't safe.
+
+771
+01:11:19,609 --> 01:11:23,529
+The trees have grown wild
+and dangerous.
+
+772
+01:11:23,696 --> 01:11:26,741
+Anger festers in their hearts.
+
+773
+01:11:27,575 --> 01:11:29,202
+Black are their thoughts.
+
+774
+01:11:29,368 --> 01:11:31,913
+Strong is their hate.
+
+775
+01:11:32,079 --> 01:11:34,832
+They will harm you if they can.
+
+776
+01:11:34,999 --> 01:11:38,586
+There are too few of us now.
+
+777
+01:11:38,753 --> 01:11:42,757
+Too few of us Ents left to manage them.
+
+778
+01:11:43,382 --> 01:11:46,010
+Why are there so few of you
+when you have lived so long?
+
+779
+01:11:46,219 --> 01:11:49,388
+-Are there Ent children?
+-Bru-ra-hroom.
+
+780
+01:11:49,555 --> 01:11:55,186
+There have been no Entings
+for a terrible long count of years.
+
+781
+01:11:55,353 --> 01:12:00,608
+-Why is that?
+-We lost the Entwives.
+
+782
+01:12:00,858 --> 01:12:02,276
+Oh, I'm sorry.
+
+783
+01:12:02,443 --> 01:12:06,364
+-How did they die?
+-Die? No.
+
+784
+01:12:06,531 --> 01:12:09,784
+We lost them.
+
+785
+01:12:09,951 --> 01:12:15,039
+And now we cannot find them.
+
+786
+01:12:15,248 --> 01:12:21,420
+I don't suppose you've seen Entwives
+in the Shire?
+
+787
+01:12:21,587 --> 01:12:24,173
+Can't say that I have.
+
+788
+01:12:24,674 --> 01:12:26,759
+You, Pip?
+
+789
+01:12:28,177 --> 01:12:30,555
+What do they look like?
+
+790
+01:12:33,015 --> 01:12:37,687
+I don't remember now.
+
+791
+01:12:54,078 --> 01:12:57,999
+GANDALF: Edoras and the Golden Hall
+of Meduseld.
+
+792
+01:12:58,791 --> 01:13:01,419
+There dwells Théoden, King of Rohan...
+
+793
+01:13:02,086 --> 01:13:05,006
+<i>...whose mind is overthrown.</i>
+
+794
+01:13:05,172 --> 01:13:09,427
+<i>Saruman's hold over King Théoden
+is now very strong.</i>
+
+795
+01:13:10,094 --> 01:13:13,264
+ÉOWYN:
+My lord, your son...
+
+796
+01:13:13,431 --> 01:13:15,600
+...he is dead.
+
+797
+01:13:17,101 --> 01:13:18,936
+My lord?
+
+798
+01:13:20,187 --> 01:13:21,355
+Uncle?
+
+799
+01:13:28,154 --> 01:13:30,448
+Will you not go to him?
+
+800
+01:13:33,534 --> 01:13:35,953
+Will you do nothing?
+
+801
+01:13:36,120 --> 01:13:38,122
+Be careful what you say.
+
+802
+01:13:38,331 --> 01:13:40,458
+Do not look for welcome here.
+
+803
+01:14:04,523 --> 01:14:08,694
+Oh, he must have died
+sometime in the night.
+
+804
+01:14:08,861 --> 01:14:11,030
+What a tragedy for the king...
+
+805
+01:14:11,238 --> 01:14:14,200
+...to lose his only son and heir.
+
+806
+01:14:15,368 --> 01:14:19,830
+I understand.
+His passing is hard to accept.
+
+807
+01:14:19,997 --> 01:14:24,919
+Especially now that your brother
+has deserted you.
+
+808
+01:14:25,086 --> 01:14:26,545
+Leave me alone, snake!
+
+809
+01:14:28,005 --> 01:14:29,674
+Oh, but you are alone.
+
+810
+01:14:31,300 --> 01:14:36,055
+Who knows what you've spoken
+to the darkness...
+
+811
+01:14:36,222 --> 01:14:39,684
+...in the bitter watches of the night...
+
+812
+01:14:39,892 --> 01:14:43,521
+...when all your life seems to shrink.
+
+813
+01:14:43,688 --> 01:14:47,900
+The walls of your bower
+closing in about you.
+
+814
+01:14:48,067 --> 01:14:52,655
+A hutch to trammel some wild thing in.
+
+815
+01:14:54,907 --> 01:14:56,784
+So fair.
+
+816
+01:14:58,035 --> 01:14:59,412
+So cold.
+
+817
+01:15:01,205 --> 01:15:03,416
+Like a morning of pale spring...
+
+818
+01:15:03,624 --> 01:15:07,044
+...still clinging to winter's chill.
+
+819
+01:15:20,808 --> 01:15:23,310
+Your words are poison.
+
+820
+01:16:55,820 --> 01:16:58,322
+You'll find more cheer in a graveyard.
+
+821
+01:17:11,544 --> 01:17:12,586
+Ah.
+
+822
+01:17:12,753 --> 01:17:16,549
+I cannot allow you before Théoden King
+so armed, Gandalf Greyhame.
+
+823
+01:17:18,050 --> 01:17:20,594
+By order of Gríma Wormtongue.
+
+824
+01:17:37,903 --> 01:17:40,906
+-Your staff.
+-Hm? Oh...
+
+825
+01:17:43,075 --> 01:17:46,579
+You would not part an old man
+from his walking stick.
+
+826
+01:18:05,389 --> 01:18:08,267
+My lord, Gandalf the Grey is coming.
+
+827
+01:18:12,229 --> 01:18:14,023
+[DOOR LOCKS]
+
+828
+01:18:16,609 --> 01:18:18,194
+He's a herald of woe.
+
+829
+01:18:18,360 --> 01:18:22,740
+The courtesy of your hall
+is somewhat lessened of late...
+
+830
+01:18:23,866 --> 01:18:25,284
+...Théoden King.
+
+831
+01:18:25,993 --> 01:18:28,537
+He's not welcome.
+
+832
+01:18:29,455 --> 01:18:34,752
+Why should I welcome you...
+
+833
+01:18:35,252 --> 01:18:38,923
+...Gandalf Stormcrow?
+
+834
+01:18:39,131 --> 01:18:42,426
+A just question, my liege.
+
+835
+01:18:42,635 --> 01:18:45,429
+Late is the hour...
+
+836
+01:18:45,638 --> 01:18:49,642
+...in which this conjurer
+chooses to appear.
+
+837
+01:18:50,392 --> 01:18:52,436
+Láthspell I name him.
+
+838
+01:18:52,645 --> 01:18:55,522
+Ill news is an ill guest.
+
+839
+01:18:55,689 --> 01:19:00,277
+Be silent. Keep your forked tongue
+behind your teeth.
+
+840
+01:19:00,444 --> 01:19:02,363
+I have not passed
+through fire and death...
+
+841
+01:19:02,529 --> 01:19:05,783
+...to bandy crooked words
+with a witless worm.
+
+842
+01:19:06,742 --> 01:19:08,869
+His staff.
+
+843
+01:19:09,036 --> 01:19:13,165
+I told you to take the wizard's staff.
+
+844
+01:19:16,502 --> 01:19:18,462
+Théoden...
+
+845
+01:19:19,004 --> 01:19:21,590
+...son of Thengel...
+
+846
+01:19:23,342 --> 01:19:25,719
+...too long have you sat
+in the Shadows.
+
+847
+01:19:28,681 --> 01:19:31,976
+I would stay still if I were you.
+
+848
+01:19:32,184 --> 01:19:34,228
+Hearken to me!
+
+849
+01:19:39,692 --> 01:19:41,860
+I release you...
+
+850
+01:19:42,027 --> 01:19:43,988
+...from the spell.
+
+851
+01:19:44,613 --> 01:19:46,991
+[LAUGHS]
+
+852
+01:19:55,541 --> 01:19:58,585
+You have no power here...
+
+853
+01:19:58,836 --> 01:20:02,381
+...Gandalf the Grey.
+
+854
+01:20:07,803 --> 01:20:12,850
+I will draw you, Saruman,
+as poison is drawn from a wound.
+
+855
+01:20:13,100 --> 01:20:15,352
+[GROANING]
+
+856
+01:20:22,276 --> 01:20:23,819
+Wait.
+
+857
+01:20:25,237 --> 01:20:29,074
+SARUMAN'S VOICE:
+If I go, Théoden dies.
+
+858
+01:20:29,783 --> 01:20:31,994
+You did not kill me...
+
+859
+01:20:32,161 --> 01:20:34,371
+...you will not kill him.
+
+860
+01:20:38,250 --> 01:20:39,960
+SARUMAN:
+Rohan is mine.
+
+861
+01:20:41,462 --> 01:20:42,796
+Be gone.
+
+862
+01:20:47,468 --> 01:20:50,512
+[YELLING]
+
+863
+01:21:00,439 --> 01:21:02,316
+[GROANS]
+
+864
+01:21:27,299 --> 01:21:29,468
+I know your face.
+
+865
+01:21:34,014 --> 01:21:35,307
+Éowyn.
+
+866
+01:21:37,601 --> 01:21:38,852
+Éowyn.
+
+867
+01:21:47,152 --> 01:21:48,320
+Gandalf?
+
+868
+01:21:48,862 --> 01:21:51,740
+Breathe the free air again, my friend.
+
+869
+01:22:05,129 --> 01:22:07,714
+Dark have been my dreams of late.
+
+870
+01:22:11,844 --> 01:22:15,639
+Your fingers would remember
+their old strength better...
+
+871
+01:22:15,848 --> 01:22:18,767
+...if they grasped your sword.
+
+872
+01:22:56,472 --> 01:22:58,807
+[YELLS]
+
+873
+01:23:01,059 --> 01:23:02,227
+[GROANS]
+
+874
+01:23:03,896 --> 01:23:05,898
+WORMTONGUE:
+I've only...
+
+875
+01:23:06,064 --> 01:23:09,109
+...ever served you, my lord.
+
+876
+01:23:09,276 --> 01:23:14,281
+Your leechcraft would have had me
+crawling on all fours like a beast!
+
+877
+01:23:15,282 --> 01:23:17,242
+WORMTONGUE:
+Send me not from your sight.
+
+878
+01:23:19,536 --> 01:23:22,247
+ARAGORN:
+No, my lord! No, my lord.
+
+879
+01:23:22,456 --> 01:23:23,665
+Let him go.
+
+880
+01:23:24,416 --> 01:23:27,586
+Enough blood has been spilt
+on his account.
+
+881
+01:23:36,720 --> 01:23:39,056
+WORMTONGUE:
+Get out of my way!
+
+882
+01:23:41,266 --> 01:23:44,436
+MAN:
+Hail, Théoden King!
+
+883
+01:24:09,086 --> 01:24:11,630
+Where is Théodred?
+
+884
+01:24:14,633 --> 01:24:17,135
+Where is my son?
+
+885
+01:25:05,808 --> 01:25:11,008
+[IN ROHIRRIC] An evil death has set...
+(Bealocwealm hafað fréone...)
+
+886
+01:25:11,084 --> 01:25:14,470
+...forth the noble warrior.
+(...frecan forth onsended.)
+
+887
+01:25:15,600 --> 01:25:18,705
+<i> A song shall sing...
+(Giedd sculon singan...)</i>
+
+888
+01:25:18,797 --> 01:25:21,954
+...sorrowing minstrels.
+(...gléomenn sorgiende.)
+
+889
+01:25:22,773 --> 01:25:25,492
+In Meduseld...
+(On Meduselde...)
+
+890
+01:25:26,168 --> 01:25:30,014
+<i>...that he is no more...
+(...þæt he ma no wære...)</i>
+
+891
+01:25:30,552 --> 01:25:34,015
+<i>...for his necessary rest.
+(...is þurh niedig rest.)</i>
+
+892
+01:25:34,536 --> 01:25:38,128
+And that he is the dearest kinsman...
+(And mægen deorost...)
+
+893
+01:25:39,060 --> 01:25:40,270
+<i>...killing took him...
+(...bealo...)</i>
+
+894
+01:25:44,389 --> 01:25:46,099
+THÉODEN:
+Simbelmynë.
+
+895
+01:25:51,229 --> 01:25:54,858
+Ever has it grown on the tombs
+of my forebearers.
+
+896
+01:25:58,695 --> 01:26:01,657
+Now it shall cover the grave
+of my son.
+
+897
+01:26:03,784 --> 01:26:07,663
+Alas that these evil days
+should be mine.
+
+898
+01:26:08,413 --> 01:26:12,834
+The young perish and the old linger.
+
+899
+01:26:13,418 --> 01:26:15,545
+That I should live...
+
+900
+01:26:15,712 --> 01:26:19,091
+...to see the last days of my house.
+
+901
+01:26:20,300 --> 01:26:24,179
+Théodred's death
+was not of your making.
+
+902
+01:26:27,224 --> 01:26:30,602
+No parent should have to bury
+their child.
+
+903
+01:26:47,327 --> 01:26:49,204
+GANDALF:
+He was strong in life.
+
+904
+01:26:50,288 --> 01:26:53,875
+His spirit will find its way
+to the halls of your fathers.
+
+905
+01:27:04,094 --> 01:27:06,004
+[IN ROHIRRIC] Be thou well.
+(Westu hál.)
+
+906
+01:27:08,465 --> 01:27:11,265
+Go thou, Théodred, go thou.
+(Ferðu, Théodred, Ferðu.)
+
+907
+01:27:38,462 --> 01:27:40,338
+They had no warning.
+
+908
+01:27:40,505 --> 01:27:42,924
+They were unarmed.
+
+909
+01:27:43,383 --> 01:27:47,429
+Now the Wild Men are moving through
+the Westfold, burning as they go.
+
+910
+01:27:48,346 --> 01:27:50,307
+Rick, cot and tree.
+
+911
+01:27:50,682 --> 01:27:52,809
+-Where is Mama?
+ÉOWYN: Shh.
+
+912
+01:27:53,685 --> 01:27:57,856
+This is but a taste of the terror
+that Saruman will unleash.
+
+913
+01:27:58,023 --> 01:28:02,444
+All the more potent for he is driven now
+by fear of Sauron.
+
+914
+01:28:04,029 --> 01:28:07,032
+Ride out and meet him head on.
+
+915
+01:28:07,783 --> 01:28:11,286
+Draw him away from your women
+and children.
+
+916
+01:28:11,620 --> 01:28:13,246
+You must fight.
+
+917
+01:28:13,413 --> 01:28:17,250
+You have 2000 good men riding north
+as we speak.
+
+918
+01:28:17,417 --> 01:28:19,044
+Éomer is loyal to you.
+
+919
+01:28:19,211 --> 01:28:21,922
+His men will return
+and fight for their king.
+
+920
+01:28:22,088 --> 01:28:26,009
+They will be 300 leagues from here
+by now.
+
+921
+01:28:29,721 --> 01:28:31,890
+Éomer cannot help us.
+
+922
+01:28:32,516 --> 01:28:34,309
+I know what it is you want of me...
+
+923
+01:28:34,476 --> 01:28:37,729
+...but I will not bring further death
+to my people.
+
+924
+01:28:39,397 --> 01:28:41,107
+I will not risk open war.
+
+925
+01:28:43,318 --> 01:28:46,738
+Open war is upon you,
+whether you would risk it or not.
+
+926
+01:28:50,951 --> 01:28:52,577
+THÉODEN:
+When last I looked...
+
+927
+01:28:53,036 --> 01:28:56,665
+...Théoden, not Aragorn,
+was king of Rohan.
+
+928
+01:29:01,545 --> 01:29:03,129
+[BURPS]
+
+929
+01:29:03,547 --> 01:29:05,799
+Then what is the king's decision?
+
+930
+01:29:11,388 --> 01:29:12,430
+HÁMA:
+<i>By order of the king...</i>
+
+931
+01:29:12,889 --> 01:29:14,349
+...the city must empty.
+
+932
+01:29:15,517 --> 01:29:18,395
+We make for the refuge of Helm's Deep.
+
+933
+01:29:18,687 --> 01:29:22,566
+Do not burden yourself with treasures.
+Take only what provisions you need.
+
+934
+01:29:22,774 --> 01:29:24,276
+GIMLI:
+Helm's Deep.
+
+935
+01:29:24,442 --> 01:29:27,988
+They flee to the mountains
+when they should stand and fight.
+
+936
+01:29:28,154 --> 01:29:30,115
+Who will defend them if not their king?
+
+937
+01:29:30,282 --> 01:29:32,742
+He's only doing what he thinks
+is best for his people.
+
+938
+01:29:32,909 --> 01:29:34,744
+Helm's Deep has saved them
+in the past.
+
+939
+01:29:34,911 --> 01:29:38,790
+There is no way out of that ravine.
+Théoden is walking into a trap.
+
+940
+01:29:38,957 --> 01:29:41,167
+He thinks he's leading them to safety.
+
+941
+01:29:41,334 --> 01:29:43,503
+What they will get is a massacre.
+
+942
+01:29:45,046 --> 01:29:47,549
+Théoden has a strong will,
+but I fear for him.
+
+943
+01:29:48,425 --> 01:29:51,803
+I fear for the survival of Rohan.
+
+944
+01:29:52,220 --> 01:29:55,098
+He will need you before the end,
+Aragorn.
+
+945
+01:29:55,557 --> 01:29:58,351
+The people of Rohan will need you.
+
+946
+01:29:58,727 --> 01:30:01,187
+The defenses have to hold.
+
+947
+01:30:02,606 --> 01:30:04,357
+They will hold.
+
+948
+01:30:08,361 --> 01:30:10,655
+The Grey Pilgrim.
+
+949
+01:30:10,822 --> 01:30:13,450
+That's what they used to call me.
+
+950
+01:30:13,617 --> 01:30:18,747
+Three hundred lives of Men I've walked
+this earth, and now I have no time.
+
+951
+01:30:20,332 --> 01:30:22,542
+With luck, my search will not
+be in vain.
+
+952
+01:30:23,084 --> 01:30:26,379
+Look to my coming at first light
+on the fifth day.
+
+953
+01:30:27,255 --> 01:30:29,966
+At dawn, look to the east.
+
+954
+01:30:30,133 --> 01:30:31,676
+Go.
+
+955
+01:30:45,607 --> 01:30:47,567
+[HORSE NEIGHING]
+
+956
+01:30:58,995 --> 01:31:02,374
+That horse is half mad, my lord.
+There's nothing you can do. Leave him.
+
+957
+01:31:03,792 --> 01:31:05,305
+ARAGORN [IN ROHIRRIC]: Fast...
+(Fæste...)
+
+958
+01:31:07,100 --> 01:31:08,414
+...quiet now.
+(...stille nú.)
+
+959
+01:31:11,360 --> 01:31:12,434
+Fast...
+(Fæste...)
+
+960
+01:31:15,215 --> 01:31:16,699
+Quiet...
+(Stille...)
+
+961
+01:31:20,830 --> 01:31:22,445
+...quiet...
+(...stille...)
+
+962
+01:31:23,078 --> 01:31:24,203
+...quiet...
+(...stille...)
+
+963
+01:31:24,914 --> 01:31:26,405
+...quiet...
+(...stille...)
+
+964
+01:31:27,690 --> 01:31:30,023
+A battle is stirring, you heard
+(Lac is drefed, gefrægon..)
+
+965
+01:31:37,338 --> 01:31:39,224
+What is your name?
+(Hwæt nemnað ðe?)
+
+966
+01:31:40,993 --> 01:31:41,604
+What is your name?
+(Hwæt nemnað ðe?)
+
+967
+01:31:41,629 --> 01:31:43,456
+His name is Brego.
+
+968
+01:31:44,958 --> 01:31:46,918
+He was my cousin's horse.
+
+969
+01:31:47,085 --> 01:31:48,920
+Brego.
+
+970
+01:31:50,368 --> 01:31:53,219
+(Ðin nama is cynglic.)
+
+971
+01:31:53,633 --> 01:31:56,371
+ARAGORN [IN SINDARIN]: <i> What troubles you, Brego?
+(Man le trasta, Brego?)</i>
+
+972
+01:32:01,397 --> 01:32:03,072
+What did you see?
+(Man cenich?)
+
+973
+01:32:03,643 --> 01:32:06,062
+I have heard of the magic of Elves...
+
+974
+01:32:06,229 --> 01:32:09,524
+...but I did not look for it
+in a Ranger from the North.
+
+975
+01:32:10,567 --> 01:32:12,986
+You speak as one of their own.
+
+976
+01:32:14,779 --> 01:32:17,240
+[IN ENGLISH]
+I was raised in Rivendell...
+
+977
+01:32:17,490 --> 01:32:19,034
+...for a time.
+
+978
+01:32:22,328 --> 01:32:24,372
+Turn this fellow free.
+
+979
+01:32:24,998 --> 01:32:27,500
+He's seen enough of war.
+
+980
+01:32:39,262 --> 01:32:42,098
+Gandalf the White.
+
+981
+01:32:42,265 --> 01:32:44,642
+Gandalf the Fool!
+
+982
+01:32:45,977 --> 01:32:50,231
+Does he seek to humble me
+with his newfound piety?
+
+983
+01:32:51,191 --> 01:32:55,153
+WORMTONGUE: There were three
+who followed the wizard.
+
+984
+01:32:55,570 --> 01:33:00,909
+An Elf, a Dwarf and a Man.
+
+985
+01:33:01,284 --> 01:33:04,079
+You stink of horse.
+
+986
+01:33:09,334 --> 01:33:11,211
+The Man...
+
+987
+01:33:13,254 --> 01:33:17,467
+-...was he from Gondor?
+-No, from the North.
+
+988
+01:33:17,634 --> 01:33:21,429
+One of the Dúnedain Rangers,
+I thought he was.
+
+989
+01:33:21,596 --> 01:33:23,389
+His cloth was poor.
+
+990
+01:33:24,307 --> 01:33:29,437
+And yet he bore a strange ring.
+
+991
+01:33:30,522 --> 01:33:34,067
+Two serpents with emerald eyes.
+
+992
+01:33:34,234 --> 01:33:40,073
+One devouring,
+the other crowned with golden flowers.
+
+993
+01:33:40,240 --> 01:33:42,158
+SARUMAN:
+The Ring of Barahir.
+
+994
+01:33:43,118 --> 01:33:46,704
+So Gandalf Greyhame
+thinks he has found Isildur's heir.
+
+995
+01:33:46,871 --> 01:33:50,208
+The lost king of Gondor.
+He is a fool.
+
+996
+01:33:50,375 --> 01:33:53,128
+The line was broken years ago.
+
+997
+01:33:54,546 --> 01:33:56,005
+It matters not.
+
+998
+01:33:56,172 --> 01:33:58,716
+The world of Men shall fall.
+
+999
+01:33:58,883 --> 01:34:00,760
+It will begin at Edoras.
+
+1000
+01:34:09,978 --> 01:34:11,896
+I am ready, Gamling.
+
+1001
+01:34:12,063 --> 01:34:14,566
+Bring my horse.
+
+1002
+01:34:17,694 --> 01:34:19,070
+This is not a defeat.
+
+1003
+01:34:21,489 --> 01:34:22,699
+We will return.
+
+1004
+01:34:28,163 --> 01:34:30,582
+We will return.
+
+1005
+01:34:53,938 --> 01:34:55,899
+You have some skill with a blade.
+
+1006
+01:35:04,407 --> 01:35:06,492
+Women of this country learned long ago:
+
+1007
+01:35:06,659 --> 01:35:09,287
+Those without swords
+can still die upon them.
+
+1008
+01:35:09,454 --> 01:35:11,289
+I fear neither death nor pain.
+
+1009
+01:35:12,540 --> 01:35:14,667
+What do you fear, my lady?
+
+1010
+01:35:18,046 --> 01:35:19,881
+A cage.
+
+1011
+01:35:21,174 --> 01:35:25,011
+To stay behind bars until use
+and old age accept them.
+
+1012
+01:35:25,178 --> 01:35:29,140
+And all chance of valor has gone
+beyond recall or desire.
+
+1013
+01:35:32,518 --> 01:35:34,562
+You're a daughter of kings...
+
+1014
+01:35:35,813 --> 01:35:39,150
+...a shieldmaiden of Rohan.
+
+1015
+01:35:44,405 --> 01:35:46,950
+I do not think that would be your fate.
+
+1016
+01:36:19,983 --> 01:36:23,027
+WORMTONGUE:
+<i>Théoden will not stay at Edoras.</i>
+
+1017
+01:36:23,194 --> 01:36:25,321
+It's vulnerable. He knows this.
+
+1018
+01:36:25,488 --> 01:36:28,366
+He will expect an attack on the city.
+
+1019
+01:36:29,701 --> 01:36:32,954
+They will flee to Helm's Deep...
+
+1020
+01:36:33,121 --> 01:36:35,456
+...the great fortress of Rohan.
+
+1021
+01:36:36,708 --> 01:36:41,045
+<i>It is a dangerous road to take
+through the mountains.</i>
+
+1022
+01:36:42,505 --> 01:36:44,215
+<i>They will be slow.</i>
+
+1023
+01:36:44,590 --> 01:36:49,012
+They will have women and children
+with them.
+
+1024
+01:36:52,890 --> 01:36:55,226
+Send out your Warg-riders.
+
+1025
+01:36:55,727 --> 01:36:59,105
+[GROWLING]
+
+1026
+01:37:10,033 --> 01:37:12,952
+Hey, stinker, don't go getting
+too far ahead.
+
+1027
+01:37:13,119 --> 01:37:15,788
+-Why do you do that?
+-What?
+
+1028
+01:37:15,955 --> 01:37:18,499
+Call him names.
+Run him down all the time.
+
+1029
+01:37:18,916 --> 01:37:20,960
+Because.
+
+1030
+01:37:22,503 --> 01:37:24,630
+Because that's what he is, Mr. Frodo.
+
+1031
+01:37:24,797 --> 01:37:27,008
+There's naught left in him
+but lies and deceit.
+
+1032
+01:37:27,425 --> 01:37:30,219
+It's the Ring he wants.
+It's all he cares about.
+
+1033
+01:37:30,386 --> 01:37:32,638
+You have no idea what it did to him...
+
+1034
+01:37:32,805 --> 01:37:35,308
+...what it's still doing to him.
+
+1035
+01:37:37,518 --> 01:37:39,604
+I want to help him, Sam.
+
+1036
+01:37:39,771 --> 01:37:41,064
+Why?
+
+1037
+01:37:46,361 --> 01:37:49,489
+Because I have to believe
+he can come back.
+
+1038
+01:37:53,785 --> 01:37:55,661
+You can't save him, Mr. Frodo.
+
+1039
+01:37:55,828 --> 01:37:58,581
+What do you know about it?
+Nothing!
+
+1040
+01:38:05,505 --> 01:38:09,717
+I'm sorry, Sam. I don't know
+why I said that.
+
+1041
+01:38:10,551 --> 01:38:11,677
+I do.
+
+1042
+01:38:13,721 --> 01:38:15,598
+It's the Ring.
+
+1043
+01:38:16,140 --> 01:38:17,725
+You can't take your eyes off it.
+
+1044
+01:38:18,434 --> 01:38:20,436
+I've seen you.
+
+1045
+01:38:20,895 --> 01:38:24,732
+You're not eating. You barely sleep.
+
+1046
+01:38:26,484 --> 01:38:28,736
+It's taken hold of you, Mr. Frodo.
+
+1047
+01:38:28,903 --> 01:38:31,614
+-You have to fight it.
+-I know what I have to do, Sam.
+
+1048
+01:38:31,823 --> 01:38:34,700
+The Ring was entrusted to me.
+It's my task.
+
+1049
+01:38:34,867 --> 01:38:36,619
+Mine! My own!
+
+1050
+01:38:37,453 --> 01:38:39,580
+Can't you hear yourself?
+
+1051
+01:38:39,747 --> 01:38:41,416
+Don't you know who you sound like?
+
+1052
+01:38:51,676 --> 01:38:53,803
+GOLLUM:
+We wants it.
+
+1053
+01:38:53,970 --> 01:38:56,681
+We needs it.
+
+1054
+01:38:56,848 --> 01:39:01,644
+Must have the precious.
+
+1055
+01:39:01,853 --> 01:39:05,273
+They stole it from us.
+
+1056
+01:39:05,440 --> 01:39:08,818
+Sneaky little Hobbitses.
+
+1057
+01:39:08,985 --> 01:39:12,864
+Wicked. Tricksy. False.
+
+1058
+01:39:13,030 --> 01:39:16,325
+SMÉAGOL:
+No. Not master.
+
+1059
+01:39:16,492 --> 01:39:20,329
+GOLLUM:
+Yes, precious. False.
+
+1060
+01:39:20,496 --> 01:39:25,001
+They will cheat you, hurt you, lie!
+
+1061
+01:39:26,127 --> 01:39:28,588
+SMÉAGOL:
+Master's my friend.
+
+1062
+01:39:28,754 --> 01:39:33,885
+You don't have any friends.
+Nobody likes you.
+
+1063
+01:39:35,094 --> 01:39:37,597
+Not listening. I'm not listening.
+
+1064
+01:39:37,763 --> 01:39:41,767
+You're a liar and a thief.
+
+1065
+01:39:42,393 --> 01:39:43,978
+No.
+
+1066
+01:39:44,896 --> 01:39:47,773
+Murderer.
+
+1067
+01:39:50,234 --> 01:39:51,277
+Go away.
+
+1068
+01:39:51,444 --> 01:39:53,821
+Go away?
+
+1069
+01:39:55,823 --> 01:39:58,618
+I hate you.
+
+1070
+01:39:58,784 --> 01:40:01,204
+I hate you.
+
+1071
+01:40:01,496 --> 01:40:04,790
+Where would you be without me?
+Gollum. Gollum.
+
+1072
+01:40:04,957 --> 01:40:06,792
+I saved us.
+
+1073
+01:40:06,959 --> 01:40:11,506
+It was me. We survived because of me.
+
+1074
+01:40:12,715 --> 01:40:16,302
+Not anymore.
+
+1075
+01:40:17,637 --> 01:40:19,222
+What did you say?
+
+1076
+01:40:21,265 --> 01:40:25,102
+Master looks after us now.
+
+1077
+01:40:25,269 --> 01:40:28,773
+We don't need you.
+
+1078
+01:40:29,482 --> 01:40:31,067
+What?
+
+1079
+01:40:31,234 --> 01:40:32,985
+Leave now...
+
+1080
+01:40:33,152 --> 01:40:36,948
+...and never come back.
+
+1081
+01:40:37,114 --> 01:40:38,157
+No.
+
+1082
+01:40:38,658 --> 01:40:42,870
+Leave now and never come back.
+
+1083
+01:40:45,456 --> 01:40:51,379
+Leave now and never come back!
+
+1084
+01:41:03,349 --> 01:41:06,060
+We told him to go away.
+
+1085
+01:41:06,227 --> 01:41:09,188
+And away he goes, precious.
+
+1086
+01:41:09,355 --> 01:41:11,357
+Gone! Gone! Gone!
+
+1087
+01:41:11,524 --> 01:41:13,317
+Sméagol is free!
+
+1088
+01:41:18,239 --> 01:41:19,740
+SMÉAGOL:
+Look.
+
+1089
+01:41:19,907 --> 01:41:24,412
+Look. See what Sméagol finds?
+
+1090
+01:41:24,745 --> 01:41:27,915
+[CHUCKLING]
+
+1091
+01:41:33,921 --> 01:41:35,339
+They are young.
+
+1092
+01:41:35,506 --> 01:41:38,050
+They are tender. They are nice.
+
+1093
+01:41:38,217 --> 01:41:41,762
+Yes, they are. Eat them. Eat them!
+
+1094
+01:41:44,515 --> 01:41:46,058
+You'll make him sick, you will...
+
+1095
+01:41:47,268 --> 01:41:49,520
+...behaving like that.
+
+1096
+01:41:51,856 --> 01:41:54,650
+There's only one way to eat
+a brace of coneys.
+
+1097
+01:41:55,151 --> 01:41:57,278
+[SMÉAGOL SHRIEKING]
+
+1098
+01:41:58,821 --> 01:42:00,406
+What's it doing?
+
+1099
+01:42:01,115 --> 01:42:03,784
+Stupid, fat Hobbit.
+
+1100
+01:42:03,951 --> 01:42:06,162
+It ruins it.
+
+1101
+01:42:06,329 --> 01:42:09,957
+What's to ruin? There's hardly any meat
+on them.
+
+1102
+01:42:10,625 --> 01:42:13,586
+[BIRD WHISTLING]
+
+1103
+01:42:14,086 --> 01:42:16,672
+What we need is a few good taters.
+
+1104
+01:42:17,548 --> 01:42:20,593
+What's taters, precious?
+
+1105
+01:42:20,760 --> 01:42:22,511
+What's taters? Eh?
+
+1106
+01:42:22,678 --> 01:42:24,388
+Po-ta-toes.
+
+1107
+01:42:24,722 --> 01:42:27,975
+Boil them, mash them,
+stick them in a stew.
+
+1108
+01:42:29,477 --> 01:42:34,982
+Lovely, big, golden chips
+with a nice piece of fried fish.
+
+1109
+01:42:36,275 --> 01:42:38,194
+Even you couldn't say no to that.
+
+1110
+01:42:38,569 --> 01:42:40,696
+Oh, yes, we could.
+
+1111
+01:42:40,863 --> 01:42:44,367
+Spoil a nice fish.
+
+1112
+01:42:45,660 --> 01:42:48,287
+Give it to us raw...
+
+1113
+01:42:48,454 --> 01:42:51,499
+...and wriggling.
+
+1114
+01:42:51,666 --> 01:42:54,794
+You keep nasty chips.
+
+1115
+01:42:55,711 --> 01:42:57,797
+You're hopeless.
+
+1116
+01:43:10,309 --> 01:43:11,811
+Mr. Frodo?
+
+1117
+01:43:29,704 --> 01:43:32,373
+SAM: Who are they?
+SMÉAGOL: Wicked Men.
+
+1118
+01:43:32,540 --> 01:43:35,000
+Servants of Sauron.
+
+1119
+01:43:35,793 --> 01:43:38,003
+They are called to Mordor.
+
+1120
+01:43:38,170 --> 01:43:41,215
+The Dark One is gathering all armies
+to him.
+
+1121
+01:43:41,382 --> 01:43:44,552
+It won't be long now.
+He will soon be ready.
+
+1122
+01:43:46,137 --> 01:43:49,765
+-Ready to do what?
+-To make his war.
+
+1123
+01:43:49,932 --> 01:43:55,146
+The last war that will cover
+all the world in Shadow.
+
+1124
+01:43:55,396 --> 01:43:57,231
+We've got to get moving. Come on, Sam.
+
+1125
+01:43:57,398 --> 01:43:58,441
+[OLIPHAUNT GROANS]
+
+1126
+01:43:58,649 --> 01:43:59,859
+Mr. Frodo.
+
+1127
+01:44:00,359 --> 01:44:01,986
+Look.
+
+1128
+01:44:05,656 --> 01:44:07,950
+It's an oliphaunt.
+
+1129
+01:44:09,660 --> 01:44:12,538
+[GROANING]
+
+1130
+01:44:16,167 --> 01:44:19,170
+No one at home will believe this.
+
+1131
+01:44:23,424 --> 01:44:25,885
+[BIRD WHISTLES]
+
+1132
+01:44:30,306 --> 01:44:32,183
+Sméagol?
+
+1133
+01:44:34,935 --> 01:44:37,146
+[ARROWS FLYING]
+
+1134
+01:44:37,313 --> 01:44:38,898
+[SCREAMING]
+
+1135
+01:44:49,825 --> 01:44:51,952
+[OLIPHAUNTS TRUMPETING]
+
+1136
+01:45:12,515 --> 01:45:15,017
+We've lingered here too long.
+
+1137
+01:45:18,020 --> 01:45:19,355
+Come on, Sam.
+
+1138
+01:45:31,408 --> 01:45:32,660
+No!
+
+1139
+01:45:32,827 --> 01:45:35,538
+Wait! We're innocent travelers!
+
+1140
+01:45:37,248 --> 01:45:42,336
+There are no travelers in this land.
+Only servants of the Dark Tower.
+
+1141
+01:45:42,503 --> 01:45:45,381
+We are bound to an errand of secrecy.
+
+1142
+01:45:46,757 --> 01:45:50,135
+Those that claim to oppose the enemy
+would do well not to hinder us.
+
+1143
+01:45:50,302 --> 01:45:52,388
+The enemy?
+
+1144
+01:45:54,431 --> 01:45:57,935
+His sense of duty was no less
+than yours, I deem.
+
+1145
+01:46:00,396 --> 01:46:02,523
+You wonder what his name is...
+
+1146
+01:46:04,024 --> 01:46:06,277
+...where he came from.
+
+1147
+01:46:08,279 --> 01:46:10,698
+And if he was really evil at heart.
+
+1148
+01:46:12,366 --> 01:46:15,828
+What lies or threats led him
+on this long march from home.
+
+1149
+01:46:17,413 --> 01:46:19,915
+If he would not rather have stayed there...
+
+1150
+01:46:22,084 --> 01:46:23,627
+...in peace.
+
+1151
+01:46:27,172 --> 01:46:30,217
+War will make corpses of us all.
+
+1152
+01:46:30,384 --> 01:46:32,428
+Bind their hands.
+

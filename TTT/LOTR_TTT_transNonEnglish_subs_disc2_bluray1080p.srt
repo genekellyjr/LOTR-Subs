@@ -1,0 +1,270 @@
+﻿1
+00:04:31,062 --> 00:04:32,656
+[IN SINDARIN] (Minlû pedich nin...)
+
+2
+00:04:35,047 --> 00:04:37,303
+(i aur hen telitha.)
+
+3
+00:04:38,273 --> 00:04:41,066
+(Ú i vethed... nâ i onnad.)
+
+4
+00:04:41,091 --> 00:04:43,251
+(Boe bedich go Frodo.)
+
+5
+00:04:43,926 --> 00:04:46,105
+(Han bâd lîn.)
+
+6
+00:04:56,360 --> 00:04:59,175
+(Dolen i vâd o nin.)
+
+7
+00:04:59,834 --> 00:05:03,529
+(Si peliannen i vâd na dail lîn.)
+
+8
+00:05:03,553 --> 00:05:06,909
+(Si boe ú-dhannathach.)
+
+9
+00:05:13,414 --> 00:05:15,711
+(Ae ú-esteliach nad...)
+
+10
+00:05:16,086 --> 00:05:18,163
+(estelio han...)
+
+11
+00:05:19,335 --> 00:05:21,419
+(estelio ammen.)
+
+12
+00:06:51,394 --> 00:06:54,465
+[IN SINDARIN] (Nach gwannatha sin?)
+
+13
+00:06:54,490 --> 00:06:57,803
+(Ma nathach hi gwannathach or minuial - archened?)
+
+14
+00:07:00,399 --> 00:07:02,942
+[IN SINDARIN] (Ú-ethelithon.)
+
+15
+00:07:03,745 --> 00:07:05,733
+(Estelio guru lîn ne dagor.)
+
+16
+00:07:05,757 --> 00:07:07,318
+(Ethelithach.)
+
+17
+00:07:07,342 --> 00:07:09,565
+(Ú-bedin o gurth ne dagor.)
+
+18
+00:07:09,589 --> 00:07:12,075
+(O man pedich?)
+
+19
+00:07:17,037 --> 00:07:19,037
+(Edra le men...)
+
+20
+00:07:19,163 --> 00:07:20,420
+(...men na guil edwen...)
+
+21
+00:07:22,215 --> 00:07:26,839
+(haer o auth...a nîr...a naeth.)
+
+22
+00:21:56,198 --> 00:21:58,152
+[IN SINDARIN] (Tollen i lû.)
+
+23
+00:22:00,159 --> 00:22:04,081
+(I chair gwannar na Valannor. Si bado... no círar.)
+
+24
+00:24:39,269 --> 00:24:42,458
+[IN SINDARIN] (A im ú-'erin veleth lîn?)
+
+25
+00:24:44,029 --> 00:24:45,794
+(Gerich meleth nîn, ada.)
+
+26
+00:25:37,036 --> 00:25:40,205
+GALADRIEL [IN SINDARIN]: <i> The world is changed.
+(I amar prestar aen.)</i>
+
+27
+00:25:40,767 --> 00:25:42,767
+I feel it in the water,
+(Han mathon ne nen,)
+
+28
+00:25:43,169 --> 00:25:45,169
+I feel it in the earth,
+(han mathon ne chae,)
+
+29
+00:25:46,941 --> 00:25:49,164
+and I smell it in...
+(a han noston ned...)
+
+30
+00:25:50,012 --> 00:25:51,265
+...the air.
+(...'wilith.)
+
+31
+00:44:47,643 --> 00:44:51,407
+[IN SINDARIN] Well done, Brego, my friend.
+(Mae carnen, Brego, mellon nîn.)
+
+32
+00:45:27,850 --> 00:45:28,910
+[IN SINDARIN] (Le abdollen.)
+
+33
+00:46:01,008 --> 00:46:03,844
+[IN SINDARIN] Thank you.
+(Hannon le.)
+
+34
+00:53:23,631 --> 00:53:25,453
+[IN SINDARIN] (Boe a hyn...)
+
+35
+00:53:25,803 --> 00:53:27,555
+(Neled herain...                            )
+
+36
+00:53:27,580 --> 00:53:28,946
+(Neled herain... dan caer menig!)
+
+37
+00:53:30,675 --> 00:53:32,893
+[IN SINDARIN] (Si beriathar hyn ammaeg na ned Edoras...)
+
+38
+00:53:32,918 --> 00:53:34,169
+Aragorn.
+
+39
+00:53:34,303 --> 00:53:36,970
+(Nedin dagor hen ú-'erir ortheri.)
+
+40
+00:53:37,887 --> 00:53:39,250
+(Natha daged dhaer!)
+
+41
+00:58:15,283 --> 00:58:17,852
+[IN SINDARIN] (Ú-moe edhored, Legolas.)
+
+42
+00:59:40,990 --> 00:59:43,243
+Well met, Haldir!
+(Mae govannen, Haldir!)
+
+43
+01:01:57,214 --> 01:01:58,770
+[IN SINDARIN] O, Children of Eru... (A Eruchîn...)
+
+44
+01:01:58,976 --> 01:02:01,073
+...show them no mercy... (...ú-dano i faelas a hyn...)
+
+45
+01:02:01,945 --> 01:02:04,365
+(an uben tanatha le faelas!)
+
+46
+01:03:23,987 --> 01:03:24,658
+(Dartho!)
+
+47
+01:03:55,484 --> 01:03:56,694
+(Tangado a chadad!)
+
+48
+01:04:05,674 --> 01:04:08,022
+[IN SINDARIN] (Faeg i-varv...dîn na lanc...)
+
+49
+01:04:08,047 --> 01:04:09,699
+(...a nu ranc.)
+
+50
+01:04:09,727 --> 01:04:11,445
+(Leithio i philinn!)
+
+51
+01:04:28,114 --> 01:04:31,576
+Release arrows!
+(Hado i philinn!)
+
+52
+01:04:59,749 --> 01:05:00,841
+(Pendraith!)
+
+53
+01:08:21,914 --> 01:08:23,126
+[IN SINDARIN] Causeway!
+(Na fennas!)
+
+54
+01:08:23,151 --> 01:08:24,366
+<i>Shoot continuously!
+(Hado ribed!)</i>
+
+55
+01:08:24,862 --> 01:08:26,077
+<i>Throw!
+(Hado!)</i>
+
+56
+01:09:02,410 --> 01:09:03,877
+(Togo han dad, Legolas!)
+
+57
+01:09:07,171 --> 01:09:08,243
+(Dago hon!)
+
+58
+01:09:08,534 --> 01:09:09,315
+(Dago hon!)
+
+59
+01:10:45,324 --> 01:10:46,784
+Hurl the arrows!
+(Hado i philinn!)
+
+60
+01:10:49,816 --> 01:10:50,766
+(Herio!)
+
+61
+01:13:33,211 --> 01:13:34,757
+[IN SINDARIN] (Nan Barad!)
+
+62
+01:13:39,568 --> 01:13:41,180
+To the Keep! (Nan Barad!)
+
+63
+01:13:51,627 --> 01:13:53,123
+[IN SINDARIN] To the Keep!
+(Nan Barad!)
+
+64
+02:08:46,636 --> 02:08:48,638
+[v1.2]
+
