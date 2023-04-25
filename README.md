@@ -178,6 +178,8 @@ http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/m
 
 * Lyrics at https://www.elvish.org/gwaith/movie_soundtrack_fotr.htm#ring
 
+* Extra phrase at https://www.elvish.org/gwaith/movie_ttt.htm#sauron
+
 ## Style Guide
 
 ### 1st line of Elvish w/ baked-on translations
