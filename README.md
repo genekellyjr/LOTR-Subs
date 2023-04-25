@@ -262,6 +262,4 @@ elvish.org's translations
 arwen-undomiel.com's translations
 
 ### Black Speech
-
-### Black Speech resources
 folk.uib.no's list
