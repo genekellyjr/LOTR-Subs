@@ -242,17 +242,23 @@ _"If everyone stands on top of everyone else's shoulders, we get really high wit
 
 ### FOTR
 LeithioiPhilinn on Subscene
+
 elvish.org's translations
+
 arwen-undomiel.com's translations
 
 ### TTT
 LeithioiPhilinn on Subscene, Dietrich from before that
+
 elvish.org's translations
+
 arwen-undomiel.com's translations
 
 ### ROTK
 LeithioiPhilinn on Subscene, Galadhorn and peeps on elvish.org from before that
+
 elvish.org's translations
+
 arwen-undomiel.com's translations
 
 ### Black Speech
