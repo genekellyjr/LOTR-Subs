@@ -238,7 +238,7 @@ Hi. </i>
 (but not the very first `GANDALF: <i>You cannot pass!...` in TTT for ?reasons?)
 
 ## Thanks to Sources
-"If everyone stands on top of everyone else's shoulders, we get really high without needing to find a ladder." - Isaac Fignewton
+_"If everyone stands on top of everyone else's shoulders, we get really high without needing to find a ladder." - Isaac Fignewton_
 
 ### FOTR
 LeithioiPhilinn on Subscene
