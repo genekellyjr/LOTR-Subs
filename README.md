@@ -142,6 +142,16 @@ Line height: 72
 ```
 Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs (or keep and rename/remove default tag)!
 
+## Find an issue?
+
+They happen! Find an issue covering it or open a new one if it's new!
+
+I used OCR built into Subtitle Edit and sometimes it messes up. I tried to find them all, but it's a lot of text to read!
+
+And the translations aren't always cut and dry.
+
+To correct translations, bring a reference. (Unless you're a wizard)
+
 
 ## Resources per movie
 ### FOTR
