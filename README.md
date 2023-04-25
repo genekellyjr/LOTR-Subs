@@ -230,9 +230,32 @@ STRIDER [HUMS IN SINDARIN]: <i> Tinúviel the elven-fair
 that is given to you.
 ```
 
-### All italicized text needs an extra space after the `<i>` for it to show correctly in the blu-ray PGS .sub output
+### All italicized text with `PERSON: <i>` needs an extra space after the `<i>` for it to show correctly in the blu-ray PGS .sub output
 ```
 PERSON: <i> Hello.
 Hi. </i>
 ```
 (but not the very first `GANDALF: <i>You cannot pass!...` in TTT for ?reasons?)
+
+## Thanks to Sources
+"If everyone stands on top of everyone else's shoulders, we get really high without needing to find a ladder." - Isaac Fignewton
+
+### FOTR
+LeithioiPhilinn on Subscene
+elvish.org's translations
+arwen-undomiel.com's translations
+
+### TTT
+LeithioiPhilinn on Subscene, Dietrich from before that
+elvish.org's translations
+arwen-undomiel.com's translations
+
+### ROTK
+LeithioiPhilinn on Subscene, Galadhorn and peeps on elvish.org from before that
+elvish.org's translations
+arwen-undomiel.com's translations
+
+### Black Speech
+
+### Black Speech resources
+folk.uib.no's list
