@@ -170,9 +170,11 @@ http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/m
 
 ### Black Speech resources
 
-List of all known words https://web.archive.org/web/20180501031101/http://folk.uib.no/hnohf/o2.htm
+* List of all known words https://web.archive.org/web/20180501031101/http://folk.uib.no/hnohf/o2.htm
 
-Translated Black Speech score (used in at least 1 scene as words) https://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf at "BLACK SPEECH RING-VERSE" on page 17
+* Translated Black Speech score (used in at least 1 scene as words) https://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf at "BLACK SPEECH RING-VERSE" on page 17
+
+* Extra phrase at https://www.elvish.org/gwaith/movie_fotr.htm `40. Ringwraith's Cry.`
 
 ## Style Guide
 
@@ -263,5 +265,9 @@ elvish.org's translations
 
 arwen-undomiel.com's translations
 
+tolkiengateway.net's quote and context
+
 ### Black Speech
 folk.uib.no's list
+
+elvish.org's translations
