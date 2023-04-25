@@ -176,6 +176,8 @@ http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/m
 
 * Extra phrase at https://www.elvish.org/gwaith/movie_fotr.htm `40. Ringwraith's Cry.`
 
+* Lyrics at https://www.elvish.org/gwaith/movie_soundtrack_fotr.htm#ring
+
 ## Style Guide
 
 ### 1st line of Elvish w/ baked-on translations
