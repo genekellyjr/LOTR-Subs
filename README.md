@@ -129,17 +129,53 @@ mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
 * Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...`.
 * Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
 
+_Note that the below settings aren't perfect, just really close. It seems for:_
+```
+-Dialog like
+-This
+```
+_in the orig subs they are center left justified custom, but I don't have the wherewithal to do that (unless maybe all issues get closed)._
+_The dialog is also slightly different sizes and there's more padding from Subtitle Edit on the top and bottom that I can't control._
+
+### FOTR
 ```
 Font Family: Arial
 Font Size: 66
 Video res: 1080p
 Align: Center, left justify dialog
-Bottom margin: 2%
+Bottom margin: 5%
+Border style: Normal, width=3
+Frame rate: 23.976
+Shadow width: 0
+Line height: 77
+```
+
+### TTT
+```
+Font Family: Arial
+Font Size: 66
+Video res: 1080p
+Align: Center, left justify dialog
+Bottom margin: 5%
 Border style: Normal, width=3
 Frame rate: 23.976
 Shadow width: 0
 Line height: 72
 ```
+
+### ROTK
+```
+Font Family: Arial
+Font Size: 66
+Video res: 1080p
+Align: Center, left justify dialog
+Bottom margin: 5%
+Border style: Normal, width=3
+Frame rate: 23.976
+Shadow width: 0
+Line height: 85
+```
+
 Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs (or keep and rename/remove default tag)!
 
 
