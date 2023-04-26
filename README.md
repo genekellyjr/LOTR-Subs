@@ -147,7 +147,7 @@ Bottom margin: 5%
 Border style: Normal, width=3
 Frame rate: 23.976
 Shadow width: 0
-Line height: 77
+Line height: 77 <- only thing that changes between movies
 ```
 
 ### TTT
@@ -160,7 +160,7 @@ Bottom margin: 5%
 Border style: Normal, width=3
 Frame rate: 23.976
 Shadow width: 0
-Line height: 72
+Line height: 72 <- only thing that changes between movies
 ```
 
 ### ROTK
@@ -173,7 +173,7 @@ Bottom margin: 5%
 Border style: Normal, width=3
 Frame rate: 23.976
 Shadow width: 0
-Line height: 85
+Line height: 85 <- only thing that changes between movies
 ```
 
 Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs (or keep and rename/remove default tag)!
