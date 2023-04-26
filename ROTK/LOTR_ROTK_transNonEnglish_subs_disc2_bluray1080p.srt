@@ -1,0 +1,64 @@
+﻿1
+00:05:09,788 --> 00:05:13,211
+[IN QUENYA] Hail Eärendil brightest of the Stars!
+(Aiya Eärendil Elenion Ancalima!)
+
+2
+00:59:01,624 --> 00:59:04,451
+SAURON [IN SINDARIN]: <i>White-glittering slants down...
+(Silivren penna míriel...)</i>
+
+3
+00:59:04,475 --> 00:59:08,603
+SAURON: <i>...sparkling like jewels! 
+(...o menel aglar elenath!)</i>
+
+4
+00:59:22,990 --> 00:59:25,917
+<i>White-glittering slants down...
+(Silivren penna míriel...)</i>
+
+5
+00:59:27,347 --> 00:59:29,699
+SAURON [IN BLACK SPEECH]: <i>
+(Ombi kur gundum-ishi...)</i>
+
+6
+00:59:29,724 --> 00:59:32,651
+<i>And in darkness bind them.
+(Agh burzum-ishi krimpatul.)</i>
+
+7
+01:36:41,587 --> 01:36:45,868
+ARAGORN [IN QUENYA]: <i> Out of the Great Sea...
+(Et Eärello...)</i>
+
+8
+01:36:46,505 --> 01:36:52,782
+<i>...to Middle-earth I am come.
+(...Endorenna utúlien.)</i>
+
+9
+01:36:55,297 --> 01:36:59,177
+<i>In this place will I abide...
+(Sinomë maruvan...)</i>
+
+10
+01:37:00,042 --> 01:37:05,096
+<i>...and my heirs...
+(...ar Hildinyar...)</i>
+
+11
+01:37:06,585 --> 01:37:15,542
+<i>...unto the ending of the world.
+(...tenn' Ambar-metta.)</i>
+
+12
+01:37:23,671 --> 01:37:25,131
+[IN SINDARIN] Thank you.
+(Hannon le.)
+
+13
+01:46:43,063 --> 01:46:45,994
+[IN SINDARIN] (I Aear cân ven na mar.)
+

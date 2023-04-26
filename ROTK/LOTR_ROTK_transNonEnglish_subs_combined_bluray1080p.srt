@@ -1,0 +1,97 @@
+﻿1
+00:04:37,402 --> 00:04:39,788
+VOICE OF THE RING [IN BLACK SPEECH]: <i> ...them all...
+(...batulûk...)</i>
+
+2
+00:04:40,510 --> 00:04:43,442
+<i>...One Ring to find them...
+(...Ash Nazg gimbatul...)</i>
+
+3
+00:19:52,608 --> 00:19:54,902
+[IN ROHIRRIC] Be-thou Aragorn well.
+(Westu Aragorn hál.)
+
+4
+00:40:35,516 --> 00:40:36,976
+[IN SINDARIN] Father...
+(Ada...)
+
+5
+00:41:23,481 --> 00:41:24,983
+Father...
+(Ada...)
+
+6
+01:42:33,454 --> 01:42:36,233
+[IN SINDARIN] (Ónen i-Estel Edain.)
+
+7
+01:42:39,495 --> 01:42:43,630
+[IN SINDARIN] (Ú-chebin Estel anim.)
+
+8
+02:12:45,663 --> 02:12:49,086
+[IN QUENYA] Hail Eärendil brightest of the Stars!
+(Aiya Eärendil Elenion Ancalima!)
+
+9
+03:06:37,499 --> 03:06:40,326
+SAURON [IN SINDARIN]: <i>White-glittering slants down...
+(Silivren penna míriel...)</i>
+
+10
+03:06:40,350 --> 03:06:44,478
+SAURON: <i>...sparkling like jewels! 
+(...o menel aglar elenath!)</i>
+
+11
+03:06:58,865 --> 03:07:01,792
+<i>White-glittering slants down...
+(Silivren penna míriel...)</i>
+
+12
+03:07:03,222 --> 03:07:05,574
+SAURON [IN BLACK SPEECH]: <i>
+(Ombi kur gundum-ishi...)</i>
+
+13
+03:07:05,599 --> 03:07:08,526
+<i>And in darkness bind them.
+(Agh burzum-ishi krimpatul.)</i>
+
+14
+03:44:17,462 --> 03:44:21,743
+ARAGORN [IN QUENYA]: <i> Out of the Great Sea...
+(Et Eärello...)</i>
+
+15
+03:44:22,380 --> 03:44:28,657
+<i>...to Middle-earth I am come.
+(...Endorenna utúlien.)</i>
+
+16
+03:44:31,172 --> 03:44:35,052
+<i>In this place will I abide...
+(Sinomë maruvan...)</i>
+
+17
+03:44:35,917 --> 03:44:40,971
+<i>...and my heirs...
+(...ar Hildinyar...)</i>
+
+18
+03:44:42,460 --> 03:44:51,417
+<i>...unto the ending of the world.
+(...tenn' Ambar-metta.)</i>
+
+19
+03:44:59,546 --> 03:45:01,006
+[IN SINDARIN] Thank you.
+(Hannon le.)
+
+20
+03:54:18,938 --> 03:54:21,869
+[IN SINDARIN] (I Aear cân ven na mar.)
+
