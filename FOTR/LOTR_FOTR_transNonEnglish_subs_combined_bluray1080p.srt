@@ -108,7 +108,7 @@ VOICE OF THE RING [IN BLACK SPEECH]: <i> In...
 23
 01:13:30,516 --> 01:13:33,528
 VOICE OF THE RING: <i> Where the Shadows lie...
-(Makha Gulshu darul...)</i>
+(Makha Gulshu darulu...)</i>
 
 24
 01:13:33,808 --> 01:13:39,378
@@ -260,339 +260,378 @@ flow waters of Loudwater, against the Ringwraiths!
 [IN SINDARIN] (Havo dad, Legolas.)
 
 57
+01:41:26,835 --> 01:41:29,955
+THE RING [IN BLACK SPEECH]: <i> In the Land of Mordor where...
+(Daghburz-ishi makha...)</i>
+
+58
+01:41:30,308 --> 01:41:31,625
+<i>...your blood.
+(...sherkuk.)</i>
+
+59
+01:41:57,439 --> 01:42:00,506
+THE RING: <i> Where the Shadows lie...
+(Makha Gulshu darulu...)</i>
+
+60
 01:43:14,481 --> 01:43:16,787
 THE RING [IN BLACK SPEECH]: <i> One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-58
+61
 01:43:16,812 --> 01:43:18,821
 <i>...One Ring to find them...
 (...Ash Nazg gimbatul...)</i>
 
-59
+62
 01:43:18,845 --> 01:43:21,347
 <i>One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-60
+63
 01:43:21,371 --> 01:43:23,534
 <i>...One Ring to find them...
 (...Ash Nazg gimbatul...)</i>
 
-61
+64
 01:43:23,559 --> 01:43:25,729
 <i>One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-62
+65
 01:43:25,753 --> 01:43:27,869
 <i>...One Ring to find them...
 (...Ash Nazg gimbatul...)</i>
 
-63
+66
 01:43:27,893 --> 01:43:29,582
 <i>One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-64
+67
 01:46:13,123 --> 01:46:15,685
 ELROND [IN SINDARIN]: (Anirne hene beriad i chên lîn...)
 
-65
+68
 01:46:17,496 --> 01:46:21,326
 (ned Imladris nauthant e le beriathar aen.)
 
-66
+69
 01:55:35,987 --> 01:55:38,955
 [CHANTS IN SINDARIN] Sleep Caradhras, be still, lie still...
 (Losto Caradhras, sedho, hodo...
 
-67
+70
 01:55:38,979 --> 01:55:40,526
-...hold [your wrath]!
-(...nuitho [i 'ruith!])
+...hold!
+(...nuitho!)
 
-68
+71
 01:55:40,550 --> 01:55:46,826
 SARUMAN [CHANTS IN QUENYA]: <i> Wake up cruel Redhorn!
 (Cuiva nwalca Carnirassë!)</i>
 
-69
+72
 01:55:47,316 --> 01:55:50,474
 May your blood-stained horn...
 (Nai yarvaxëa rasselya...)
 
-70
+73
 01:55:50,969 --> 01:55:54,237
 ...shall fall upon the enemy-heads!
 (...taltuva ñotto-carinnar!)
 
-71
+74
 01:55:55,901 --> 01:55:58,542
 <i>Wake up cruel...
 (Cuiva nwalca...)</i>
 
-72
+75
 01:55:59,574 --> 01:56:00,448
 <i>...Redhorn!
 (...Carnirassë!)</i>
 
-73
+76
 01:59:48,082 --> 01:59:52,429
 [IN SINDARIN] Gate of the Elves, open now for me!
 (Annon Edhellen, edro hi ammen.)
 
-74
+77
 02:00:00,812 --> 02:00:07,214
 Doorway of the Dwarf-folk, listen to the word of my tongue.
 (Fennas Nogothrim, lasto beth lammen.)
 
-75
+78
+02:00:39,661 --> 02:00:42,800
+[GANDALF SPEAKS IN KHUZDÛL]
+
+79
 02:00:43,065 --> 02:00:46,036
 [IN SINDARIN] Gate of Elves...
 (Ando Eldarinwa...)
 
-76
+80
 02:00:46,709 --> 02:00:48,741
 ...listen to my word,
 (...a lasta quettanya,)
 
-77
+81
 02:00:49,616 --> 02:00:51,922
 Threshold of Dwarves!
 (Fenda Casarinwa!)
 
-78
-02:11:37,624 --> 02:11:43,353
-<i>GIMLI [IN KHUZDÛL]:
-(Kheled-zâram... Balin tazlifi.)</i>
+82
+02:00:58,811 --> 02:01:00,524
+GANDALF, SOFTLY: <i>Doorway of the Dwarf-folk...
+(Fennas Nogothrim...)</i>
 
-79
+83
+02:01:01,140 --> 02:01:03,446
+GANDALF: <i>...listen to the word of my tongue.
+(...lasto beth lammen.)</i>
+
+84
+02:01:06,075 --> 02:01:07,667
+GANDALF: <i> Gate of Elves...
+(Ando Eldarinwa...)</i>
+
+85
+02:11:34,738 --> 02:11:37,599
+GIMLI, SOFTLY [IN KHUZDÛL]: <i> A crown of stars in the waters...
+(Kilmîn malur ni zâram...)</i>
+
+86
+02:11:37,624 --> 02:11:43,353
+<i>...cold and black, of the Kheled-zâram. Balin sleeps.
+(...kalil ra narag, Kheled-zâram... Balin tazlifi.)</i>
+
+87
 02:31:14,314 --> 02:31:16,385
 [IN SINDARIN] (Mae govannen, Legolas Thranduilion.)
 
-80
+88
 02:31:17,276 --> 02:31:19,972
 (Govannas vîn gwennen le, Haldir o Lórien.)
 
-81
+89
 02:31:22,704 --> 02:31:24,480
 (A Aragorn in Dúnedain...)
 
-82
+90
 02:31:25,079 --> 02:31:26,517
 (istannen le ammen.)
 
-83
+91
 02:31:26,960 --> 02:31:27,638
 Haldir.
 
-84
+92
 02:31:39,516 --> 02:31:43,611
 [IN KHUZDÛL] I spit upon your grave.
 (Ishkhaqwi ai durugnul.)
 
-85
+93
 02:32:08,323 --> 02:32:09,737
 ARAGORN [URGENTLY IN SINDARIN]: We need your protection.
 (Boe ammen veriad lîn.)
 
-86
+94
 02:32:09,761 --> 02:32:11,366
 The road is fell!
 (Andelu i ven!)
 
-87
+95
 02:32:14,789 --> 02:32:15,687
 I'm glad we came to you.
 (Merin le telim.)
 
-88
+96
 02:32:16,872 --> 02:32:18,559
 We need your support!
 (Boe ammen i dulu lîn!)
 
-89
+97
 02:32:19,763 --> 02:32:21,319
 HALDIR:
 <i>Aragorn...</i>
 
-90
+98
 02:32:31,793 --> 02:32:33,136
-HALDIR:
-<i>(...Eärendil.)</i>
+HALDIR: <i> ...Eärendil.
+(...Eärendil.)</i>
 
-91
+99
 02:32:33,161 --> 02:32:34,595
-I'm glad we came to you.
-(Merin le telim.)
+ARAGORN: <i> I'm glad we came to you. 
+(Merin le telim.)</i>
 
-92
+100
 02:32:37,658 --> 02:32:38,739
 The road is too dangerous.
 (Andelu i ven.)
 
-93
+101
 02:37:11,137 --> 02:37:15,411
 [SINGING IN SINDARIN] <i>The bonds cut,
 (In gwidh ristennin,)</i>
 
-94
+102
 02:37:15,468 --> 02:37:21,704
 <i>[CHORUS IN QUENYA] Our regret is undying
 (Ilfirin nairelma)</i>
 
-95
+103
 02:37:21,728 --> 02:37:30,529
 <i>the spirit rent (i fae narchannen)</i>
 <i> </i>
 
-96
+104
 02:37:30,554 --> 02:37:34,114
 <i>[CHORUS] What should be... (Nauva i...)</i>
 
-97
+105
 02:37:34,139 --> 02:37:42,012
 <i>The Flame of Anor (I lach Anor ed)</i>
 <i>[CHORUS] shall be. (...nauva.)</i>
 
-98
+106
 02:37:42,037 --> 02:37:46,867
 <i>[CHORUS] Our regret is undying (</i>Ilfirin nai<i>relma)</i>
 
-99
+107
 02:37:46,892 --> 02:37:54,068
 <i>from earth departed (ardhon gwannen)
 [CHORUS] Our regret is undying (Ilfirin nai</i>relma<i>)</i>
 
-100
+108
 02:37:54,093 --> 02:37:58,615
 <i>[CHORUS] Rather than submit (</i>Ar ullu<i>me nucuvalme)</i>
 
-101
+109
 02:37:58,640 --> 02:38:04,147
 <i>Mithrandir, (Mithrandir,)</i>
 <i>[CHORUS] Rather than submit (Ar ullu</i>me nu<i>cuvalme)</i>
 
-102
+110
 02:38:04,172 --> 02:38:07,499
 <i>O Pilgrim Grey (A Randir Vithren)</i>
 <i>[CHORUS] Rather than submit (Ar ullume nu</i>cu<i>valme)</i>
 
-103
+111
 02:38:07,524 --> 02:38:11,572
 <i>O Pilgrim Grey (A Randir Vithren)</i>
 <i>[CHORUS] Rather than submit (Ar ullume nucu</i>val<i>me)</i>
 
-104
+112
 02:38:11,597 --> 02:38:15,872
 <i>You will not wander... (Ú-reniathach...)</i>
 <i>[CHORUS] Rather than submit (Ar ullume nucu</i>val<i>me)</i>
 
-105
+113
 02:38:15,896 --> 02:38:19,714
 <i>You will not wander... (Ú-reniathach...)</i>
 <i>[CHORUS] Rather than submit (Ar ullume nucuval</i>me<i>)</i>
 
-106
+114
 02:38:19,739 --> 02:38:24,037
 <i>[CHORUS] What should be shall be. (Nauva i nauva.)</i>
 
-107
+115
 02:38:24,062 --> 02:38:27,891
  <i>the world green (i amar galen)
 [CHORUS] Love... (</i>Mel<i>me...)</i>
 
-108
+116
 02:38:27,916 --> 02:38:32,211
  <i>the world green (i amar galen)
 [CHORUS] Love... (Mel</i>me<i>...)</i>
 
-109
+117
 02:38:32,236 --> 02:38:36,373
 <i>[CHORUS] ...for this land... (...</i>nóren si<i>na...)</i>
 
-110
+118
 02:38:36,398 --> 02:38:41,217
 <i>Your journey in... (I reniad lín ne...)
 <i>[CHORUS] ...for this land... (...nóren si</i>na<i>...)</i>
 
-111
+119
 02:38:41,242 --> 02:38:43,368
 <i>Your journey in... (I reniad lín ne...)
 [CHORUS] is our lament. (</i>nair<i>elma.)</i>
 
-112
+120
 02:38:43,392 --> 02:38:48,876
  <i>darkness, ended (môr, nuithannen.)
 [CHORUS] is our lament. (nair</i>elma<i>.)</i>
 
-113
+121
 02:38:48,901 --> 02:38:56,768
 <i>[CHORUS] Our regret is undying
 (Ilfirin nairelma)</i>
 
-114
+122
 02:38:56,793 --> 02:39:04,505
 <i>[CHORUS] Is deeper than the sea's...
 (Núra lá earo...)</i>
 
-115
+123
 02:39:05,533 --> 02:39:08,582
 <i>[CHORUS] ...depths
 (...núri)</i>
 
-116
+124
 02:48:55,078 --> 02:48:57,697
 [IN SINDARIN] (Le aphadar aen.)
 
-117
+125
 02:50:49,613 --> 02:50:50,690
 [IN SINDARIN] (Am meleth dîn,)
 
-118
+126
 02:50:51,937 --> 02:50:57,305
  I ant e guil Arwen Undómiel pígatha.
 
-119
+127
 02:50:58,085 --> 02:51:01,411
 [IN SINDARIN] (Aníron i e broniatha ad ae periatham,)
 
-120
+128
 02:51:02,911 --> 02:51:05,873
 (athar i methid en-amar hen.)
 
-121
+129
 02:51:07,839 --> 02:51:13,591
 (Aníron i e círatha na Valannor.)
 
-122
+130
 02:51:38,445 --> 02:51:39,783
 [IN QUENYA] (Namárië.)
 
-123
+131
 02:51:43,617 --> 02:51:47,034
 [IN SINDARIN] (Nadath nâ i moe cerich.)
 
-124
+132
 02:51:49,045 --> 02:51:50,133
 But...
 (Dan...)
 
-125
+133
 02:51:53,507 --> 02:51:54,925
 (Ú-'eveditham...)
 
-126
+134
 02:51:54,949 --> 02:51:56,386
 (Elessar.)
 
-127
+135
 03:02:37,041 --> 03:02:41,028
-VOICE OF THE RING: <i> They will fall.
-(A'ghi gûr'ruzh.)</i>
+VOICE OF THE RING: <i> Only death.
+(Ashi gurum.)</i>
 
-128
+136
 03:48:06,074 --> 03:48:08,076
 [v1.3]
 
