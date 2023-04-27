@@ -109,6 +109,112 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 
 <sup><sub> *ROTK has a similar setup to TTT at the end of d1 with the music drifting off. It becomes mostly unhearable at 2:07:36.364 (f#183570). Frame 183542 is the first black frame. The key frames are 2:7:35.231 f#183542, 2:7:36.065 f#183563, 2:7:36.899, f#183583, 2:7:37.733, 2:7:38.568, 2:7:39.402. Again, the hard cut at 183542 feels wrong (music just cuts), so closest at **f#183583** is used. With the cut at 183583 established, and d2 has 24 frames over black, d1 has 183662 total frames so after appending both together you get up to 183583 and then 183686 (183662+24) to the end. Identify frames in MPC-HC via CTRL+G, note it counts from 1st frame 0 while MKVToolNix counts from 1st frame 1, so you need to add 1 to whatever you find.* </sub></sup>
 
+## Make your own combined timings
+### Timing Adjustments:
+* For the respective movie, download the trans_subs_disc2.srt and orig_subs_disc2.srt and find the first subtitle in the trans version that is identical to the original version in text and timing (hint: FOTR disc2 opens with Sindarin dialog so the timings are different at the start).
+
+* Open your combined movie in Subtitle Edit (it'll take a while; I'll call this window SE_0).
+
+* Get the start timing for that subtitle line you found above for disc2 in the combined version from the OCR pane, close it when done. Add 0.001 because Subtitle Edit gives the times off by -0.001 for reasons idk. 
+_Use the extraction steps in the "Process to translate yourself" section if you want to be sure, you can open that .sup file (it's just extra steps tho)._
+
+* Close that SE_0 window.
+
+* Subtract (get the difference) between the two times, see example below.
+
+* E.g. (yours will not match the combined timings - this example will yield subtitle adjustment timings for the combining instructions above, cause I used those to make this example):
+
+```
+FOTR d2 first matching line:
+00:00:47,256 --> 00:00:50,759
+[IN ENGLISH] In her heart, your mother
+knew you'd be hunted all your life.
+
+FOTR _your original_ combined:
+#1097 in Subtitle Edit
+01:46:23.653 -> +0.001 -> 01:46:23.654
+
+Difference in start times:
+01:45:36.398
+```
+
+* Open the `disc1.srt` file in Subtitle Edit (I'll call this window SE_1).
+
+* Save-as, replace `disc1` with `combined` in the file name (tbh you can name it anything you like).
+
+* Scroll to the bottom of the subtitles.
+
+* Open a new instance of Subtitle Edit (I'll call this window SE_2; gotta open the .exe again).
+
+* In SE_2, open disc2.srt file.
+
+* CTRL+SHIFT+A to offset all subtitles. 
+
+* Make sure "All lines" is ticked and type in the "Difference in start times" you calculated in the above step. 
+
+* Click "Show Later" (make sure not to save the file now!)
+
+* CTRL+A to select all, CTRL+C to copy all.
+
+* In SE_1 click on the last subtitle there then CTRL+V.
+
+* Donezo! Save SE_1 (your new combined subtitles) and do not save SE_2 (modified disc2 subtitles).
+
+
+## Convert .SRT -> .SUP files yourself
+_Note that the below settings aren't perfect, just really close. It seems for:_
+```
+-Dialog like
+-This
+```
+_in the orig subs they are center left justified custom, but I don't have the wherewithal to do that (unless maybe all issues get closed)._
+_The dialog is also slightly different sizes and there's more padding from Subtitle Edit on the top and bottom that I can't control._
+
+* `File` -> `Export` -> `Blu-ray sup...`
+
+* Use the settings below based on which movie. The line height changes between movies for reasons beyond me.
+
+#### FOTR
+```
+Font Family: Arial
+Font Size: 66
+Video res: 1080p
+Align: Center, left justify dialog
+Bottom margin: 5%
+Border style: Normal, width=3
+Frame rate: 23.976
+Shadow width: 0
+Line height: 77 <- only thing that changes between movies
+```
+
+#### TTT
+```
+Font Family: Arial
+Font Size: 66
+Video res: 1080p
+Align: Center, left justify dialog
+Bottom margin: 5%
+Border style: Normal, width=3
+Frame rate: 23.976
+Shadow width: 0
+Line height: 72 <- only thing that changes between movies
+```
+
+#### ROTK
+```
+Font Family: Arial
+Font Size: 66
+Video res: 1080p
+Align: Center, left justify dialog
+Bottom margin: 5%
+Border style: Normal, width=3
+Frame rate: 23.976
+Shadow width: 0
+Line height: 85 <- only thing that changes between movies
+```
+
+Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs (or keep and rename/remove default tag)!
+
 
 ## Process to translate yourself
 * MKVToolNix's `mkvmerge.exe` & `mkvextract.exe` to extract PGS subtitles from combined blu-ray rip. (I open a CMD window in the MKVToolNix folder and work from there, type `cmd` in Explorer address bar when in the MKVToolNix folder to open a CMD window in said folder)
@@ -128,55 +234,6 @@ mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
 * Use resources (below) to check translation quality, catch few missing translations.
 * Any text like: `GANDALF: <i>I am a...` needs an extra space to match the original sub spacing like `GANDALF: <i> I am a...`.
 * Identify font family and use BDSup2Sub Enhanced 0.0.9 to make sure new subs visually match originals (do not use/save w/ BDSup2Sub, it drops subtitles silently).
-
-_Note that the below settings aren't perfect, just really close. It seems for:_
-```
--Dialog like
--This
-```
-_in the orig subs they are center left justified custom, but I don't have the wherewithal to do that (unless maybe all issues get closed)._
-_The dialog is also slightly different sizes and there's more padding from Subtitle Edit on the top and bottom that I can't control._
-
-### FOTR
-```
-Font Family: Arial
-Font Size: 66
-Video res: 1080p
-Align: Center, left justify dialog
-Bottom margin: 5%
-Border style: Normal, width=3
-Frame rate: 23.976
-Shadow width: 0
-Line height: 77 <- only thing that changes between movies
-```
-
-### TTT
-```
-Font Family: Arial
-Font Size: 66
-Video res: 1080p
-Align: Center, left justify dialog
-Bottom margin: 5%
-Border style: Normal, width=3
-Frame rate: 23.976
-Shadow width: 0
-Line height: 72 <- only thing that changes between movies
-```
-
-### ROTK
-```
-Font Family: Arial
-Font Size: 66
-Video res: 1080p
-Align: Center, left justify dialog
-Bottom margin: 5%
-Border style: Normal, width=3
-Frame rate: 23.976
-Shadow width: 0
-Line height: 85 <- only thing that changes between movies
-```
-
-Export, use MKVToolNix (`mkvtoolnix-gui.exe`) to merge, remove old subs (or keep and rename/remove default tag)!
 
 
 ## Resources per movie
