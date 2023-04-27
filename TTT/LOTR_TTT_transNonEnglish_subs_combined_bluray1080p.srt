@@ -215,188 +215,208 @@ What did you see?
 (haer o auth...a nîr...a naeth.)
 
 49
+02:04:59,994 --> 02:05:01,768
+[URUK-HAI CHANTING IN BLACK SPEECH]: <i>Lord of the Ring!
+(Durbgu nazgshu!)</i>
+
+50
+02:05:01,792 --> 02:05:03,566
+<i>Lord of the Earth!
+(Durbgu dashshu!)</i>
+
+51
+02:05:04,149 --> 02:05:05,923
+<i>Lord of the Ring!
+(Durbgu nazgshu!)</i>
+
+52
+02:05:06,393 --> 02:05:08,167
+<i>Lord of the Earth!
+(Durbgu dashshu!)</i>
+
+53
 02:08:31,856 --> 02:08:33,810
 [IN SINDARIN] (Tollen i lû.)
 
-50
+54
 02:08:35,817 --> 02:08:39,739
 (I chair gwannar na Valannor. Si bado... no círar.)
 
-51
+55
 02:11:14,927 --> 02:11:18,116
 [IN SINDARIN] (A im ú-'erin veleth lîn?)
 
-52
+56
 02:11:19,687 --> 02:11:21,452
 (Gerich meleth nîn, ada.)
 
-53
+57
 02:12:12,694 --> 02:12:15,863
 GALADRIEL [IN SINDARIN]: <i> The world is changed.
 (I amar prestar aen.)</i>
 
-54
+58
 02:12:16,425 --> 02:12:18,425
 I feel it in the water,
 (Han mathon ne nen,)
 
-55
+59
 02:12:18,827 --> 02:12:20,827
 I feel it in the earth,
 (han mathon ne chae,)
 
-56
+60
 02:12:22,599 --> 02:12:24,822
 and I smell it in...
 (a han noston ned...)
 
-57
+61
 02:12:25,670 --> 02:12:26,923
 ...the air.
 (...'wilith.)
 
-58
+62
 02:31:23,301 --> 02:31:27,065
 [IN SINDARIN] Well done, Brego, my friend.
 (Mae carnen, Brego, mellon nîn.)
 
-59
+63
 02:32:03,508 --> 02:32:04,568
 [IN SINDARIN] (Le abdollen.)
 
-60
+64
 02:32:36,666 --> 02:32:39,502
 [IN SINDARIN] Thank you.
 (Hannon le.)
 
-61
+65
 02:39:59,289 --> 02:40:01,111
 [IN SINDARIN] (Boe a hyn...)
 
-62
+66
 02:40:01,461 --> 02:40:03,213
 (Neled herain...                            )
 
-63
+67
 02:40:03,238 --> 02:40:04,604
 (Neled herain... dan caer menig!)
 
-64
+68
 02:40:06,333 --> 02:40:08,551
 [IN SINDARIN] (Si beriathar hyn ammaeg na ned Edoras...)
 
-65
+69
 02:40:08,576 --> 02:40:09,827
 Aragorn.
 
-66
+70
 02:40:09,961 --> 02:40:12,628
 (Nedin dagor hen ú-'erir ortheri.)
 
-67
+71
 02:40:13,545 --> 02:40:14,908
 (Natha daged dhaer!)
 
-68
+72
 02:44:50,941 --> 02:44:53,510
 [IN SINDARIN] (Ú-moe edhored, Legolas.)
 
-69
+73
 02:46:16,648 --> 02:46:18,901
 Well met, Haldir!
 (Mae govannen, Haldir!)
 
-70
+74
 02:48:32,872 --> 02:48:34,428
 [IN SINDARIN] O, Children of Eru... (A Eruchîn...)
 
-71
+75
 02:48:34,634 --> 02:48:36,731
 ...show them no mercy... (...ú-dano i faelas a hyn...)
 
-72
+76
 02:48:37,603 --> 02:48:40,023
 (an uben tanatha le faelas!)
 
-73
+77
 02:49:59,645 --> 02:50:00,316
 (Dartho!)
 
-74
+78
 02:50:31,142 --> 02:50:32,352
 (Tangado a chadad!)
 
-75
+79
 02:50:41,332 --> 02:50:43,680
 [IN SINDARIN] (Faeg i-varv...dîn na lanc...)
 
-76
+80
 02:50:43,705 --> 02:50:45,357
 (...a nu ranc.)
 
-77
+81
 02:50:45,385 --> 02:50:47,103
 (Leithio i philinn!)
 
-78
+82
 02:51:03,772 --> 02:51:07,234
 Release arrows!
 (Hado i philinn!)
 
-79
+83
 02:51:35,407 --> 02:51:36,499
 (Pendraith!)
 
-80
+84
 02:54:57,572 --> 02:54:58,784
 [IN SINDARIN] Causeway!
 (Na fennas!)
 
-81
+85
 02:54:58,809 --> 02:55:00,024
 <i>Shoot continuously!
 (Hado ribed!)</i>
 
-82
+86
 02:55:00,520 --> 02:55:01,735
 <i>Throw!
 (Hado!)</i>
 
-83
+87
 02:55:38,068 --> 02:55:39,535
 (Togo han dad, Legolas!)
 
-84
+88
 02:55:42,829 --> 02:55:43,901
 (Dago hon!)
 
-85
+89
 02:55:44,192 --> 02:55:44,973
 (Dago hon!)
 
-86
+90
 02:57:20,982 --> 02:57:22,442
 Hurl the arrows!
 (Hado i philinn!)
 
-87
+91
 02:57:25,474 --> 02:57:26,424
 (Herio!)
 
-88
+92
 03:00:08,869 --> 03:00:10,415
 [IN SINDARIN] (Nan Barad!)
 
-89
+93
 03:00:15,226 --> 03:00:16,838
 To the Keep! (Nan Barad!)
 
-90
+94
 03:00:27,285 --> 03:00:28,781
 [IN SINDARIN] To the Keep!
 (Nan Barad!)
 
-91
+95
 03:55:22,294 --> 03:55:24,296
 [v1.2]
 
