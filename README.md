@@ -138,6 +138,7 @@ Difference in start times:
 01:45:36.398
 ```
 
+### Make the combined .srt
 * Open the `disc1.srt` file in Subtitle Edit (I'll call this window SE_1).
 
 * Save-as, replace `disc1` with `combined` in the file name (tbh you can name it anything you like).
