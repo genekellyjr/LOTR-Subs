@@ -2448,1259 +2448,1276 @@ I will not.
 [GROWLING]
 
 579
-01:12:15,331 --> 01:12:17,124
-Pull back.
+01:12:11,402 --> 01:12:13,756
+[ORCS CHANTING IN BLACK SPEECH]: <i> One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
 
 580
-01:12:17,416 --> 01:12:19,460
-Pull back!
+01:12:15,331 --> 01:12:17,124
+Pull back.
+<i>One Ring to rule them all! (Ash nazg durbatulûk!)</i>
 
 581
-01:12:22,171 --> 01:12:24,340
-[ORCS CHANTING]
+01:12:17,416 --> 01:12:18,959
+Pull back!
 
 582
+01:12:18,984 --> 01:12:20,531
+<i>One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
+
+583
+01:12:22,171 --> 01:12:24,340
+<i>One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
+
+584
+01:12:25,956 --> 01:12:26,764
+<i>One Ring...
+(Ash nazg...)</i>
+
+585
 01:12:31,681 --> 01:12:33,683
 SAM:
 It's gone, Mr. Frodo.
 
-583
+586
 01:12:36,185 --> 01:12:39,188
 The light's passed on,
 away towards the north.
 
-584
+587
 01:12:39,355 --> 01:12:41,190
 Something's drawn its gaze.
 
-585
+588
 01:12:58,708 --> 01:13:01,460
 Hold your ground! Hold your ground.
 
-586
+589
 01:13:03,546 --> 01:13:07,550
 Sons of Gondor, of Rohan, my brothers!
 
-587
+590
 01:13:10,386 --> 01:13:12,263
 I see in your eyes...
 
-588
+591
 01:13:12,680 --> 01:13:16,726
 ...the same fear that would take
 the heart of me.
 
-589
+592
 01:13:18,686 --> 01:13:22,565
 A day may come
 when the courage of Men fails...
 
-590
+593
 01:13:22,732 --> 01:13:26,068
 ...when we forsake our friends
 and break all bonds of fellowship.
 
-591
+594
 01:13:26,235 --> 01:13:28,905
 But it is not this day.
 
-592
+595
 01:13:29,196 --> 01:13:32,241
 An hour of wolves
 and shattered shields...
 
-593
+596
 01:13:32,408 --> 01:13:35,244
 ...when the age of Men
 comes crashing down.
 
-594
+597
 01:13:35,411 --> 01:13:37,914
 But it is not this day.
 
-595
+598
 01:13:38,080 --> 01:13:39,749
 This day we fight!
 
-596
+599
 01:13:42,209 --> 01:13:45,880
 By all that you hold dear
 on this good earth...
 
-597
+600
 01:13:46,047 --> 01:13:50,259
 ...I bid you stand, Men of the West!
 
-598
+601
 01:13:59,101 --> 01:14:00,937
 [STEAM HISSING]
 
-599
+602
 01:14:30,424 --> 01:14:32,093
 [GRUNTS]
 
-600
+603
 01:15:18,723 --> 01:15:22,309
 Never thought I'd die fighting
 side by side with an Elf.
 
-601
+604
 01:15:22,727 --> 01:15:25,104
 What about side by side with a friend?
 
-602
+605
 01:15:28,649 --> 01:15:30,359
 Aye.
 
-603
+606
 01:15:31,193 --> 01:15:32,987
 I could do that.
 
-604
+607
 01:16:03,350 --> 01:16:05,394
 Do you remember the Shire,
 Mr. Frodo?
 
-605
+608
 01:16:08,397 --> 01:16:10,649
 It'll be spring soon.
 
-606
+609
 01:16:11,400 --> 01:16:14,111
 And the orchards will be in blossom.
 
-607
+610
 01:16:14,278 --> 01:16:17,948
 And the birds will be nesting
 in the hazel thicket.
 
-608
+611
 01:16:19,366 --> 01:16:23,370
 And they'll be sowing
 the summer barley in the lower fields...
 
-609
+612
 01:16:24,413 --> 01:16:28,751
 ...and eating the first
 of the strawberries with cream.
 
-610
+613
 01:16:30,711 --> 01:16:33,214
 Do you remember
 the taste of strawberries?
 
-611
+614
 01:16:34,757 --> 01:16:36,467
 [HOARSELY]
 No, Sam.
 
-612
+615
 01:16:36,675 --> 01:16:39,595
 I can't recall the taste of food...
 
-613
+616
 01:16:40,763 --> 01:16:44,058
 ...nor the sound of water...
 
-614
+617
 01:16:44,225 --> 01:16:47,770
 ...nor the touch of grass.
 
-615
+618
 01:16:48,771 --> 01:16:50,272
 I'm...
 
-616
+619
 01:16:51,190 --> 01:16:52,566
 ...naked in the dark.
 
-617
+620
 01:16:54,235 --> 01:16:56,487
 There's-- There's nothing.
 
-618
+621
 01:16:56,695 --> 01:17:01,408
 No veil between me
 and the wheel of fire.
 
-619
+622
 01:17:02,618 --> 01:17:04,578
 I can see him...
 
-620
+623
 01:17:04,954 --> 01:17:06,622
 ...with my waking eyes.
 
-621
+624
 01:17:07,706 --> 01:17:10,126
 Then let us be rid of it...
 
-622
+625
 01:17:10,751 --> 01:17:12,962
 ...once and for all.
 
-623
+626
 01:17:13,712 --> 01:17:15,798
 Come on, Mr. Frodo.
 
-624
+627
 01:17:15,965 --> 01:17:18,592
 I can't carry it for you...
 
-625
+628
 01:17:18,968 --> 01:17:21,011
 ...but I can carry you.
 
-626
+629
 01:17:21,595 --> 01:17:23,305
 Come on!
 
-627
+630
 01:17:45,995 --> 01:17:48,539
 [SAURON GROWLING]
 
-628
+631
 01:17:53,752 --> 01:17:56,672
 SAURON:
 <i>Aragorn.</i>
 
-629
+632
 01:18:02,970 --> 01:18:05,014
 [SAURON WHISPERING
 INDISTINCTLY]
 
-630
+633
 01:18:08,267 --> 01:18:10,853
 <i>Elessar.</i>
 
-631
+634
 01:18:22,865 --> 01:18:25,284
 For Frodo.
 
-632
+635
 01:18:29,038 --> 01:18:31,707
 [YELLING]
 
-633
+636
 01:18:32,291 --> 01:18:34,210
 [YELLING]
 
-634
+637
 01:19:00,236 --> 01:19:01,737
 Look, Mr. Frodo.
 
-635
+638
 01:19:02,404 --> 01:19:04,615
 A doorway.
 
-636
+639
 01:19:05,241 --> 01:19:06,909
 We're almost there.
 
-637
+640
 01:19:09,245 --> 01:19:13,207
 Clever Hobbits to climb so high!
 
-638
+641
 01:19:16,126 --> 01:19:18,254
 [SCREAMS, GRUNTS]
 
-639
+642
 01:19:27,096 --> 01:19:28,764
 Mustn't go that way.
 
-640
+643
 01:19:30,349 --> 01:19:32,768
 Mustn't hurt the precious.
 
-641
+644
 01:19:32,935 --> 01:19:34,728
 You swore!
 
-642
+645
 01:19:34,895 --> 01:19:36,939
 You swore on the precious!
 
-643
+646
 01:19:38,857 --> 01:19:40,776
 Sméagol promised!
 
-644
+647
 01:19:41,735 --> 01:19:43,737
 Sméagol lied.
 
-645
+648
 01:19:51,620 --> 01:19:53,080
 [YELLS]
 
-646
+649
 01:19:53,247 --> 01:19:55,291
 [COUGHS]
 
-647
+650
 01:20:17,604 --> 01:20:19,023
 [FELL BEASTS ROARING]
 
-648
+651
 01:20:19,189 --> 01:20:20,649
 [RINGWRAITHS SCREECHING]
 
-649
+652
 01:20:25,946 --> 01:20:27,781
 [SCREAMS]
 
-650
+653
 01:20:32,995 --> 01:20:34,663
 [SCREAMS]
 
-651
+654
 01:20:36,206 --> 01:20:38,125
 Frodo!
 
-652
+655
 01:20:51,180 --> 01:20:53,474
 [RINGWRAITH SCREECHING]
 
-653
+656
 01:21:05,194 --> 01:21:06,987
 Eagles.
 
-654
+657
 01:21:08,364 --> 01:21:09,865
 The eagles are coming!
 
-655
+658
 01:21:32,721 --> 01:21:34,556
 Frodo!
 
-656
+659
 01:21:39,853 --> 01:21:41,105
 I'm here, Sam.
 
-657
+660
 01:21:48,570 --> 01:21:50,239
 Destroy it!
 
-658
+661
 01:22:00,749 --> 01:22:04,086
 Go on! Now!
 
-659
+662
 01:22:04,253 --> 01:22:06,755
 Throw it in the fire!
 
-660
+663
 01:22:06,922 --> 01:22:09,258
 [PANTING]
 
-661
+664
 01:22:20,144 --> 01:22:22,813
 What are you waiting for?
 
-662
+665
 01:22:24,731 --> 01:22:27,109
 Just let it go!
 
-663
+666
 01:22:41,039 --> 01:22:43,542
 [VOICE OF THE RING WHISPERING]
 
-664
+667
 01:23:00,309 --> 01:23:02,561
 The Ring is mine.
 
-665
+668
 01:23:06,106 --> 01:23:07,816
 No.
 
-666
+669
 01:23:08,275 --> 01:23:09,568
 No.
 
-667
+670
 01:23:17,993 --> 01:23:20,662
 No!
 
-668
+671
 01:23:21,705 --> 01:23:23,832
 [RINGWRAITHS SCREECHING]
 
-669
+672
 01:23:48,398 --> 01:23:50,317
 [FRODO YELLING]
 
-670
+673
 01:23:57,032 --> 01:23:58,700
 [ROARING]
 
-671
+674
 01:24:05,999 --> 01:24:08,043
 [FRODO AND GOLLUM GRUNTING]
 
-672
+675
 01:24:17,511 --> 01:24:19,221
 [AGONIZED SCREAM]
 
-673
+676
 01:24:28,897 --> 01:24:30,732
 [GROANING]
 
-674
+677
 01:24:57,175 --> 01:24:59,261
 [VOICE MUTED]
 
-675
+678
 01:25:03,432 --> 01:25:04,933
 [GOLLUM CACKLING]
 
-676
+679
 01:25:05,100 --> 01:25:06,935
 GOLLUM:
 Yes!
 
-677
+680
 01:25:08,103 --> 01:25:09,813
 Yes!
 
-678
+681
 01:25:10,939 --> 01:25:13,817
 Precious! Precious!
 
-679
+682
 01:25:13,984 --> 01:25:16,820
 Precious! Precious!
 
-680
+683
 01:25:16,987 --> 01:25:18,697
 [LAUGHING]
 
-681
+684
 01:25:26,788 --> 01:25:28,206
 [ROARS]
 
-682
+685
 01:26:10,123 --> 01:26:11,958
 Give me your hand!
 
-683
+686
 01:26:20,300 --> 01:26:22,678
 Take my hand!
 
-684
+687
 01:26:25,347 --> 01:26:26,682
 No!
 
-685
+688
 01:26:33,980 --> 01:26:35,899
 Don't you let go.
 
-686
+689
 01:26:40,529 --> 01:26:42,072
 Don't let go.
 
-687
+690
 01:26:43,699 --> 01:26:45,200
 Reach!
 
-688
+691
 01:26:57,921 --> 01:27:01,049
 [SCREECHING]
 
-689
+692
 01:27:25,824 --> 01:27:28,326
 [SCREECHING,
 DEEP RUMBLING]
 
-690
+693
 01:27:30,078 --> 01:27:32,372
 [CRACKING]
 
-691
+694
 01:28:14,372 --> 01:28:17,250
 Frodo!
 
-692
+695
 01:28:17,793 --> 01:28:20,796
 Frodo!
 
-693
+696
 01:29:07,217 --> 01:29:09,344
 [VOICE MUTED]
 
-694
+697
 01:29:36,705 --> 01:29:38,540
 [EXHALES SOFTLY]
 
-695
+698
 01:29:42,210 --> 01:29:44,045
 It's gone.
 
-696
+699
 01:29:48,508 --> 01:29:50,218
 It's done.
 
-697
+700
 01:29:50,719 --> 01:29:52,721
 SAM:
 Yes, Mr. Frodo.
 
-698
+701
 01:29:54,097 --> 01:29:56,558
 It's over now.
 
-699
+702
 01:29:58,852 --> 01:30:01,104
 [EXPLOSION]
 
-700
+703
 01:30:11,907 --> 01:30:14,034
 [PANTING SOFTLY]
 
-701
+704
 01:30:22,208 --> 01:30:24,586
 I can see the Shire.
 
-702
+705
 01:30:26,755 --> 01:30:29,090
 The Brandywine River.
 
-703
+706
 01:30:31,259 --> 01:30:33,261
 Bag End.
 
-704
+707
 01:30:35,597 --> 01:30:38,266
 Gandalf's fireworks.
 
-705
+708
 01:30:38,725 --> 01:30:42,437
 The lights in the Party Tree.
 
-706
+709
 01:30:43,939 --> 01:30:47,108
 Rosie Cotton dancing.
 
-707
+710
 01:30:48,234 --> 01:30:50,946
 She had ribbons in her hair.
 
-708
+711
 01:30:53,823 --> 01:30:56,785
 If ever I was to marry someone...
 
-709
+712
 01:30:57,744 --> 01:30:59,955
 ...it would've been her.
 
-710
+713
 01:31:01,414 --> 01:31:03,458
 It would've been her.
 
-711
+714
 01:31:03,792 --> 01:31:05,919
 [SAM SOBBING]
 
-712
+715
 01:31:15,637 --> 01:31:18,807
 I'm glad to be with you,
 Samwise Gamgee...
 
-713
+716
 01:31:23,144 --> 01:31:26,064
 ...here at the end of all things.
 
-714
+717
 01:32:02,726 --> 01:32:04,853
 [EAGLES SCREECHING]
 
-715
+718
 01:32:46,394 --> 01:32:49,147
 [BIRDS CHIRPING]
 
-716
+719
 01:33:15,757 --> 01:33:17,759
 Gandalf?
 
-717
+720
 01:33:23,556 --> 01:33:25,809
 [LAUGHING]
 
-718
+721
 01:33:27,560 --> 01:33:29,604
 [LAUGHING]
 
-719
+722
 01:33:37,445 --> 01:33:39,447
 Frodo!
 
-720
+723
 01:33:59,217 --> 01:34:01,010
 Gimli!
 
-721
+724
 01:34:19,362 --> 01:34:21,030
 [VOICE MUTED]
 
-722
+725
 01:34:42,844 --> 01:34:45,180
 [VOICE MUTED]
 
-723
+726
 01:35:44,030 --> 01:35:47,742
 Now come the days of the king.
 
-724
+727
 01:35:52,747 --> 01:35:55,083
 May they be blessed.
 
-725
+728
 01:36:00,838 --> 01:36:02,590
 [SIGHS]
 
-726
+729
 01:36:07,095 --> 01:36:09,597
 [CHEERING]
 
-727
+730
 01:36:15,395 --> 01:36:18,064
 This day does not belong to one man...
 
-728
+731
 01:36:18,231 --> 01:36:20,108
 ...but to all.
 
-729
+732
 01:36:21,776 --> 01:36:24,654
 Let us together rebuild this world...
 
-730
+733
 01:36:24,862 --> 01:36:29,117
 ...that we may share
 in the days of peace.
 
-731
+734
 01:36:41,587 --> 01:36:45,868
 ARAGORN [IN QUENYA]: <i> Out of the Great Sea...
 (Et Eärello...)</i>
 
-732
+735
 01:36:46,505 --> 01:36:52,782
 <i>...to Middle-earth I am come.
 (...Endorenna utúlien.)</i>
 
-733
+736
 01:36:55,297 --> 01:36:59,177
 <i>In this place will I abide...
 (Sinomë maruvan...)</i>
 
-734
+737
 01:37:00,042 --> 01:37:05,096
 <i>...and my heirs...
 (...ar Hildinyar...)</i>
 
-735
+738
 01:37:06,585 --> 01:37:15,542
 <i>...unto the ending of the world.
 (...tenn' Ambar-metta.)</i>
 
-736
+739
 01:37:23,671 --> 01:37:25,131
 [IN SINDARIN] Thank you.
 (Hannon le.)
 
-737
+740
 01:38:22,897 --> 01:38:25,024
 [CROWD APPLAUDS]
 
-738
+741
 01:38:48,631 --> 01:38:50,425
 [LAUGHS]
 
-739
+742
 01:39:03,604 --> 01:39:05,648
 [IN ENGLISH]
 My friends...
 
-740
+743
 01:39:10,945 --> 01:39:13,614
 ...you bow to no one.
 
-741
+744
 01:39:57,825 --> 01:39:59,952
 FRODO:
 <i>And thus it was.</i>
 
-742
+745
 01:40:00,119 --> 01:40:03,706
 <i>A Fourth Age of Middle-earth began.</i>
 
-743
+746
 01:40:03,873 --> 01:40:06,459
 <i>And the Fellowship of the Ring...</i>
 
-744
+747
 01:40:06,626 --> 01:40:11,130
 <i>...though eternally bound
 by friendship and love...</i>
 
-745
+748
 01:40:11,297 --> 01:40:13,674
 <i>...was ended.</i>
 
-746
+749
 01:40:18,679 --> 01:40:23,518
 <i>Thirteen months to the day since Gandalf
 sent us on our long journey...</i>
 
-747
+750
 01:40:23,684 --> 01:40:27,855
 <i>...we found ourselves
 looking upon a familiar sight.</i>
 
-748
+751
 01:40:30,399 --> 01:40:33,152
 <i>We were home.</i>
 
-749
+752
 01:40:39,700 --> 01:40:41,536
 Hi.
 
-750
+753
 01:40:53,548 --> 01:40:56,050
 [HOBBITS CHATTERING
 AND LAUGHING]
 
-751
+754
 01:40:58,719 --> 01:41:00,930
 Hey, watch the pumpkin.
 
-752
+755
 01:41:08,646 --> 01:41:10,273
 Hey!
 
-753
+756
 01:41:48,936 --> 01:41:50,605
 MALE PATRON:
 More of the same, Rosie.
 
-754
+757
 01:41:50,771 --> 01:41:52,773
 Good night, lads.
 
-755
+758
 01:42:11,250 --> 01:42:12,627
 [EXHALES]
 
-756
+759
 01:42:14,420 --> 01:42:16,297
 [LAUGHING]
 
-757
+760
 01:42:24,221 --> 01:42:26,724
 [GUESTS APPLAUDING
 AND CHEERING]
 
-758
+761
 01:42:37,318 --> 01:42:38,778
 PIPPIN:
 Hm?
 
-759
+762
 01:42:50,331 --> 01:42:54,335
 FRODO: <i> How do you pick up the threads
 of an old life?</i>
 
-760
+763
 01:42:55,670 --> 01:42:57,880
 <i>How do you go on...</i>
 
-761
+764
 01:42:58,047 --> 01:43:03,302
 <i>...when in your heart
 you begin to understand...</i>
 
-762
+765
 01:43:04,512 --> 01:43:07,515
 <i>...there is no going back?</i>
 
-763
+766
 01:43:08,182 --> 01:43:11,852
 <i>There are some things
 that time cannot mend...</i>
 
-764
+767
 01:43:12,353 --> 01:43:15,314
 <i>...some hurts that go too deep...</i>
 
-765
+768
 01:43:17,024 --> 01:43:19,860
 <i>...that have taken hold.</i>
 
-766
+769
 01:43:52,309 --> 01:43:53,602
 [DOOR OPENS]
 
-767
+770
 01:43:58,065 --> 01:43:59,900
 SAM:
 Mr. Frodo?
 
-768
+771
 01:44:03,237 --> 01:44:04,613
 What is it?
 
-769
+772
 01:44:06,449 --> 01:44:10,411
 It's been four years to the day
 since Weathertop, Sam.
 
-770
+773
 01:44:11,078 --> 01:44:13,831
 It's never really healed.
 
-771
+774
 01:44:17,752 --> 01:44:23,048
 "<i>There and Back Again: A Hobbit's Tale</i>
 by Bilbo Baggins.
 
-772
+775
 01:44:23,758 --> 01:44:27,595
 And <i>The Lord of the Rings</i>
 by Frodo Baggins."
 
-773
+776
 01:44:28,095 --> 01:44:30,264
 You finished it.
 
-774
+777
 01:44:33,100 --> 01:44:34,602
 FRODO:
 Not quite.
 
-775
+778
 01:44:35,436 --> 01:44:37,938
 There's room for a little more.
 
-776
+779
 01:44:40,608 --> 01:44:44,820
 FRODO: <i> Bilbo once told me his part
 in this tale would end...</i>
 
-777
+780
 01:44:44,987 --> 01:44:48,282
 <i>...that each of us must come and go
 in the telling.</i>
 
-778
+781
 01:44:49,158 --> 01:44:51,994
 <i>Bilbo's story was now over.</i>
 
-779
+782
 01:44:52,495 --> 01:44:55,456
 <i>There would be no more journeys
 for him...</i>
 
-780
+783
 01:44:55,623 --> 01:44:57,124
 <i>...save one.</i>
 
-781
+784
 01:44:57,917 --> 01:45:01,462
 BILBO [WEAKLY]:
 Tell me again, lad, where are we going?
 
-782
+785
 01:45:01,629 --> 01:45:03,631
 FRODO:
 To the harbor, Bilbo.
 
-783
+786
 01:45:03,798 --> 01:45:06,509
 The Elves have accorded you
 a special honor...
 
-784
+787
 01:45:06,675 --> 01:45:09,303
 ...a place on the last ship
 to leave Middle-earth.
 
-785
+788
 01:45:11,013 --> 01:45:12,681
 Frodo...
 
-786
+789
 01:45:14,141 --> 01:45:18,646
 ...any chance of seeing
 that old Ring of mine again?
 
-787
+790
 01:45:19,313 --> 01:45:21,524
 The one I gave you.
 
-788
+791
 01:45:25,152 --> 01:45:27,321
 I'm sorry, Uncle.
 
-789
+792
 01:45:29,907 --> 01:45:32,493
 I'm afraid I lost it.
 
-790
+793
 01:45:32,660 --> 01:45:34,495
 Oh.
 
-791
+794
 01:45:35,120 --> 01:45:36,539
 Pity.
 
-792
+795
 01:45:39,333 --> 01:45:43,170
 I should like to have held it
 one last time.
 
-793
+796
 01:45:51,679 --> 01:45:53,722
 [SEAGULLS CAWING]
 
-794
+797
 01:46:08,153 --> 01:46:09,822
 Oh!
 
-795
+798
 01:46:12,366 --> 01:46:17,371
 Well, here's a sight
 I have never seen before.
 
-796
+799
 01:46:31,552 --> 01:46:34,889
 The power of the Three Rings is ended.
 
-797
+800
 01:46:35,723 --> 01:46:38,517
 The time has come...
 
-798
+801
 01:46:38,684 --> 01:46:41,979
 ...for the dominion of Men.
 
-799
+802
 01:46:43,063 --> 01:46:45,994
 [IN SINDARIN] (I Aear cân ven na mar.)
 
-800
+803
 01:46:54,366 --> 01:46:56,535
 I think I'm...
 
-801
+804
 01:46:56,702 --> 01:47:01,081
 ...quite ready
 for another adventure.
 
-802
+805
 01:47:32,112 --> 01:47:34,448
 Farewell...
 
-803
+806
 01:47:34,615 --> 01:47:37,326
 ...my brave Hobbits.
 
-804
+807
 01:47:39,286 --> 01:47:41,288
 My work is now finished.
 
-805
+808
 01:47:45,250 --> 01:47:50,130
 Here at last,
 on the shores of the sea...
 
-806
+809
 01:47:50,798 --> 01:47:53,634
 ...comes the end of our Fellowship.
 
-807
+810
 01:47:57,137 --> 01:47:59,640
 I will not say, "Do not weep"...
 
-808
+811
 01:48:00,307 --> 01:48:04,311
 ...for not all tears are an evil.
 
-809
+812
 01:48:21,870 --> 01:48:23,831
 It is time, Frodo.
 
-810
+813
 01:48:29,336 --> 01:48:31,338
 SAM:
 What does he mean?
 
-811
+814
 01:48:33,841 --> 01:48:36,677
 We set out to save the Shire, Sam.
 
-812
+815
 01:48:38,303 --> 01:48:41,015
 And it has been saved.
 
-813
+816
 01:48:44,685 --> 01:48:47,354
 But not for me.
 
-814
+817
 01:48:48,313 --> 01:48:50,733
 You don't mean that.
 
-815
+818
 01:48:51,984 --> 01:48:54,028
 You can't leave.
 
-816
+819
 01:49:02,536 --> 01:49:05,205
 The last pages are for you, Sam.
 
-817
+820
 01:52:38,335 --> 01:52:41,213
 FRODO:
 <i>My dear Sam:</i>
 
-818
+821
 01:52:43,090 --> 01:52:46,426
 <i>You cannot always be torn in two.</i>
 
-819
+822
 01:52:46,593 --> 01:52:50,764
 <i>You will have to be one and whole
 for many years.</i>
 
-820
+823
 01:52:51,473 --> 01:52:56,937
 <i>You have so much to enjoy
 and to be and to do.</i>
 
-821
+824
 01:52:58,230 --> 01:53:01,400
 <i>Your part in the story will go on.</i>
 
-822
+825
 01:53:02,109 --> 01:53:03,902
 Well...
 
-823
+826
 01:53:05,779 --> 01:53:07,447
 ...I'm back.
 
-824
+827
 01:53:11,118 --> 01:53:13,245
 [CHUCKLES]
 
-825
+828
 01:54:47,839 --> 01:54:49,883
 [ANNIE LENNOX SINGING
 "INTO THE WEST"]
 
-826
+829
 01:54:50,050 --> 01:54:54,054
 <i>Lay down</i>
 
-827
+830
 01:54:55,680 --> 01:55:00,060
 <i>Your sweet and weary head</i>
 
-828
+831
 01:55:01,770 --> 01:55:05,399
 <i>Night is falling</i>
 
-829
+832
 01:55:06,066 --> 01:55:10,904
 <i>You have come
 To journey's end</i>
 
-830
+833
 01:55:11,571 --> 01:55:15,283
 <i>Sleep now</i>
 
-831
+834
 01:55:15,492 --> 01:55:21,123
 <i>And dream
 Of the ones who came before</i>
 
-832
+835
 01:55:22,916 --> 01:55:26,795
 <i>They are calling</i>
 
-833
+836
 01:55:27,003 --> 01:55:31,091
 <i>From across
 The distant shore</i>
 
-834
+837
 01:55:32,717 --> 01:55:37,597
 <i>Why do you weep?</i>
 
-835
+838
 01:55:37,764 --> 01:55:42,769
 <i>What are these tears
 Upon your face?</i>
 
-836
+839
 01:55:42,936 --> 01:55:47,983
 <i>Soon you will see</i>
 
-837
+840
 01:55:48,150 --> 01:55:53,113
 <i>All of your fears
 Will pass away</i>
 
-838
+841
 01:55:53,280 --> 01:55:58,410
 <i>Safe in my arms</i>
 
-839
+842
 01:55:58,577 --> 01:56:03,081
 <i>You're only sleeping</i>
 
-840
+843
 01:56:03,248 --> 01:56:08,253
 <i>What can you see</i>
 
-841
+844
 01:56:08,420 --> 01:56:13,633
 <i>On the horizon?</i>
 
-842
+845
 01:56:13,800 --> 01:56:18,305
 <i>Why do the white gulls</i>
 
-843
+846
 01:56:18,472 --> 01:56:23,185
 <i>Call?</i>
 
-844
+847
 01:56:24,352 --> 01:56:28,982
 <i>Across the sea</i>
 
-845
+848
 01:56:29,149 --> 01:56:34,446
 <i>A pale moon rises</i>
 
-846
+849
 01:56:34,613 --> 01:56:37,324
 <i>The ships have come</i>
 
-847
+850
 01:56:37,491 --> 01:56:43,288
 <i>To carry you home</i>
 
-848
+851
 01:56:45,499 --> 01:56:50,045
 <i>And all will turn</i>
 
-849
+852
 01:56:50,212 --> 01:56:55,550
 <i>To silver glass</i>
 
-850
+853
 01:56:55,717 --> 01:57:00,013
 <i>A light on the water</i>
 
-851
+854
 01:57:00,180 --> 01:57:05,685
 <i>All souls pass</i>
 
-852
+855
 01:57:05,852 --> 01:57:10,023
 <i>Hope fades</i>
 
-853
+856
 01:57:11,608 --> 01:57:16,530
 <i>Into the world of night</i>
 
-854
+857
 01:57:17,197 --> 01:57:21,034
 <i>Through shadows falling</i>
 
-855
+858
 01:57:21,868 --> 01:57:27,040
 <i>Out of memory and time</i>
 
-856
+859
 01:57:27,707 --> 01:57:31,419
 <i>Don't say</i>
 
-857
+860
 01:57:32,212 --> 01:57:37,217
 <i>We have come now to the end</i>
 
-858
+861
 01:57:38,051 --> 01:57:42,514
 <i>White shores are calling</i>
 
-859
+862
 01:57:42,681 --> 01:57:46,226
 <i>You and I will meet again</i>
 
-860
+863
 01:57:46,393 --> 01:57:52,857
 <i>And you'll be here
 In my arms</i>
 
-861
+864
 01:57:54,067 --> 01:57:58,113
 <i>Just sleeping</i>
 
-862
+865
 01:57:58,280 --> 01:58:03,118
 <i>What can you see</i>
 
-863
+866
 01:58:03,285 --> 01:58:08,248
 <i>On the horizon?</i>
 
-864
+867
 01:58:08,415 --> 01:58:13,253
 <i>Why do the white gulls</i>
 
-865
+868
 01:58:13,420 --> 01:58:18,800
 <i>Call?</i>
 
-866
+869
 01:58:18,967 --> 01:58:24,097
 <i>Across the sea</i>
 
-867
+870
 01:58:24,264 --> 01:58:29,269
 <i>A pale moon rises</i>
 
-868
+871
 01:58:29,436 --> 01:58:32,230
 <i>The ships have come</i>
 
-869
+872
 01:58:32,397 --> 01:58:38,737
 <i>To carry you home</i>
 
-870
+873
 01:58:39,946 --> 01:58:45,076
 <i>And all will turn</i>
 
-871
+874
 01:58:45,619 --> 01:58:50,457
 <i>To silver glass</i>
 
-872
+875
 01:58:50,624 --> 01:58:54,794
 <i>A light on the water</i>
 
-873
+876
 01:58:54,961 --> 01:58:58,798
 <i>Grey ships pass</i>
 
-874
+877
 01:58:58,965 --> 01:59:04,638
 <i>Into the West</i>
 
-875
+878
 02:15:30,998 --> 02:15:33,000
-[English & Sindarin & Quenya & Rohirric - US - SDH - v1.0]
+[English & Sindarin & Quenya & Rohirric - US - SDH - v1.1]
 

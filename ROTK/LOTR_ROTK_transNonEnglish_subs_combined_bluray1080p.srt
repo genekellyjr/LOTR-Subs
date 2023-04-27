@@ -43,7 +43,7 @@ SAURON [IN SINDARIN]: <i>White-glittering slants down...
 
 10
 03:06:40,350 --> 03:06:44,478
-SAURON: <i>...sparkling like jewels! 
+SAURON: <i>...sparkling like jewels!
 (...o menel aglar elenath!)</i>
 
 11
@@ -62,36 +62,61 @@ SAURON [IN BLACK SPEECH]: <i>
 (Agh burzum-ishi krimpatul.)</i>
 
 14
+03:19:47,277 --> 03:19:49,631
+[ORCS CHANTING IN BLACK SPEECH]: <i> One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
+
+15
+03:19:51,482 --> 03:19:53,467
+<i>One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
+
+16
+03:19:54,859 --> 03:19:56,406
+<i>One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
+
+17
+03:19:58,046 --> 03:20:00,215
+<i>One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
+
+18
+03:20:01,831 --> 03:20:02,639
+<i>One Ring...
+(Ash nazg...)</i>
+
+19
 03:44:17,462 --> 03:44:21,743
 ARAGORN [IN QUENYA]: <i> Out of the Great Sea...
 (Et Eärello...)</i>
 
-15
+20
 03:44:22,380 --> 03:44:28,657
 <i>...to Middle-earth I am come.
 (...Endorenna utúlien.)</i>
 
-16
+21
 03:44:31,172 --> 03:44:35,052
 <i>In this place will I abide...
 (Sinomë maruvan...)</i>
 
-17
+22
 03:44:35,917 --> 03:44:40,971
 <i>...and my heirs...
 (...ar Hildinyar...)</i>
 
-18
+23
 03:44:42,460 --> 03:44:51,417
 <i>...unto the ending of the world.
 (...tenn' Ambar-metta.)</i>
 
-19
+24
 03:44:59,546 --> 03:45:01,006
 [IN SINDARIN] Thank you.
 (Hannon le.)
 
-20
+25
 03:54:18,938 --> 03:54:21,869
 [IN SINDARIN] (I Aear cân ven na mar.)
 
