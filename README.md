@@ -120,7 +120,7 @@ _Use the extraction steps in the "Process to translate yourself" section if you 
 
 * Close that SE_0 window.
 
-* Subtract (get the difference) between the two times, see example below.
+* Subtract (get the difference) between the two times, see example below. Use "timestamp_calcr.xlsx" to calc the difference if you don't want to do time maths.
 
 * E.g. (yours will not match the combined timings - this example will yield subtitle adjustment timings for the combining instructions above, cause I used those to make this example):
 
