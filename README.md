@@ -113,7 +113,7 @@ Per agressiv @ https://forum.makemkv.com/forum/viewtopic.php?p=100657#p100657: *
 ### Timing Adjustments:
 * For the respective movie, download the trans_subs_disc2.srt and orig_subs_disc2.srt and find the first subtitle in the trans version that is identical to the original version in text and timing (hint: FOTR disc2 opens with Sindarin dialog so the timings are different at the start).
 
-* Open your combined movie in Subtitle Edit (it'll take a while; I'll call this window SE_0).
+* Open your combined movie in Subtitle Edit (it'll take a while; I'll call this window SE_0). Choose the 1st subtitle listed, it's prob the real subtitles and not the commentary subtitles.
 
 * Get the start timing for that subtitle line you found above for disc2 in the combined version from the OCR pane, close it when done. Add 0.001 because Subtitle Edit gives the times off by -0.001 if the .sup's are imported this way for reasons idk. 
 _Use the extraction steps in the "Process to translate yourself" section if you want to be sure, you can open that .sup file (it's just extra steps tho)._
