@@ -241,6 +241,10 @@ mkvextract "C:\path\to\LORT FOTR_d2.mkv" tracks #:"C:\path\to\LORT FOTR_d2.sup"
 ### FOTR
 http://www.arwen-undomiel.com/elvish/fotr.html & https://www.elvish.org/gwaith/movie_fotr.htm
 
+* https://subscene.com/subtitles/the-lord-of-the-rings-the-fellowship-of-the-ring/english/2698286
+
+* https://subscene.com/subtitles/the-lord-of-the-rings-the-fellowship-of-the-ring/english/1913639
+
 The Lament for Gandalf needs extra crutches:
 * Soundtrack from https://youtu.be/5VA0s8kOc1Y?t=442
 
