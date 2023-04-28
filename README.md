@@ -345,6 +345,8 @@ _"If everyone stands on top of everyone else's shoulders, we get really high wit
 ### FOTR
 LeithioiPhilinn on Subscene
 
+FUNKSW on Subscene
+
 elvish.org's translations
 
 arwen-undomiel.com's translations
