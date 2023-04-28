@@ -261,8 +261,16 @@ The Lament for Gandalf needs extra crutches:
 ### TTT
 http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/movie_ttt.htm
 
+* https://subscene.com/subtitles/the-lord-of-the-rings-the-two-towers/english/2693708
+
+* https://subscene.com/subtitles/the-lord-of-the-rings-the-two-towers/english/1913640
+
 ### ROTK
 http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/movie_rotk.htm
+
+* https://subscene.com/subtitles/the-lord-of-the-rings-the-return-of-the-king/english/2693881
+
+* https://subscene.com/subtitles/the-lord-of-the-rings-the-return-of-the-king/english/1913641
 
 * Aragorn's recital https://tolkiengateway.net/wiki/Oath_of_Elendil
 
