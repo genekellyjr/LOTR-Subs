@@ -265,6 +265,8 @@ http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/mo
 
 * https://subscene.com/subtitles/the-lord-of-the-rings-the-two-towers/english/1913640
 
+*  Éowyn's Dirge in https://www.elvish.org/gwaith/movie_soundtrack_ttt.htm
+
 ### ROTK
 http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/movie_rotk.htm
 
