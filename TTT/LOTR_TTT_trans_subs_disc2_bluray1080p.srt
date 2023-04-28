@@ -4636,5 +4636,5 @@ Follow me.
 
 1071
 02:08:46,636 --> 02:08:48,638
-[English & Sindarin & Rohirric - US - SDH - v1.3]
+[English & Sindarin & Rohirric - US - SDH - v1.4]
 

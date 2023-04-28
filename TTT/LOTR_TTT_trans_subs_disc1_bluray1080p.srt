@@ -3803,13 +3803,13 @@ Where is my son?
 
 888
 01:25:18,797 --> 01:25:21,954
-...sorrowing minstrels.
-(...gléomenn sorgiende.)
+...sorrowing minstrels...
+(...gléomenn sorgiende...)
 
 889
 01:25:22,773 --> 01:25:25,492
-In Meduseld...
-(On Meduselde...)
+...in Meduseld...
+(...on Meduselde...)
 
 890
 01:25:26,168 --> 01:25:30,014
@@ -3818,18 +3818,18 @@ In Meduseld...
 
 891
 01:25:30,552 --> 01:25:34,015
-<i>...for his necessary rest.
-(...is þurh niedig rest.)</i>
+<i>...to his lord dearest...
+(...his dryhtne dyrest...)</i>
 
 892
 01:25:34,536 --> 01:25:38,128
-And that he is the dearest kinsman...
-(And mægen deorost...)
+and kinsmen most beloved.
+(...and mæga deorost.)
 
 893
 01:25:39,060 --> 01:25:40,270
-<i>...killing took him...
-(...bealo...)</i>
+<i>An evil [death]...
+(Bealo...)</i>
 
 894
 01:25:44,389 --> 01:25:46,099
@@ -4155,8 +4155,8 @@ Quiet...
 
 964
 01:31:27,690 --> 01:31:30,023
-A battle is stirring, you heard
-(Lac is drefed, gefrægon..)
+A battle is stirring, they heard.
+(Lac is drefed, gefrægon.)
 
 965
 01:31:37,338 --> 01:31:39,224
