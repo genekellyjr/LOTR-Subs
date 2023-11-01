@@ -288,6 +288,14 @@ http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/m
 
 * Extra phrase at https://www.elvish.org/gwaith/movie_ttt.htm#sauron
 
+### Orcish Black Speech (Yrksk apparently) - centered on the general orc chanting stuff
+
+* https://web.archive.org/web/20230131063110/http://scrapbook.theonering.net/scrapbook/group/927 pics of all of the things chanted in the stadium for ROTK (afaik)
+
+*  Za dashu snaku Zigur, Durbgu nazgshu, Durbgu dashshu https://www.elvish.org/gwaith/movie_ttt.htm#sauron was recorded in the stadium for TTT
+
+*  https://zhaaburi.wordpress.com/yrksk/
+
 ## Style Guide
 
 ### 1st line of Elvish w/ baked-on translations
