@@ -14,109 +14,159 @@ VOICE OF THE RING [IN BLACK SPEECH]: <i> ...them all...
 (Westu Aragorn hál.)
 
 4
+00:31:06,039 --> 00:31:08,099
+SAURON [IN BLACK SPEECH]: <i> Bring the One Ring.
+Ash nazg thrakatum.</i>
+
+5
 00:40:35,516 --> 00:40:36,976
 [IN SINDARIN] Father...
 (Ada...)
 
-5
+6
 00:41:23,481 --> 00:41:24,983
 Father...
 (Ada...)
 
-6
+7
 01:42:33,454 --> 01:42:36,233
 [IN SINDARIN] (Ónen i-Estel Edain.)
 
-7
+8
 01:42:39,495 --> 01:42:43,630
 [IN SINDARIN] (Ú-chebin Estel anim.)
 
-8
+9
+01:50:53,889 --> 01:50:55,770
+[ORC CALL IN BLACK SPEECH]: <i>Death! (Gurut!)</i>
+[ORCS CHANTING]: <i>To war! (Kutmuda!)</i>
+
+10
+01:50:55,795 --> 01:50:57,667
+<i>Death! (Gurut!)</i>
+<i>To war! (Kutmuda!)</i>
+
+11
+01:50:57,691 --> 01:50:59,563
+<i>Death! (Gurut!)</i>
+<i>To war! (Kutmuda!)</i>
+
+12
+01:58:41,889 --> 01:58:44,116
+<i> </i>
+[ORCS CHANTING IN BLACK SPEECH]: <i>Death! (Gurut!)</i>
+
+13
+01:58:44,723 --> 01:58:47,058
+<i> </i>
+<i>Death! (Gurut!)</i>
+
+14
+01:58:47,083 --> 01:58:49,083
+<i>[Lord] of the Earth, of the Earth!
+(Dashshu, dashshu!)</i>
+
+15
 02:12:45,663 --> 02:12:49,086
 [IN QUENYA] Hail Eärendil brightest of the Stars!
 (Aiya Eärendil Elenion Ancalima!)
 
-9
+16
 03:06:37,499 --> 03:06:40,326
 SAURON [IN SINDARIN]: <i>White-glittering slants down...
 (Silivren penna míriel...)</i>
 
-10
+17
 03:06:40,350 --> 03:06:44,478
 SAURON: <i>...sparkling like jewels!
 (...o menel aglar elenath!)</i>
 
-11
+18
 03:06:58,865 --> 03:07:01,792
 <i>White-glittering slants down...
 (Silivren penna míriel...)</i>
 
-12
+19
 03:07:03,222 --> 03:07:05,574
-SAURON [IN BLACK SPEECH]: <i>
-(Ombi kur gundum-ishi...)</i>
+SAURON [IN BLACK SPEECH]: <i> Seven dwarves in stone halls...
+(Ombi kuzd gundum-ishi...)</i>
 
-13
+20
 03:07:05,599 --> 03:07:08,526
 <i>And in darkness bind them.
 (Agh burzum-ishi krimpatul.)</i>
 
-14
+21
 03:19:47,277 --> 03:19:49,631
 [ORCS CHANTING IN BLACK SPEECH]: <i> One Ring to rule them all!
 (Ash nazg durbatulûk!)</i>
 
-15
+22
 03:19:51,482 --> 03:19:53,467
 <i>One Ring to rule them all!
 (Ash nazg durbatulûk!)</i>
 
-16
+23
 03:19:54,859 --> 03:19:56,406
 <i>One Ring to rule them all!
 (Ash nazg durbatulûk!)</i>
 
-17
+24
 03:19:58,046 --> 03:20:00,215
 <i>One Ring to rule them all!
 (Ash nazg durbatulûk!)</i>
 
-18
+25
 03:20:01,831 --> 03:20:02,639
 <i>One Ring...
 (Ash nazg...)</i>
 
-19
+26
+03:30:16,920 --> 03:30:18,480
+THE RING [IN BLACK SPEECH]: <i> One Ring to-rule-them-all...
+(Ash Nazg durbatulûk...)</i>
+
+27
+03:30:18,504 --> 03:30:21,280
+<i>...One Ring to find them...
+(...Ash Nazg gimbatul...)</i>
+
+28
+03:30:24,829 --> 03:30:27,573
+<i>...in the Darkness bind them...
+(...Burzum-ishi krimpatul...)</i>
+
+29
 03:44:17,462 --> 03:44:21,743
 ARAGORN [IN QUENYA]: <i> Out of the Great Sea...
 (Et Eärello...)</i>
 
-20
+30
 03:44:22,380 --> 03:44:28,657
 <i>...to Middle-earth I am come.
 (...Endorenna utúlien.)</i>
 
-21
+31
 03:44:31,172 --> 03:44:35,052
 <i>In this place will I abide...
 (Sinomë maruvan...)</i>
 
-22
+32
 03:44:35,917 --> 03:44:40,971
 <i>...and my heirs...
 (...ar Hildinyar...)</i>
 
-23
+33
 03:44:42,460 --> 03:44:51,417
 <i>...unto the ending of the world.
 (...tenn' Ambar-metta.)</i>
 
-24
+34
 03:44:59,546 --> 03:45:01,006
 [IN SINDARIN] Thank you.
 (Hannon le.)
 
-25
+35
 03:54:18,938 --> 03:54:21,869
 [IN SINDARIN] (I Aear cân ven na mar.)
 

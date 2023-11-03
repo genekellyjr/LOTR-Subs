@@ -1547,8 +1547,8 @@ Pippin!
 
 364
 00:31:06,039 --> 00:31:08,099
-SAURON [IN BLACK SPEECH]: <i> The One Ring...
-Ash nazg...</i>
+SAURON [IN BLACK SPEECH]: <i> Bring the One Ring.
+Ash nazg thrakatum.</i>
 
 365
 00:31:08,492 --> 00:31:10,786
@@ -5101,559 +5101,580 @@ Ride!
 Ride now to Gondor!
 
 1175
-01:50:54,398 --> 01:50:57,568
-[ORCS CHANTING]
+01:50:53,889 --> 01:50:55,770
+[ORC CALL IN BLACK SPEECH]: <i>Death! (Gurut!)</i>
+[ORCS CHANTING]: <i>To war! (Kutmuda!)</i>
 
 1176
+01:50:55,795 --> 01:50:57,667
+<i>Death! (Gurut!)</i>
+<i>To war! (Kutmuda!)</i>
+
+1177
+01:50:57,691 --> 01:50:59,563
+<i>Death! (Gurut!)</i>
+<i>To war! (Kutmuda!)</i>
+
+1178
 01:51:23,844 --> 01:51:25,596
 GIMLI:
 What is it?
 
-1177
+1179
 01:51:25,762 --> 01:51:27,306
 What do you see?
 
-1178
+1180
 01:51:27,556 --> 01:51:29,683
 I see shapes of men.
 
-1179
+1181
 01:51:32,352 --> 01:51:33,729
 And of horses.
 
-1180
+1182
 01:51:34,438 --> 01:51:35,689
 Where?
 
-1181
+1183
 01:51:35,856 --> 01:51:38,817
 LEGOLAS:
 Pale banners like shreds of cloud.
 
-1182
+1184
 01:51:41,236 --> 01:51:43,447
 Spears rise...
 
-1183
+1185
 01:51:44,072 --> 01:51:47,534
 ...like winter-thickets
 through a shroud of mist.
 
-1184
+1186
 01:51:48,785 --> 01:51:50,954
 The Dead are following.
 
-1185
+1187
 01:51:52,122 --> 01:51:53,624
 They have been summoned.
 
-1186
+1188
 01:51:54,333 --> 01:51:56,126
 The Dead?
 
-1187
+1189
 01:51:56,543 --> 01:51:58,253
 Summoned?
 
-1188
+1190
 01:51:58,629 --> 01:52:00,547
 I knew that.
 
-1189
+1191
 01:52:01,089 --> 01:52:03,258
 Huh. Ha.
 
-1190
+1192
 01:52:03,884 --> 01:52:05,636
 Very good.
 
-1191
+1193
 01:52:06,345 --> 01:52:08,430
 Very good! Legolas!
 
-1192
+1194
 01:52:20,317 --> 01:52:22,444
 [BLOWING]
 
-1193
+1195
 01:52:46,385 --> 01:52:47,803
 Do not look down.
 
-1194
+1196
 01:52:54,309 --> 01:52:55,811
 [CRACKS]
 
-1195
+1197
 01:53:01,358 --> 01:53:03,527
 [BONES CRACKING]
 
-1196
+1198
 01:53:18,333 --> 01:53:20,127
 [PANTING]
 
-1197
+1199
 01:53:40,397 --> 01:53:45,527
 KING OF THE DEAD:
 <i>Who enters my domain?</i>
 
-1198
+1200
 01:53:49,239 --> 01:53:51,491
 One who will have your allegiance.
 
-1199
+1201
 01:53:54,453 --> 01:53:59,750
 The Dead do not suffer the living to pass.
 
-1200
+1202
 01:54:00,083 --> 01:54:02,753
 You will suffer me.
 
-1201
+1203
 01:54:02,961 --> 01:54:05,505
 [CACKLING]
 
-1202
+1204
 01:54:26,276 --> 01:54:29,696
 KING OF THE DEAD:
 The way is shut.
 
-1203
+1205
 01:54:30,864 --> 01:54:35,285
 It was made by those who are dead.
 
-1204
+1206
 01:54:35,702 --> 01:54:39,873
 And the Dead keep it.
 
-1205
+1207
 01:54:49,007 --> 01:54:52,094
 The way is shut.
 
-1206
+1208
 01:54:53,804 --> 01:54:56,473
 Now you must die.
 
-1207
+1209
 01:55:00,310 --> 01:55:03,146
 I summon you to fulfill your oath.
 
-1208
+1210
 01:55:03,522 --> 01:55:08,485
 None but the king of Gondor
 may command me.
 
-1209
+1211
 01:55:09,945 --> 01:55:11,947
 [YELLS]
 
-1210
+1212
 01:55:14,074 --> 01:55:16,243
 That line was broken.
 
-1211
+1213
 01:55:17,160 --> 01:55:18,662
 [GROANS]
 
-1212
+1214
 01:55:18,829 --> 01:55:21,081
 It has been remade.
 
-1213
+1215
 01:55:29,005 --> 01:55:30,507
 Fight for us...
 
-1214
+1216
 01:55:30,674 --> 01:55:33,260
 ...and regain your honor.
 
-1215
+1217
 01:55:37,431 --> 01:55:38,765
 What say you?
 
-1216
+1218
 01:55:50,986 --> 01:55:52,529
 What say you?
 
-1217
+1219
 01:55:52,696 --> 01:55:55,031
 Ah! You waste your time, Aragorn.
 
-1218
+1220
 01:55:55,198 --> 01:55:58,368
 They had no honor in life,
 they have none now in death.
 
-1219
+1221
 01:55:58,869 --> 01:56:01,371
 I am Isildur's heir.
 
-1220
+1222
 01:56:01,955 --> 01:56:03,874
 Fight for me...
 
-1221
+1223
 01:56:04,499 --> 01:56:08,086
 ...and I will hold your oaths fulfilled.
 
-1222
+1224
 01:56:12,007 --> 01:56:13,967
 What say you?
 
-1223
+1225
 01:56:15,218 --> 01:56:18,388
 [CACKLING]
 
-1224
+1226
 01:56:21,892 --> 01:56:24,102
 You have my word!
 
-1225
+1227
 01:56:24,394 --> 01:56:28,398
 Fight, and I will release you
 from this living death!
 
-1226
+1228
 01:56:29,858 --> 01:56:31,359
 What say you?!
 
-1227
+1229
 01:56:34,654 --> 01:56:37,616
 Stand, you traitors!
 
-1228
+1230
 01:56:44,706 --> 01:56:46,416
 [CRACKING]
 
-1229
+1231
 01:56:47,250 --> 01:56:49,002
 [RUMBLING]
 
-1230
+1232
 01:57:04,559 --> 01:57:05,602
 Out!
 
-1231
+1233
 01:57:26,957 --> 01:57:28,542
 Legolas!
 
-1232
+1234
 01:57:29,668 --> 01:57:30,877
 Run!
 
-1233
+1235
 01:58:25,348 --> 01:58:27,851
 [WIND WHISTLING]
 
-1234
+1236
 01:58:37,193 --> 01:58:39,237
 We fight.
 
-1235
-01:58:42,532 --> 01:58:45,035
-[ORCS YELLING AND
-TROLLS GRUNTING]
+1237
+01:58:41,889 --> 01:58:44,116
+<i> </i>
+[ORCS CHANTING IN BLACK SPEECH]: <i>Death! (Gurut!)</i>
 
-1236
+1238
+01:58:44,723 --> 01:58:47,058
+<i> </i>
+<i>Death! (Gurut!)</i>
+
+1239
+01:58:47,083 --> 01:58:49,083
+<i>[Lord] of the Earth, of the Earth!
+(Dashshu, dashshu!)</i>
+
+1240
 01:58:49,623 --> 01:58:52,208
 IORLAS:
 Open the gate! Quick!
 
-1237
+1241
 01:59:17,275 --> 01:59:19,152
 [GROWLS]
 
-1238
+1242
 01:59:23,239 --> 01:59:25,241
 Quick! Hurry!
 
-1239
+1243
 01:59:39,005 --> 01:59:40,590
 Faramir!
 
-1240
+1244
 01:59:41,591 --> 01:59:44,886
 Say not that he has fallen.
 
-1241
+1245
 01:59:46,054 --> 01:59:47,597
 They were outnumbered.
 
-1242
+1246
 01:59:48,014 --> 01:59:49,599
 None survived.
 
-1243
+1247
 01:59:50,308 --> 01:59:52,310
 Fear.
 
-1244
+1248
 01:59:52,852 --> 01:59:56,064
 The city is rank with it.
 
-1245
+1249
 01:59:58,400 --> 02:00:00,860
 Let us ease their pain.
 
-1246
+1250
 02:00:01,111 --> 02:00:02,862
 Release the prisoners.
 
-1247
+1251
 02:00:03,029 --> 02:00:04,948
 Catapults!
 
-1248
+1252
 02:00:05,198 --> 02:00:07,200
 [ORCS YELLING]
 
-1249
+1253
 02:00:08,243 --> 02:00:10,328
 MAN:
 Shields up!
 
-1250
+1254
 02:00:18,336 --> 02:00:21,798
 DENETHOR:
 My sons are spent.
 
-1251
+1255
 02:00:22,841 --> 02:00:25,760
 My line has ended.
 
-1252
+1256
 02:00:28,596 --> 02:00:29,973
 PIPPIN:
 He's alive!
 
-1253
+1257
 02:00:30,140 --> 02:00:33,309
 The House of Stewards has failed.
 
-1254
+1258
 02:00:33,476 --> 02:00:34,978
 He needs medicine, my lord.
 
-1255
+1259
 02:00:35,979 --> 02:00:38,648
 My line has ended!
 
-1256
+1260
 02:00:40,150 --> 02:00:42,152
 PIPPIN:
 My lord!
 
-1257
+1261
 02:00:49,159 --> 02:00:51,244
 ORC:
 Put it in!
 
-1258
+1262
 02:00:55,665 --> 02:00:57,500
 Rohan...
 
-1259
+1263
 02:00:58,293 --> 02:01:00,670
 ...has deserted us.
 
-1260
+1264
 02:01:05,759 --> 02:01:07,677
 [PEOPLE SCREAMING]
 
-1261
+1265
 02:01:07,886 --> 02:01:09,012
 [CHUCKLES]
 
-1262
+1266
 02:01:09,304 --> 02:01:12,182
 [BOULDERS CRASHING,
 PEOPLE SCREAMING]
 
-1263
+1267
 02:01:15,143 --> 02:01:18,354
 Théoden's betrayed me.
 
-1264
+1268
 02:01:29,491 --> 02:01:31,326
 Abandon your posts!
 
-1265
+1269
 02:01:32,368 --> 02:01:36,289
 Flee! Flee for your lives!
 
-1266
+1270
 02:01:38,792 --> 02:01:40,627
 Oh!
 
-1267
+1271
 02:01:41,711 --> 02:01:43,296
 [GRUNTS]
 
-1268
+1272
 02:01:46,424 --> 02:01:47,967
 Prepare for battle!
 
-1269
+1273
 02:01:48,510 --> 02:01:51,679
 Hurry, men! To the wall! Defend the wall!
 
-1270
+1274
 02:01:52,847 --> 02:01:54,808
 MAN:
 Over here!
 
-1271
+1275
 02:01:55,558 --> 02:01:57,936
 GANDALF:
 Return to your posts!
 
-1272
+1276
 02:02:08,738 --> 02:02:11,366
 Send these foul beasts into the abyss.
 
-1273
+1277
 02:02:21,543 --> 02:02:23,002
 Stay where you are.
 
-1274
+1278
 02:02:39,978 --> 02:02:41,396
 SOLDIER 1:
 We need more rubble!
 
-1275
+1279
 02:02:41,563 --> 02:02:43,439
 SOLDIER 2:
 Watch out!
 
-1276
+1280
 02:02:43,606 --> 02:02:46,109
 SOLDIER 3:
 Down to the lower levels. Quick!
 
-1277
+1281
 02:02:48,027 --> 02:02:49,571
 SOLDIER 4:
 Double up, men!
 
-1278
+1282
 02:03:05,628 --> 02:03:07,088
 Yah!
 
-1279
+1283
 02:03:08,131 --> 02:03:09,632
 [SQUEALS, GROANS]
 
-1280
+1284
 02:03:09,883 --> 02:03:11,259
 [SPITS]
 
-1281
+1285
 02:03:11,467 --> 02:03:13,970
 [RINGWRAITHS SCREECHING]
 
-1282
+1286
 02:03:47,921 --> 02:03:49,797
 [SCREAMS]
 
-1283
+1287
 02:03:58,556 --> 02:04:01,559
 Hold them back! Do not give in to fear.
 
-1284
+1288
 02:04:02,060 --> 02:04:05,563
 Stand to your posts! Fight!
 
-1285
+1289
 02:04:11,569 --> 02:04:13,655
 [SOLDIERS SCREAMING]
 
-1286
+1290
 02:04:46,229 --> 02:04:47,855
 Not at the towers!
 
-1287
+1291
 02:04:48,022 --> 02:04:51,025
 Aim for the trolls! Kill the trolls!
 
-1288
+1292
 02:04:51,734 --> 02:04:53,611
 Bring them down!
 
-1289
+1293
 02:05:28,730 --> 02:05:30,773
 Fight them back!
 
-1290
+1294
 02:05:30,940 --> 02:05:32,942
 Peregrin Took!
 
-1291
+1295
 02:05:33,776 --> 02:05:36,946
 -Go back to the Citadel!
 -They'd called us out to fight.
 
-1292
+1296
 02:05:47,665 --> 02:05:49,292
 [YELLS]
 
-1293
+1297
 02:05:52,670 --> 02:05:55,048
 This is no place for a Hobbit.
 
-1294
+1298
 02:06:20,782 --> 02:06:22,241
 Guard of the Citadel, indeed.
 
-1295
+1299
 02:06:22,825 --> 02:06:26,204
 Now, back, up the hill. Quickly. Quick!
 
-1296
+1300
 02:06:37,507 --> 02:06:40,510
 What are you doing,
 you useless scum?!
 
-1297
+1301
 02:06:40,676 --> 02:06:42,637
 The door won't give. It's too strong.
 
-1298
+1302
 02:06:48,976 --> 02:06:51,354
 Get back there and smash it down.
 
-1299
+1303
 02:06:51,521 --> 02:06:53,523
 But nothing can breach it.
 
-1300
+1304
 02:06:56,484 --> 02:06:58,736
 Grond will breach it.
 
-1301
+1305
 02:07:02,156 --> 02:07:04,242
 Bring up the wolf's head.
 
-1302
+1306
 02:07:07,370 --> 02:07:12,750
 [ORCS CHANTING]
 <i>Grond! Grond! Grond! Grond!</i>
 
-1303
+1307
 02:07:13,042 --> 02:07:16,879
 <i>Grond! Grond! Grond!</i>
 
-1304
+1308
 02:07:18,840 --> 02:07:22,260
 <i>Grond! Grond! Grond!</i>
 
-1305
+1309
 02:07:22,969 --> 02:07:26,639
 <i>Grond! Grond! Grond!</i>
 
-1306
+1310
 02:07:27,056 --> 02:07:31,227
 <i>Grond! Grond! Grond!</i>
 
-1307
+1311
 02:07:31,394 --> 02:07:35,022
 <i>Grond! Grond! Grond!</i>
 

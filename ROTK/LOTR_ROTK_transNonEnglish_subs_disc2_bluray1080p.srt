@@ -20,8 +20,8 @@ SAURON: <i>...sparkling like jewels!
 
 5
 00:59:27,347 --> 00:59:29,699
-SAURON [IN BLACK SPEECH]: <i>
-(Ombi kur gundum-ishi...)</i>
+SAURON [IN BLACK SPEECH]: <i> Seven dwarves in stone halls...
+(Ombi kuzd gundum-ishi...)</i>
 
 6
 00:59:29,724 --> 00:59:32,651
@@ -35,59 +35,70 @@ SAURON [IN BLACK SPEECH]: <i>
 
 8
 01:12:15,331 --> 01:12:17,124
-Pull back.
-<i>One Ring to rule them all! (Ash nazg durbatulûk!)</i>
+<i>One Ring to rule them all!
+(Ash nazg durbatulûk!)</i>
 
 9
-01:12:17,416 --> 01:12:18,959
-Pull back!
-
-10
 01:12:18,984 --> 01:12:20,531
 <i>One Ring to rule them all!
 (Ash nazg durbatulûk!)</i>
 
-11
+10
 01:12:22,171 --> 01:12:24,340
 <i>One Ring to rule them all!
 (Ash nazg durbatulûk!)</i>
 
-12
+11
 01:12:25,956 --> 01:12:26,764
 <i>One Ring...
 (Ash nazg...)</i>
 
+12
+01:22:41,045 --> 01:22:42,605
+THE RING [IN BLACK SPEECH]: <i> One Ring to-rule-them-all...
+(Ash Nazg durbatulûk...)</i>
+
 13
+01:22:42,629 --> 01:22:45,405
+<i>...One Ring to find them...
+(...Ash Nazg gimbatul...)</i>
+
+14
+01:22:48,954 --> 01:22:51,698
+<i>...in the Darkness bind them...
+(...Burzum-ishi krimpatul...)</i>
+
+15
 01:36:41,587 --> 01:36:45,868
 ARAGORN [IN QUENYA]: <i> Out of the Great Sea...
 (Et Eärello...)</i>
 
-14
+16
 01:36:46,505 --> 01:36:52,782
 <i>...to Middle-earth I am come.
 (...Endorenna utúlien.)</i>
 
-15
+17
 01:36:55,297 --> 01:36:59,177
 <i>In this place will I abide...
 (Sinomë maruvan...)</i>
 
-16
+18
 01:37:00,042 --> 01:37:05,096
 <i>...and my heirs...
 (...ar Hildinyar...)</i>
 
-17
+19
 01:37:06,585 --> 01:37:15,542
 <i>...unto the ending of the world.
 (...tenn' Ambar-metta.)</i>
 
-18
+20
 01:37:23,671 --> 01:37:25,131
 [IN SINDARIN] Thank you.
 (Hannon le.)
 
-19
+21
 01:46:43,063 --> 01:46:45,994
 [IN SINDARIN] (I Aear cân ven na mar.)
 

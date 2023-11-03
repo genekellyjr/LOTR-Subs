@@ -14,20 +14,55 @@ VOICE OF THE RING [IN BLACK SPEECH]: <i> ...them all...
 (Westu Aragorn hál.)
 
 4
+00:31:06,039 --> 00:31:08,099
+SAURON [IN BLACK SPEECH]: <i> Bring the One Ring.
+Ash nazg thrakatum.</i>
+
+5
 00:40:35,516 --> 00:40:36,976
 [IN SINDARIN] Father...
 (Ada...)
 
-5
+6
 00:41:23,481 --> 00:41:24,983
 Father...
 (Ada...)
 
-6
+7
 01:42:33,454 --> 01:42:36,233
 [IN SINDARIN] (Ónen i-Estel Edain.)
 
-7
+8
 01:42:39,495 --> 01:42:43,630
 [IN SINDARIN] (Ú-chebin Estel anim.)
+
+9
+01:50:53,889 --> 01:50:55,770
+[ORC CALL IN BLACK SPEECH]: <i>Death! (Gurut!)</i>
+[ORCS CHANTING]: <i>To war! (Kutmuda!)</i>
+
+10
+01:50:55,795 --> 01:50:57,667
+<i>Death! (Gurut!)</i>
+<i>To war! (Kutmuda!)</i>
+
+11
+01:50:57,691 --> 01:50:59,563
+<i>Death! (Gurut!)</i>
+<i>To war! (Kutmuda!)</i>
+
+12
+01:58:41,889 --> 01:58:44,116
+<i> </i>
+[ORCS CHANTING IN BLACK SPEECH]: <i>Death! (Gurut!)</i>
+
+13
+01:58:44,723 --> 01:58:47,058
+<i> </i>
+<i>Death! (Gurut!)</i>
+
+14
+01:58:47,083 --> 01:58:49,083
+<i>[Lord] of the Earth, of the Earth!
+(Dashshu, dashshu!)</i>
 
