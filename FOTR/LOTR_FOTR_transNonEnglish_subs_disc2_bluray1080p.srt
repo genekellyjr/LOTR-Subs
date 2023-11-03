@@ -108,7 +108,7 @@ GIMLI, SOFTLY [IN KHUZDÛL]: <i> A crown of stars in the waters...
 
 23
 00:26:01,226 --> 00:26:06,955
-<i>...cold and black, of the Kheled-zâram. Balin sleeps.
+<i>...cold and black, of the Kheled-zâram... Balin sleeps.
 (...kalil ra narag, Kheled-zâram... Balin tazlifi.)</i>
 
 24
@@ -348,5 +348,5 @@ VOICE OF THE RING: <i> ...only death.
 
 75
 02:02:29,676 --> 02:02:31,678
-[v1.3]
+[v1.6]
 

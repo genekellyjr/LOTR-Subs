@@ -3441,5 +3441,5 @@ Sam...
 
 779
 02:02:29,676 --> 02:02:31,678
-[English & Sindarin & Quenya - US - SDH - v1.5]
+[English & Sindarin & Quenya - US - SDH - v1.6]
 

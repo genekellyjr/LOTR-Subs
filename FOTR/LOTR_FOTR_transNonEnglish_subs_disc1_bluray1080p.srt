@@ -241,75 +241,95 @@ THE RING [IN BLACK SPEECH]: <i> In the cold...
 (Kelkum-ishi...)</i>
 
 53
-01:38:59,507 --> 01:39:02,809
-[CHANTS IN BLACK SPEECH] One Ring to rule them all...
-(Ash Nazg durbatulûk...)
+01:38:59,507 --> 01:39:00,640
+[CHANTS IN BLACK SPEECH] One Ring...
+(Ash Nazg...)
 
 54
-01:39:03,186 --> 01:39:07,117
+01:39:00,665 --> 01:39:02,809
+...to rule them all... [THE RING] <i>One Ring to rule them all...</i>
+(...durbatulûk...) <i>(Ash Nazg durbatulûk...)</i>
+
+55
+01:39:03,186 --> 01:39:06,695
 ...One Ring to find them...
 (...Ash Nazg gimbatul...)
 
-55
-01:39:07,142 --> 01:39:10,025
-...One Ring to bring them all...
-(...Ash Nazg thrakatulûk...)
-
 56
-01:39:13,039 --> 01:39:17,027
-...and in the darkness bind them.
-(...agh burzum-ishi krimpatul.)
+01:39:06,720 --> 01:39:11,289
+...One Ring to bring them all... <i>Seven dwarf-lords' blood.</i>
+(...Ash Nazg thrakatulûk...) <i>(Ombi kuzddurb sherkuk.)</i>
 
 57
+01:39:11,314 --> 01:39:13,014
+<i>In the cold, for the Dark Lord...</i>
+<i>(Kelkum-ishi, Burz-Durbagu...)</i>
+
+58
+01:39:13,039 --> 01:39:15,284
+...and in the darkness... <i>...in the darkness...</i>
+(...agh burzum-ishi...) <i>(...burzum-ishi...)</i>
+
+59
+01:39:15,309 --> 01:39:17,027
+...bind them!
+(...krimpatul!)
+
+60
 01:40:44,924 --> 01:40:46,422
 [IN SINDARIN] (Havo dad, Legolas.)
 
-58
+61
 01:41:26,835 --> 01:41:29,955
 THE RING: <i> In the Land of Mordor where...
 (Daghburz-ishi makha...)</i>
 
-59
+62
 01:41:30,308 --> 01:41:31,625
 <i>...your blood.
 (...sherkuk.)</i>
 
-60
+63
+01:41:44,506 --> 01:41:49,687
+THE RING: <i> In the Land of Mordor where shadows lie.
+(Daghburz-ishi makha gulshu darulu.)</i>
+
+64
 01:41:57,439 --> 01:42:00,506
 THE RING: <i> Where the Shadows lie...
 (Makha Gulshu darulu...)</i>
 
-61
+65
 01:43:14,481 --> 01:43:16,787
 THE RING: <i> One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-62
+66
 01:43:16,812 --> 01:43:18,821
 <i>...One Ring to find them...
 (...Ash Nazg gimbatul...)</i>
 
-63
+67
 01:43:18,845 --> 01:43:21,347
 <i>One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-64
+68
 01:43:21,371 --> 01:43:23,534
 <i>...One Ring to find them...
 (...Ash Nazg gimbatul...)</i>
 
-65
+69
 01:43:23,559 --> 01:43:25,729
 <i>One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
 
-66
+70
 01:43:25,753 --> 01:43:27,869
 <i>...One Ring to find them...
 (...Ash Nazg gimbatul...)</i>
 
-67
+71
 01:43:27,893 --> 01:43:29,582
 <i>One Ring to rule them all...
 (Ash Nazg durbatulûk...)</i>
