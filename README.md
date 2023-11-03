@@ -28,6 +28,8 @@
 
 *Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
 
+Video showing how to add .sup files from the Releases section to a TTT combined movie: https://files.catbox.moe/danbbp.mp4
+
 ## Help translate anything missing!
 
 If you notice anything missing a translation, note the movie, time, and disc# or combined and open an issue or find an issue for it already. Hopefully I can find someone translating it (since I am but a laylad) or be graced with someone who can translate it.
