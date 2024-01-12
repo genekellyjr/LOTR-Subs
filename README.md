@@ -260,6 +260,8 @@ The Lament for Gandalf needs extra crutches:
 
 * Unofficial words and translation (#10 notes and #11) https://web.archive.org/web/20221126204330/https://www.elvish.org/gwaith/movie_soundtrack_fotr.htm
 
+* LOTR symphony translations, idk I found them in the pdf directory there https://web.archive.org/web/20190810084136/http://www.elvish.org/gwaith/pdf/NewLOTRSymphonyTranslation.pdf
+
 ### TTT
 http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/movie_ttt.htm
 
