@@ -298,6 +298,14 @@ http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/m
 
 *  https://zhaaburi.wordpress.com/yrksk/
 
+### Khuzdûl resources
+
+* [Khuzdûl blog posts by David Salo](https://web.archive.org/web/20161020183412/http://midgardsmal.com/category/khuzdul/)
+
+* [Khuzdûl dictionarry by David Salo](https://web.archive.org/web/20161012082341/http://midgardsmal.com/neo-khuzdul-glossary)
+
+* [Dwarrow Scholar - this is 3rd party so less relevant to the movies directly, but is thorough](https://www.dwarrowscholar.com/library.html)
+
 ## Style Guide
 
 ### 1st line of Elvish w/ baked-on translations
