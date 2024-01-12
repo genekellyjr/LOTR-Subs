@@ -256,7 +256,7 @@ The Lament for Gandalf needs extra crutches:
 
 * Sheet music page 2 https://web.archive.org/web/20230107014254/https://cdn.shopify.com/s/files/1/0017/6760/4339/products/84c32bde7d375fec4fd1c5d0df0a1a74_1024x1024.png?v=1618329648
 
-* Official words and translation https://web.archive.org/web/20221209124726/https://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf
+* Official words and translation (annotated score) https://web.archive.org/web/20221209124726/https://www.elvish.org/gwaith/pdf/fotr_annotated_score_2.pdf
 
 * Unofficial words and translation (#10 notes and #11) https://web.archive.org/web/20221126204330/https://www.elvish.org/gwaith/movie_soundtrack_fotr.htm
 
@@ -271,6 +271,8 @@ http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/mo
 
 *  Éowyn's Dirge in https://www.elvish.org/gwaith/movie_soundtrack_ttt.htm
 
+*  Annotated score https://www.henneth-annun.ru/multimedia/ttt_annotated_score.pdf
+
 ### ROTK
 http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/movie_rotk.htm
 
@@ -279,6 +281,8 @@ http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/m
 * https://subscene.com/subtitles/the-lord-of-the-rings-the-return-of-the-king/english/1913641
 
 * Aragorn's recital https://tolkiengateway.net/wiki/Oath_of_Elendil
+
+* Annotated Score https://ia600301.us.archive.org/3/items/mbid-e7fe61ca-65b8-4abb-8723-1e7c1a5e0a49/mbid-e7fe61ca-65b8-4abb-8723-1e7c1a5e0a49-7218533109.pdf
 
 ### Black Speech resources
 
