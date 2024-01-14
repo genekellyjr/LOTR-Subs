@@ -273,6 +273,8 @@ http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/mo
 
 *  Annotated score https://www.henneth-annun.ru/multimedia/ttt_annotated_score.pdf
 
+*  Monoverantus' videos https://www.youtube.com/watch?v=Z5t17_D4s90
+
 ### ROTK
 http://www.arwen-undomiel.com/elvish/rotk.html & https://www.elvish.org/gwaith/movie_rotk.htm
 
