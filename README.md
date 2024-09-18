@@ -262,6 +262,8 @@ The Lament for Gandalf needs extra crutches:
 
 * LOTR symphony translations, idk I found them in the pdf directory there https://web.archive.org/web/20190810084136/http://www.elvish.org/gwaith/pdf/NewLOTRSymphonyTranslation.pdf
 
+* Monoverantus video really sealed the deal https://www.youtube.com/watch?v=-N851E4Ap10
+
 ### TTT
 http://www.arwen-undomiel.com/elvish/ttt.html & https://www.elvish.org/gwaith/movie_ttt.htm
 
@@ -379,6 +381,20 @@ Hi. </i>
 ```
 (but not the very first `GANDALF: <i>You cannot pass!...` in TTT for ?reasons?)
 
+### Colors (tentative)
+
+Quenya = #0078bd
+
+Sindarin = #00bd00
+
+ADÛNAIC = #bdaa00
+
+Black speech = #bd2600
+
+Khuzdul = #bd4500
+
+Rhoric = #7b00bd
+
 ## Thanks to Sources
 _"If everyone stands on top of everyone else's shoulders, we get really high without needing to find a ladder." - Isaac Fignewton_
 
@@ -391,12 +407,16 @@ elvish.org's translations
 
 arwen-undomiel.com's translations
 
+Monoverantus' youtube series
+
 ### TTT
 LeithioiPhilinn on Subscene, Dietrich from before that
 
 elvish.org's translations
 
 arwen-undomiel.com's translations
+
+Monoverantus' youtube series
 
 ### ROTK
 LeithioiPhilinn on Subscene, Galadhorn and peeps on elvish.org from before that
@@ -406,6 +426,8 @@ elvish.org's translations
 arwen-undomiel.com's translations
 
 tolkiengateway.net's quote and context
+
+Monoverantus' youtube series
 
 ### Black Speech
 folk.uib.no's list
