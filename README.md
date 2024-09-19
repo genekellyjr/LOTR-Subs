@@ -7,11 +7,11 @@
 
 The `trans` subs are translations for everything that wasn't translated in addition to the regular subtitles in the movie.
 
-You want `trans` if you want subtitles in addition to knowing what those crazy elves are saying.
+* You want `trans` if you want subtitles in addition to knowing what those crazy elves are saying.
 
 The `transNonEnglish` subs are just the translations, no regular subtitles.
 
-You want `transNonEnglish` if you've watched the movies too many times and know what they're saying every other time but the time the ring whisperss sweet nothings into Frodo's ear.
+* You want `transNonEnglish` if you've watched the movies too many times and know what they're saying every other time but the time the ring whisperss sweet nothings into Frodo's ear.
 
 The `original` subs are the OCR/manual conversion of the subtitles from the Bluray's PGS subtitles. You prob don't need them, since they're included with the movie in PGS (picture) format.
 
