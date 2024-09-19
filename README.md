@@ -47,7 +47,9 @@ Set the Time Ref 1 as the time for a subtitle in combined subtitles and set Time
 
 Video showing how to do the timestamp adjustment to a .srt file: https://files.catbox.moe/kek2ua.mp4
 
-See [this section](#convert-.srt-->-.sup-files-yourself) to convert your newly adjusted .srt file to a .sup file. *.sup files will not work properly for FOTR v1.7 and newer, TTT v1.5 and newer, and ROTK v1.3 and newer.*
+See [this section](#convert-.srt-->-.sup-files-yourself) to convert your newly adjusted .srt file to a .sup file.
+
+***NOTE** .sup files will not work properly for FOTR v1.7 and newer, TTT v1.5 and newer, and ROTK v1.3 and newer.*
 
 ### Want to combine your disc files? Follow the instructions where are just below!
 
