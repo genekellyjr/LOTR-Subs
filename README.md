@@ -2,15 +2,52 @@
 *Made whilst wasting on Arwen's wasting pillow*
 
 ## How to use
-* Choose disc1/disc2 or the combined PGS subs (.sup file).
 
-*If choosing **combined PGS subs**, make sure your combined is the same as mine since the timings will be off slightly for disc2 stuff if not.*
+### Decoding the file names - translation levels
 
-*You can generate your own PGS subs instead of using the release ones I made by opening the .srt file in Subtitle Edit and then use MKVToolNix's GUI to replace the original subtitles with the appropriate .sup file for the appropriate movie or movie part.*
+The `trans` subs are translations for everything that wasn't translated in addition to the regular subtitles in the movie.
 
-*You can also embed the .srt file instead of the .sup file. The .sup file is blu-ray PGS subtitles which are pictures and look nice, while the .srt file is just text and it's up to your player to decide how to show them. I haven't done any work on positioning the .srt subtitles, just making sure they're right.*
+You want `trans` if you want subtitles in addition to knowing what those crazy elves are saying.
 
-* Use MKVToolNix to "Add as new source files..." the .SUP (or .SRT) files, set your subtitle options as needed (default, forced for transNonEnglish), optionally delete the original subtitles (trans subs include all original subtitles with added Elvish/other languages), change save name at bottom, and hit the "Start multiplexing" button.
+The `transNonEnglish` subs are just the translations, no regular subtitles.
+
+You want `transNonEnglish` if you've watched the movies too many times and know what they're saying every other time but the time the ring whisperss sweet nothings into Frodo's ear.
+
+The `original` subs are the OCR/manual conversion of the subtitles from the Bluray's PGS subtitles. You prob don't need them, since they're included with the movie in PGS (picture) format.
+
+The `trans-LessChorus` and `transNonEnglish-LessChorus` are a currently ephemeral stage where chorus subtitles have been cut unless they're very forward and part of the scene. Idk if I'll keep it going, it adds extra work to do.
+
+### Decoding the file names - discs and combined
+
+If you did not combine your disc rips, you'll want disc1 and disc2 for the seperate movie files.
+
+If you did combine your discs and your combining timing matches mine, use the combine.
+
+If your combining timing does not match mine, go to [this section and follow its directions](#adjusting-the-time-stamps-if-your-combined-is-differently-combined) to make a quick and easy adjustment.
+
+### Using the subtitle files
+
+Name the .srt files the same name as your movie(s) and most competent video players will automatically detect those subtitles and use them.
+
+OR you can add them into the movie file itself with MKVToolNix:
+
+In MKVToolNix choose "Add as new source files..." the .SUP (or .SRT) files, set your subtitle options as needed (default, forced for transNonEnglish), optionally delete the original subtitles (trans subs include all original subtitles with added Elvish/other languages), change save name at bottom, and hit the "Start multiplexing" button.
+
+Video showing how to add .sup files (also applies to .srt files the same) from the Releases section to a TTT combined movie: https://files.catbox.moe/danbbp.mp4
+
+### Adjusting the time stamps if your combined is differently combined
+
+You just need to open the combined subtitle in [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) and use the `Synchronization` menu's `Adjust all times (show earlier/later)` tool.
+
+Use the `timestamp_calcr.xlsx` in the repository's files (click on it, the down arrow on the right that has the tooltip `Download raw file`) to calculate the time differences.
+
+Set the Time Ref 1 as the time for a subtitle in combined subtitles and set Time Ref 2 as the time you want it to go to (mayhaps being the time stamp for your original combined subtitles). Use the delta to show the subtitles only on Disc 2 earlier or later as needed.
+
+Video showing how to do the timestamp adjustment to a .srt file: https://files.catbox.moe/kek2ua.mp4
+
+### Want to combine your disc files? Follow the instructions where are just below!
+
+## Nerd stuff follows
 
 ### FOTR Extended Specs
 * 1080p USA blu-ray discs (set w/ embedded Sindarin text occasionally). 
