@@ -17,6 +17,8 @@ The `original` subs are the OCR/manual conversion of the subtitles from the Blur
 
 The `trans-LessChorus` and `transNonEnglish-LessChorus` are a currently ephemeral stage where chorus subtitles have been cut unless they're very forward and part of the scene. Idk if I'll keep it going, it adds extra work to do.
 
+* Note that you can have as many subtitles as you like and choose between them if you add them to your movie file(s) per [this section's instructions following the OR](#using-the-subtitle-files)
+
 ### Decoding the file names - discs and combined
 
 If you did not combine your disc rips, you'll want disc1 and disc2 for the seperate movie files.
@@ -27,7 +29,7 @@ If your combining timing does not match mine, go to [this section and follow its
 
 ### Using the subtitle files
 
-Name the .srt files the same name as your movie(s) and most competent video players will automatically detect those subtitles and use them.
+Name the .srt files the same name as your movie(s) and most competent video players will automatically detect those subtitles and use them. *Does not work with .sup files*
 
 OR you can add them into the movie file itself with MKVToolNix:
 
