@@ -47,6 +47,8 @@ Set the Time Ref 1 as the time for a subtitle in combined subtitles and set Time
 
 Video showing how to do the timestamp adjustment to a .srt file: https://files.catbox.moe/kek2ua.mp4
 
+See [this section](#convert-.srt-->-.sup-files-yourself) to convert your newly adjusted .srt file to a .sup file. *.sup files will not work properly for FOTR v1.7 and newer, TTT v1.5 and newer, and ROTK v1.3 and newer.*
+
 ### Want to combine your disc files? Follow the instructions where are just below!
 
 ## Nerd stuff follows
@@ -65,9 +67,7 @@ Video showing how to do the timestamp adjustment to a .srt file: https://files.c
 
 *Note that for 4K blu-rays you'd have to remake the subs from the SRT file with `Video res` in Subtitle Edit set to UHD. I don't have the 4k blu-rays so I can't know if the font changed/was adjusted at all/etc. The timings for the subtitles *should* be the same, at least.*
 
-*Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. (hint: put an empty subtitle that ends 24 ms before the time you want to align to, then paste in disc 2 subtitles so they're timed right)*
-
-Video showing how to add .sup files from the Releases section to a TTT combined movie: https://files.catbox.moe/danbbp.mp4
+*Also note that it's possible to adjust the time stamps of the combined .srt file's 2nd disc subtitles to align to your combined timing. See [this section above](#adjusting-the-time-stamps-if-your-combined-is-differently-combined).*
 
 ## Help translate anything missing!
 
