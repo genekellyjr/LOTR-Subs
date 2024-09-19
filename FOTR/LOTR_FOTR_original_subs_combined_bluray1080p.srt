@@ -6796,7 +6796,7 @@ I pass the test. I will diminish...
 1541
 02:44:57,789 --> 02:45:02,252
 -...and remain Galadriel.
-- cannot do this alone.
+- I cannot do this alone.
 
 1542
 02:45:05,839 --> 02:45:10,010
