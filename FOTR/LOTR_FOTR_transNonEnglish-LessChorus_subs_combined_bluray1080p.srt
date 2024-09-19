@@ -1,0 +1,1107 @@
+﻿1
+00:00:31,334 --> 00:00:34,326
+GALADRIEL [IN SINDARIN]:
+<font color="#00bd00"><i>I amar prestar aen.</i></font>
+
+2
+00:00:36,425 --> 00:00:37,764
+<font color="#00bd00"><i>Han mathon ne nen.</i></font>
+
+3
+00:00:39,883 --> 00:00:41,518
+<font color="#00bd00"><i>Han mathon ne chae.</i></font>
+
+4
+00:00:43,735 --> 00:00:46,021
+<font color="#00bd00"><i>A han noston ned 'wilith.</i></font>
+
+5
+00:02:43,086 --> 00:02:46,977
+{\an8}[CHORUS IN ADÛNAIC]: <i> We take unto ourselves
+<font color="#bdaa00">(Nênâkham nêpâm)</font></i>
+
+6
+00:02:48,550 --> 00:02:53,930
+{\an8}<i>the power and glory
+<font color="#bdaa00">([a]bârat-aglar)</font></i>
+
+7
+00:02:49,294 --> 00:02:50,347
+[IN SINDARIN] Hold positions!
+<font color="#00bd00">(Tangado haid!)</font>
+
+8
+00:02:51,847 --> 00:02:53,647
+Release the arrows!
+<font color="#00bd00">(Leithio i philinn!)</font>
+
+9
+00:02:54,051 --> 00:02:57,825
+{\an8}<i>The Lords of Unending Life
+<font color="#bdaa00">(Nêbâ Katharâd)</font></i>
+
+10
+00:02:54,149 --> 00:02:54,971
+Positions!
+<font color="#00bd00">(Haid!)</font>
+
+11
+00:02:59,470 --> 00:03:04,820
+{\an8}<i>We are the Nine
+<font color="#bdaa00">(Nidir nênâ)</font></i>
+
+12
+00:03:04,844 --> 00:03:11,988
+{\an8}<i>We renounce the darkness
+<font color="#bdaa00">(Nêbîtham [dâ]ur)</font></i>
+
+13
+00:03:27,128 --> 00:03:31,058
+{\an8}<i>We take unto ourselves
+<font color="#bdaa00">(Nênâkham nêpâm)</font></i>
+
+14
+00:03:32,780 --> 00:03:38,945
+{\an8}<i>the power and glory
+<font color="#bdaa00">([a]bârat-aglar)</font></i>
+
+15
+00:32:40,858 --> 00:32:49,708
+{\an8}[CHORUS IN ADÛNAIC]: <i> We renounce our Maker.
+<font color="#bdaa00">(Nêbâbîtham Magânanê)</font></i>
+
+16
+00:34:05,099 --> 00:34:08,128
+VOICE OF THE RING [WHISPERS IN BLACK SPEECH]: <i> Sauron...
+<font color="#bd2600">(Zigur...)</font></i>
+
+17
+00:37:33,107 --> 00:37:35,887
+THE RING [WHISPERS IN BLACK SPEECH]: <i> Sauron...
+<font color="#bd2600">(Zigur...)</font></i>
+
+18
+00:38:47,929 --> 00:38:50,578
+THE RING [WHISPERS IN BLACK SPEECH]: <i> Sauron...
+<font color="#bd2600">(Zigur...)</font></i>
+
+19
+00:45:09,002 --> 00:45:16,807
+[WOOD-ELVES SING IN SINDARIN]:
+<i>O Queen beyond the Western Seas!
+<font color="#00bd00">(Rîn athar annún-aearath!)</font></i>
+
+20
+00:45:18,251 --> 00:45:26,704
+<i>O light to us that wander
+<font color="#00bd00">(Calad ammen i reniar)</font></i>
+
+21
+00:45:28,008 --> 00:45:36,457
+<i>Amid the tree-woven lands of Middle-earth.
+<font color="#00bd00">(Mi 'aladhremmin ennorath.)</font></i>
+
+22
+00:45:38,097 --> 00:45:46,820
+<i>O Elbereth Star-kindler!
+<font color="#00bd00">(A Elbereth Gilthoniel!)</font></i>
+
+23
+00:45:47,763 --> 00:45:56,473
+<i>Your eyes and breath like shining jewels...
+<font color="#00bd00">(I chin a thûl lín míriel...)</font></i>
+
+24
+00:50:39,713 --> 00:50:46,888
+{\an8}[CHORUS IN BLACK SPEECH]:
+<i>One Ring for the Dark lord on his dark throne
+<font color="#bd2600">(Ash Burz-Durbagu burzum-ishi)</font></i>
+
+25
+00:50:47,337 --> 00:51:00,267
+{\an8}<i>In the Land of Mordor where the Shadows lie.
+<font color="#bd2600">(Daghburz-ishi makha gulshu darulu.)</font></i>
+
+26
+00:51:00,518 --> 00:51:20,918
+{\an8}<i>One Ring for the Dark lord on his dark throne
+<font color="#bd2600">(Ash Burz-Durbagu burzum-ishi)</font></i>
+
+27
+00:54:43,338 --> 00:54:45,362
+THE RING [IN BLACK SPEECH]: <i> Lord...
+<font color="#bd2600">(Durbgu...)</font></i>
+
+28
+01:02:24,628 --> 01:02:26,969
+SAURON [IN BLACK SPEECH]: I smell your blood.
+<font color="#bd2600">(Nubin sherkuk.)</font>
+
+29
+01:02:33,413 --> 01:02:34,644
+...your blood.
+<font color="#bd2600">(...sherkuk.)</font>
+
+30
+01:03:36,741 --> 01:03:40,605
+{\an8}[CHORUS IN ADÛNAIC]: <i> The Lords of Unending Life.
+<font color="#bdaa00">(Bârî’n Katharâd)</font></i>
+
+31
+01:03:41,980 --> 01:03:47,180
+{\an8}<i>Behold! The Nine!
+<font color="#bdaa00">(Îdô! Nidir!)</font></i>
+
+32
+01:03:47,383 --> 01:03:51,399
+{\an8}<i>We are... we take
+<font color="#bdaa00">(Nênâkham... nêpâm)</font></i>
+
+33
+01:03:52,785 --> 01:03:57,505
+{\an8}<i>the power and glory
+<font color="#bdaa00">([a]bârat-aglar)</font></i>
+
+34
+01:07:51,612 --> 01:07:54,297
+STRIDER [SINGS IN SINDARIN]: <i> Tinúviel the elven-fair
+<font color="#00bd00">(Tinúviel elvanui)</font></i>
+
+35
+01:07:55,869 --> 01:07:59,325
+<i>Immortal maiden...
+<font color="#00bd00">(Elleth alfirin...)</font></i>
+
+36
+01:08:00,193 --> 01:08:02,112
+<i>...elven-wise
+<font color="#00bd00">(...edhelhael)</font></i>
+
+37
+01:08:03,788 --> 01:08:10,572
+<i>About him cast her night-dark hair
+<font color="#00bd00">(O hon ring finnil fuinui)</font></i>
+
+38
+01:08:11,673 --> 01:08:14,607
+<i>And arms like silver...
+<font color="#00bd00">(A renc gelebrin...)</font></i>
+
+39
+01:12:07,876 --> 01:12:11,925
+{\an8}[CHORUS IN ADÛNAIC]: <i> The Lords of Unending Life.
+<font color="#bdaa00">(Bârî’n Katharâd.)</font></i>
+
+40
+01:12:13,278 --> 01:12:17,116
+{\an8}<i>Behold! We, the Nine.
+<font color="#bdaa00">(Îdô! Nidir, nê.)</font></i>
+
+41
+01:12:18,806 --> 01:12:24,204
+{\an8}<i>We take unto ourselves the power.
+<font color="#bdaa00">(Nêpâm nêd abârat.)</font></i>
+
+42
+01:12:25,610 --> 01:12:29,751
+{\an8}<i>We are the Nine.
+<font color="#bdaa00">(Dir nênâkham.)</font></i>
+
+43
+01:12:31,089 --> 01:12:41,543
+{\an8}<i>We renounce our Maker.
+<font color="#bdaa00">(Nêbâbîtham Magânanê.)</font></i>
+
+44
+01:12:41,996 --> 01:12:48,014
+{\an8}<i>We cleave the darkness.
+<font color="#bdaa00">(Nêtabdam dâur.)</font></i>
+
+45
+01:12:49,031 --> 01:12:50,913
+VOICE OF THE RING [IN BLACK SPEECH]: <i> In the void...
+<font color="#bd2600">(Gûm-ishi...)</font></i>
+
+46
+01:12:53,014 --> 01:12:54,286
+<i>Only...
+<font color="#bd2600">(Ashi...)</font></i>
+
+47
+01:13:13,835 --> 01:13:15,336
+<i>Death...
+<font color="#bd2600">(Gurum...)</font></i>
+
+48
+01:13:30,516 --> 01:13:33,528
+VOICE OF THE RING: <i> Where the Shadows lie...
+<font color="#bd2600">(Makha Gulshu darulu...)</font></i>
+
+49
+01:13:33,808 --> 01:13:39,378
+<i>In the Land of Mordor where Shadows lie.
+<font color="#bd2600">(Daghburz-ishi makha Gulshu darulu.)</font></i>
+
+50
+01:15:46,125 --> 01:15:52,864
+[SINGING IN QUENYA]: <i> The earth...
+<font color="#0078bd">(I ce...)</font></i>
+
+51
+01:15:52,889 --> 01:16:03,508
+<i>The earth groans...
+<font color="#0078bd">(I cemen nurrua...)</font></i>
+
+52
+01:16:03,774 --> 01:16:11,257
+<i>and the wind...
+<font color="#0078bd">(Ar i sure...)</font></i>
+
+53
+01:16:11,282 --> 01:16:16,699
+<i>the wind...
+<font color="#0078bd">(...i súre...)</font></i>
+
+54
+01:16:17,148 --> 01:16:24,455
+<i>is crying!
+<font color="#0078bd">(...naina!)</font></i>
+
+55
+01:18:50,403 --> 01:19:14,853
+{\an8}[CHORUS SINGS IN SINDARIN]: <i> Tinúviel the elven-fair,
+<font color="#00bd00">(Tinúviel elvanui,)</font></i>
+
+56
+01:19:13,874 --> 01:19:17,100
+[IN SINDARIN] <font color="#00bd00">(Im Arwen - telin le thaed.)</font>
+
+57
+01:19:14,856 --> 01:19:28,720
+{\an8}<i>Immortal maiden...,
+<font color="#00bd00">(Elleth alfirin e...)</font></i>
+
+58
+01:19:19,434 --> 01:19:21,301
+<font color="#00bd00">(Lasto beth nîn...)</font>
+
+59
+01:19:21,519 --> 01:19:23,685
+<font color="#00bd00">(Tolo dan nan galad.)</font>
+
+60
+01:19:55,132 --> 01:19:57,675
+[IN SINDARIN] <font color="#00bd00">(Dartho guin Beriain - rych le ad tolthathon.)</font>
+
+61
+01:19:57,700 --> 01:19:59,508
+<font color="#00bd00">(Hon mabathon - rochon ellint im.)</font>
+
+62
+01:20:00,313 --> 01:20:01,718
+<font color="#00bd00">(Andelu i ven.)</font>
+
+63
+01:20:03,350 --> 01:20:05,479
+ARWEN: [Frodo is dying.] <font color="#00bd00">(Frodo fîr. Ae athradon i hîr...)</font>
+
+64
+01:20:05,519 --> 01:20:08,230
+<font color="#00bd00">(...tûr gwaith nîn beriatha hon.)</font>
+
+65
+01:20:14,685 --> 01:20:16,645
+[IN SINDARIN] As you wish.
+<font color="#00bd00">(Be iest lîn.)</font>
+
+66
+01:20:24,706 --> 01:20:26,913
+[IN SINDARIN] Ride fast, Asfaloth, ride fast!
+<font color="#00bd00">(Noro lim, Asfaloth, noro lim!)</font>
+
+67
+01:21:36,795 --> 01:21:40,975
+{\an8}[CHORUS IN ADÛNAIC]: <i> The Lords of Unending Life.
+<font color="#bdaa00">(Bârî’n Katharâd.)</font></i>
+
+68
+01:21:42,270 --> 01:21:47,725
+{\an8}<i>Behold! We are... we take
+<font color="#bdaa00">(Îdô! Kham... nêpâm)</font></i>
+
+69
+01:21:45,109 --> 01:21:47,653
+Ride fast, Asfaloth!
+<font color="#00bd00">(Noro lim, Asfaloth!)</font>
+
+70
+01:21:47,747 --> 01:21:51,433
+{\an8}<i>We take unto ourselves
+<font color="#bdaa00">(Nênâkham nêpâm)</font></i>
+
+71
+01:21:52,663 --> 01:21:57,963
+{\an8}<i>the power and glory
+<font color="#bdaa00">([a]bârat-aglar)</font></i>
+
+72
+01:21:57,988 --> 01:22:01,498
+{\an8}<i>The Lords of Unending Life
+<font color="#bdaa00">(Nêbâ Katharâd)</font></i>
+
+73
+01:22:02,846 --> 01:22:07,996
+{\an8}<i>We are the Nine
+<font color="#bdaa00">(Nidir nênâ)</font></i>
+
+74
+01:22:08,021 --> 01:22:16,321
+{\an8}<i>We renounce the darkness
+<font color="#bdaa00">(Nêbîtham [dâ]ur)</font></i>
+
+75
+01:22:47,838 --> 01:22:50,176
+[IN SINDARIN] Waters of the Misty Mountains, listen to the great word;
+<font color="#00bd00">(Nîn o Chithaeglir, lasto beth daer;)</font>
+
+76
+01:22:50,568 --> 01:22:53,515
+flow waters of Loudwater, against the Ringwraiths!
+<font color="#00bd00">(rimmo nîn Bruinen, dan in Ulaer!)</font>
+
+77
+01:22:53,706 --> 01:22:56,325
+Waters of the Misty Mountains, listen to the great word;
+<font color="#00bd00">(Nîn o Chithaeglir, lasto beth daer;)</font>
+
+78
+01:22:56,873 --> 01:22:59,922
+flow waters of Loudwater, against the Ringwraiths!
+<font color="#00bd00">(rimmo nîn Bruinen, dan in Ulaer!)</font>
+
+79
+01:24:05,596 --> 01:24:10,009
+[IN SINDARIN] Hear my voice. Come back to the light.
+<font color="#00bd00">(Lasto beth nîn. Tolo dan nan galad.)</font>
+
+80
+01:35:46,459 --> 01:35:48,921
+[IN SINDARIN] <font color="#00bd00">(A si i-Dhúath ú-orthor, Aragorn.)</font>
+
+81
+01:35:49,904 --> 01:35:53,506
+<font color="#00bd00">(Ú or le... a ú or nin.)</font>
+
+82
+01:36:04,850 --> 01:36:08,097
+<font color="#00bd00">(Renich i lú i erui govannem?)</font>
+
+83
+01:36:11,641 --> 01:36:16,187
+<font color="#00bd00">(Nauthannen i ned ôl reniannen.)</font>
+
+84
+01:36:16,716 --> 01:36:19,243
+<font color="#00bd00">(Gwenwin in enninath.)</font>
+
+85
+01:36:20,915 --> 01:36:22,915
+<font color="#00bd00">(Ú-'arnech in naeth i si celich.)</font>
+
+86
+01:36:25,752 --> 01:36:27,829
+<font color="#00bd00">(Renich i beth i pennen?)</font>
+
+87
+01:38:54,563 --> 01:38:56,322
+THE RING [IN BLACK SPEECH]: <i> In the cold...
+<font color="#bd2600">(Kelkum-ishi...)</font></i>
+
+88
+01:38:59,507 --> 01:39:01,940
+[CHANTS IN BLACK SPEECH] One Ring to rule them all...
+<font color="#bd2600">(Ash Nazg durbatulûk...)</font>
+
+89
+01:39:00,665 --> 01:39:02,809
+{\an8}[THE RING]: <i> Three Rings for the Elven-kings...
+<font color="#bd2600">(Shre nazg golugranu...)</font></i>
+
+90
+01:39:03,186 --> 01:39:06,695
+...One Ring to find them...
+<font color="#bd2600">(...Ash Nazg gimbatul...)</font>
+
+91
+01:39:03,188 --> 01:39:06,495
+{\an8}<i>I smell <font color="#bd2600">your blood.
+(Nubin sherkuk.)</font></i>
+
+92
+01:39:06,596 --> 01:39:08,295
+{\an8}<i>Seven for the Dwarf-lords.
+<font color="#bd2600">(Ombi kuzddurbagu.)</font></i>
+
+93
+01:39:07,060 --> 01:39:09,823
+...One Ring to bring them all...
+<font color="#bd2600">(...Ash Nazg thrakatulûk...)</font>
+
+94
+01:39:09,508 --> 01:39:11,289
+{\an8}<i>I smell your blood.</i>
+<i><font color="#bd2600">(Nubin sherkuk.)</font></i>
+
+95
+01:39:11,314 --> 01:39:13,014
+{\an8}<i>In the cold... One for the Dark Lord...
+<font color="#bd2600">(Kelkum-ishi... Ash Burz-Durbagu...)</font></i>
+
+96
+01:39:13,039 --> 01:39:15,284
+...and in the darkness...
+<font color="#bd2600">(...agh burzum-ishi...)</font>
+
+97
+01:39:13,031 --> 01:39:15,274
+{\an8}<i>...in the darkness...
+<font color="#bd2600">(...burzum-ishi...)</font></i>
+
+98
+01:39:15,309 --> 01:39:17,027
+...bind them!
+<font color="#bd2600">(...krimpatul!)</font>
+
+99
+01:40:44,924 --> 01:40:46,422
+[IN SINDARIN] <font color="#00bd00">(Havo dad, Legolas.)</font>
+
+100
+01:41:26,835 --> 01:41:29,955
+THE RING: <i> In the Land of Mordor where...
+<font color="#bd2600">(Daghburz-ishi makha...)</font></i>
+
+101
+01:41:30,308 --> 01:41:31,625
+<i>...your blood.
+<font color="#bd2600">(...sherkuk.)</font></i>
+
+102
+01:41:44,506 --> 01:41:49,687
+THE RING: <i> In the Land of Mordor where the Shadows lie...
+<font color="#bd2600">(Daghburz-ishi makha Gulshu darulu...)</font></i>
+
+103
+01:41:55,671 --> 01:42:00,506
+THE RING: <i> In the Land of Mordor where the Shadows lie...
+<font color="#bd2600">(Daghburz-ishi makha Gulshu darulu...)</font></i>
+
+104
+01:43:08,061 --> 01:43:10,267
+THE RING: <i> One Ring to rule them all...
+<font color="#bd2600">(Ash Nazg durbatulûk...)</font></i>
+
+105
+01:43:10,599 --> 01:43:13,549
+<i>One Ring to find them...
+<font color="#bd2600">(Ash Nazg gimbatul...)</font></i>
+
+106
+01:43:14,481 --> 01:43:16,787
+<i>One Ring to rule them all...
+<font color="#bd2600">(Ash Nazg durbatulûk...)</font></i>
+
+107
+01:43:16,812 --> 01:43:18,821
+<i>...One Ring to find them...
+<font color="#bd2600">(...Ash Nazg gimbatul...)</font></i>
+
+108
+01:43:18,845 --> 01:43:21,347
+<i>One Ring to rule them all...
+<font color="#bd2600">(Ash Nazg durbatulûk...)</font></i>
+
+109
+01:43:21,371 --> 01:43:23,534
+<i>...One Ring to find them...
+<font color="#bd2600">(...Ash Nazg gimbatul...)</font></i>
+
+110
+01:43:23,559 --> 01:43:25,729
+<i>One Ring to rule them all...
+<font color="#bd2600">(Ash Nazg durbatulûk...)</font></i>
+
+111
+01:43:25,753 --> 01:43:27,869
+<i>...One Ring to find them...
+<font color="#bd2600">(...Ash Nazg gimbatul...)</font></i>
+
+112
+01:43:27,893 --> 01:43:29,582
+<i>One Ring to rule them all...
+<font color="#bd2600">(Ash Nazg durbatulûk...)</font></i>
+
+113
+01:46:13,123 --> 01:46:15,685
+ELROND [IN SINDARIN]: <font color="#00bd00">(Anirne hene beriad i chên lîn...)</font>
+
+114
+01:46:17,496 --> 01:46:21,326
+<font color="#00bd00">(ned Imladris nauthant e le beriathar aen.)</font>
+
+115
+01:55:05,375 --> 01:55:07,245
+[SARUMAN CHANTS IN QUENYA]: <i> Wake up...
+<font color="#0078bd">(Cuiva...)</font></i>
+
+116
+01:55:07,507 --> 01:55:09,377
+[ECHOING]: <i> ...cruel...
+<font color="#0078bd">(...nwalca...)</font></i>
+
+117
+01:55:09,749 --> 01:55:11,619
+<i>...Redhorn!
+<font color="#0078bd">(...Carnirassë!)</font></i>
+
+118
+01:55:11,848 --> 01:55:15,827
+<i>It shall fall upon the enemy-heads!
+<font color="#0078bd">(Taltuva ñotto-carinnar!)</font></i>
+
+119
+01:55:35,987 --> 01:55:38,955
+[CHANTS IN SINDARIN] Sleep Caradhras, be still, lie still...
+<font color="#00bd00">(Losto Caradhras, sedho, hodo...)</font>
+
+120
+01:55:38,979 --> 01:55:40,526
+...hold!
+<font color="#00bd00">(...nuitho!)</font>
+
+121
+01:55:40,550 --> 01:55:46,826
+SARUMAN: <i> Wake up cruel Redhorn!
+<font color="#0078bd">(Cuiva nwalca Carnirassë!)</font></i>
+
+122
+01:55:47,316 --> 01:55:50,474
+May your blood-stained horn...
+<font color="#0078bd">(Nai yarvaxëa rasselya...)</font>
+
+123
+01:55:50,969 --> 01:55:54,237
+...shall fall upon the enemy-heads!
+<font color="#0078bd">(...taltuva ñotto-carinnar!)</font>
+
+124
+01:55:55,901 --> 01:55:58,542
+<i>Wake up cruel...
+<font color="#0078bd">(Cuiva nwalca...)</font></i>
+
+125
+01:55:59,574 --> 01:56:00,448
+<i>...Redhorn!
+<font color="#0078bd">(...Carnirassë!)</font></i>
+
+126
+01:59:48,082 --> 01:59:52,429
+[IN SINDARIN] Gate of the Elves, open now for me!
+<font color="#00bd00">(Annon Edhellen, edro hi ammen.)</font>
+
+127
+02:00:00,812 --> 02:00:07,214
+Doorway of the Dwarf-folk, listen to the word of my tongue.
+<font color="#00bd00">(Fennas Nogothrim, lasto beth lammen.)</font>
+
+128
+02:00:39,661 --> 02:00:42,800
+[GANDALF SPEAKS IN KHUZDÛL]
+
+129
+02:00:43,065 --> 02:00:46,036
+[IN SINDARIN] Gate of Elves...
+<font color="#00bd00">(Ando Eldarinwa...)</font>
+
+130
+02:00:46,709 --> 02:00:48,741
+...listen to my word,
+<font color="#00bd00">(...a lasta quettanya,)</font>
+
+131
+02:00:49,616 --> 02:00:51,922
+Threshold of Dwarves!
+<font color="#00bd00">(Fenda Casarinwa!)</font>
+
+132
+02:00:58,811 --> 02:01:00,524
+GANDALF, SOFTLY: <i>Doorway of the Dwarf-folk...
+<font color="#00bd00">(Fennas Nogothrim...)</font></i>
+
+133
+02:01:01,140 --> 02:01:03,446
+GANDALF: <i>...listen to the word of my tongue.
+<font color="#00bd00">(...lasto beth lammen.)</font></i>
+
+134
+02:01:06,075 --> 02:01:07,667
+GANDALF: <i> Gate of Elves...
+<font color="#00bd00">(Ando Eldarinwa...)</font></i>
+
+135
+02:11:34,738 --> 02:11:37,599
+GIMLI, SOFTLY [IN KHUZDÛL]: <i> A crown of rust in the waters...
+<font color="#bd4500">(Kilmîn malur ni zâram...)</font></i>
+
+136
+02:11:37,624 --> 02:11:43,353
+<i>...cold and black, of the Kheled-zâram. Balin sleeps.
+<font color="#bd4500">(...kalil ra narag, Kheled-zâram... Balin tazlifi.)</font></i>
+
+137
+02:21:47,561 --> 02:21:52,160
+{\an8}[CHORUS SINGS IN KHUZDÛL]: <i> The demon comes!
+<font color="#bd4500">(Urkhas tanakhi!)</font></i>
+
+138
+02:21:52,185 --> 02:21:58,283
+{\an8}<i>The earth shakes!
+<font color="#bd4500">(Kâmin takalladi!)</font></i>
+
+139
+02:21:58,885 --> 02:22:06,753
+{\an8}<i>Fear rips our heart!
+<font color="#bd4500">(Ugrûd tashniki kurdumâ!)</font></i>
+
+140
+02:22:07,964 --> 02:22:09,464
+{\an8}<i>Fire in the deep!
+<font color="#bd4500">(Urus ni buzra!)</font></i>
+
+141
+02:22:09,488 --> 02:22:10,988
+{\an8}<i>The demon comes!
+<font color="#bd4500">(Urkhas tanakhi!)</font></i>
+
+142
+02:22:11,013 --> 02:22:12,387
+{\an8}<i>No! No! No! No!
+<font color="#bd4500">(Lu! Lu! Lu! Lu!)</font></i>
+
+143
+02:22:12,416 --> 02:22:13,771
+{\an8}<i>Fire in, fire in
+<font color="#bd4500">(Urus ni, urus ni)</font></i>
+
+144
+02:22:13,795 --> 02:22:15,141
+{\an8}<i>Fire in the deep!
+<font color="#bd4500">(Urus ni buzra!)</font></i>
+
+145
+02:22:15,165 --> 02:22:16,780
+{\an8}<i>Firey deep!
+<font color="#bd4500">(Urus buzra!)</font></i>
+
+146
+02:22:28,393 --> 02:22:33,381
+{\an8}<i>Flames!
+<font color="#bd4500">(Arrâs!)</font></i>
+
+147
+02:22:41,524 --> 02:22:47,626
+{\an8}<i>Flames!
+<font color="#bd4500">(Arrâs!)</font></i>
+
+148
+02:23:03,346 --> 02:23:07,346
+{\an8}<i>Flames!
+<font color="#bd4500">(Arrâs!)</font></i>
+
+149
+02:24:27,492 --> 02:24:32,742
+{\an8}<i>Flames lick our skin, our skin!
+<font color="#bd4500">(Arrâs talbabi fillumâ, fillumâ!)</font></i>
+
+150
+02:24:33,104 --> 02:24:38,604
+{\an8}<i>Fear rips our heart, our heart!
+<font color="#bd4500">(Ugrûd tashniki kurdumâ, kurdumâ!)</font></i>
+
+151
+02:24:38,936 --> 02:24:41,467
+{\an8}<i>The fire demon!
+<font color="#bd4500">(Urus urkhas!)</font></i>
+
+152
+02:24:41,491 --> 02:24:44,526
+{\an8}<i>The demon comes! [Repeated]
+<font color="#bd4500">(Urkhas tanakhi!)</font></i>
+
+153
+02:24:44,543 --> 02:24:47,357
+{\an8}<i>The earth shakes!
+<font color="#bd4500">(Kâmin takalladi!)</font></i>
+
+154
+02:24:47,381 --> 02:24:50,097
+{\an8}<i>A great shadow!
+<font color="#bd4500">(Askad gabil!)</font></i>
+
+155
+02:24:50,121 --> 02:24:51,566
+{\an8}<i>Fire!
+<font color="#bd4500">(Urus!)</font></i>
+
+156
+02:24:51,590 --> 02:24:54,590
+{\an8}<i>The demon comes! [Repeated]
+<font color="#bd4500">(Urkhas tanakhi!)</font></i>
+
+157
+02:24:54,615 --> 02:24:55,719
+{\an8}<i>The earth shakes!
+<font color="#bd4500">(Kâmin takalladi!)</font></i>
+
+158
+02:24:55,743 --> 02:24:58,732
+{\an8}<i>Fear rips our heart!
+<font color="#bd4500">(Ugrûd tashniki kurdumâ!)</font></i>
+
+159
+02:24:58,758 --> 02:25:02,368
+{\an8}<i>Demon fire!
+<font color="#bd4500">(Urkhas urus!)</font></i>
+
+160
+02:31:14,314 --> 02:31:16,385
+[IN SINDARIN] <font color="#00bd00">(Mae govannen, Legolas Thranduilion.)</font>
+
+161
+02:31:17,276 --> 02:31:19,972
+<font color="#00bd00">(Govannas vîn gwennen le, Haldir o Lórien.)</font>
+
+162
+02:31:22,704 --> 02:31:24,480
+<font color="#00bd00">(A Aragorn in Dúnedain...)</font>
+
+163
+02:31:25,079 --> 02:31:26,517
+<font color="#00bd00">(istannen le ammen.)</font>
+
+164
+02:31:26,960 --> 02:31:27,638
+Haldir.
+
+165
+02:31:39,516 --> 02:31:41,156
+GIMLI [IN KHUZDÛL]: <i> May my excrement be poured...
+<font color="#bd4500">(Îsh kakhfê...)</font></i>
+
+166
+02:31:41,181 --> 02:31:43,611
+...upon the naked-jawed [beardless].
+<font color="#bd4500">(...ai-'d-dûr-rugnul.)</font>
+
+167
+02:32:08,323 --> 02:32:09,737
+ARAGORN [URGENTLY IN SINDARIN]: We need your protection.
+<font color="#00bd00">(Boe ammen veriad lîn.)</font>
+
+168
+02:32:09,761 --> 02:32:11,366
+The road is fell!
+<font color="#00bd00">(Andelu i ven!)</font>
+
+169
+02:32:14,789 --> 02:32:15,687
+I'm glad we came to you.
+<font color="#00bd00">(Merin le telim.)</font>
+
+170
+02:32:16,872 --> 02:32:18,559
+We need your support!
+<font color="#00bd00">(Boe ammen i dulu lîn!)</font>
+
+171
+02:32:19,763 --> 02:32:21,319
+HALDIR:
+<i>Aragorn...</i>
+
+172
+02:32:31,793 --> 02:32:33,136
+HALDIR: <i> ...Eärendil.
+<font color="#00bd00">(...Eärendil.)</font></i>
+
+173
+02:32:33,161 --> 02:32:34,595
+ARAGORN: <i> I'm glad we came to you.
+<font color="#00bd00">(Merin le telim.)</font></i>
+
+174
+02:32:37,658 --> 02:32:38,739
+The road is deadly.
+<font color="#00bd00">(Andelu i ven.)</font>
+
+175
+02:33:22,905 --> 02:33:34,112
+{\an8}[CHORUS SINGS IN QUENYA]: <i> Behold the light!
+<font color="#0078bd">(Ela i cále!)</font></i>
+
+176
+02:33:34,136 --> 02:33:45,333
+{\an8}<i>Nenya is this
+<font color="#0078bd">(Nenya sina)</font></i>
+
+177
+02:33:45,624 --> 02:34:02,457
+{\an8}<i>Ring, unbreakable
+<font color="#0078bd">(Corma, úhátima)</font></i>
+
+178
+02:34:02,487 --> 02:34:34,596
+{\an8}<i>That I possess.
+<font color="#0078bd">(I haryanye.)</font></i>
+
+179
+02:37:11,137 --> 02:37:15,411
+[SINGING IN SINDARIN] <i>The bonds cut,
+<font color="#00bd00">(In gwidh ristennin,)</font></i>
+
+180
+02:37:15,468 --> 02:37:29,868
+{\an8}[CHORUS IN QUENYA] <i>Our regret is undying
+<font color="#0078bd">(Ilfirin nairelma)</font></i>
+
+181
+02:37:21,728 --> 02:37:30,529
+<i>the spirit rent.
+<font color="#00bd00">(i fae narchannen.)</font></i>
+
+182
+02:37:29,853 --> 02:37:39,378
+{\an8}<i>What should be shall be.
+<font color="#0078bd">(Nauva i nauva.)</font></i>
+
+183
+02:37:34,380 --> 02:37:39,278
+<i>The Flame of Anor,
+<font color="#00bd00">(I lach Anor,)</font></i>
+
+184
+02:37:39,290 --> 02:37:56,406
+<i>from earth departed
+<font color="#00bd00">(ed ardhon gwannen)</font></i>
+
+185
+02:37:42,348 --> 02:37:54,068
+{\an8}<i>Our regret is undying
+<font color="#0078bd">(Ilfirin nairelma)</font></i>
+
+186
+02:37:54,093 --> 02:38:19,714
+{\an8}<i>Rather than submit
+<font color="#0078bd">(Ar ullume nucuvalme)</font></i>
+
+187
+02:37:58,640 --> 02:38:10,216
+<i>Mithrandir! O Pilgrim Grey!
+<font color="#00bd00">(Mithrandir! A Randir Vithren!)</font></i>
+
+188
+02:38:11,422 --> 02:38:19,461
+<i>You will not wander
+<font color="#00bd00">(Ú-reniathach)</font></i>
+
+189
+02:38:19,733 --> 02:38:24,031
+{\an8}<i>What should be shall be.
+<font color="#0078bd">(Nauva i nauva.)</font></i>
+
+190
+02:38:24,062 --> 02:38:34,035
+<i>the green earth
+<font color="#00bd00">(i amar galen)</font></i>
+
+191
+02:38:24,064 --> 02:38:40,723
+{\an8}<i>Our love for this land
+<font color="#0078bd">([Mel]melma nóren sina)</font></i>
+
+192
+02:38:36,395 --> 02:38:46,959
+<i>Your journey in darkness, has ended.
+<font color="#00bd00">(I reniad lín ne môr, nuithannen.)</font></i>
+
+193
+02:38:40,740 --> 02:38:48,835
+{\an8}<i>Submit...
+<font color="#0078bd">(Nucuvalme)</font></i>
+
+194
+02:38:48,844 --> 02:38:58,521
+{\an8}<i>Our regret is undying.
+<font color="#0078bd">(Ilfirin nairelma.)</font></i>
+
+195
+02:38:58,545 --> 02:39:07,505
+{\an8}<i>Rather than submit
+<font color="#0078bd">(Ar ullume nucuvalme)</font></i>
+
+196
+02:48:55,078 --> 02:48:57,697
+[IN SINDARIN] <font color="#00bd00">(Le aphadar aen.)</font>
+
+197
+02:50:49,613 --> 02:50:50,690
+[IN SINDARIN] <font color="#00bd00">(Am meleth dîn,)</font>
+
+198
+02:50:51,937 --> 02:50:57,305
+<font color="#00bd00">(I ant e guil Arwen Undómiel pígatha.)</font>
+
+199
+02:50:58,085 --> 02:51:01,411
+[IN SINDARIN] <font color="#00bd00">(Aníron i e broniatha ad ae periatham,)</font>
+
+200
+02:51:02,911 --> 02:51:05,873
+<font color="#00bd00">(athar i methid en-amar hen.)</font>
+
+201
+02:51:07,839 --> 02:51:13,591
+<font color="#00bd00">(Aníron i e círatha na Valannor.)</font>
+
+202
+02:51:38,445 --> 02:51:39,783
+[IN QUENYA] <font color="#0078bd">(Namárië.)</font>
+
+203
+02:51:43,617 --> 02:51:47,034
+[IN SINDARIN] <font color="#00bd00">(Nadath nâ i moe cerich.)</font>
+
+204
+02:51:49,045 --> 02:51:50,133
+But...
+<font color="#00bd00">(Dan...)</font>
+
+205
+02:51:53,507 --> 02:51:54,925
+<font color="#00bd00">(Ú-'eveditham...)</font>
+
+206
+02:51:54,949 --> 02:51:56,386
+<font color="#00bd00">(Elessar.)</font>
+
+207
+02:56:43,759 --> 02:57:00,509
+{\an8}[CHORUS SINGS IN QUENYA]:
+<i>Out of the Great Sea to Middle-earth I am come.
+<font color="#0078bd">(Et Eärello Endorenna utúlien.)</font></i>
+
+208
+02:57:00,521 --> 02:57:10,657
+{\an8}<i>In this place will I abide,
+<font color="#0078bd">(Sinomë maruvan ar Hildinyar,)</font></i>
+
+209
+03:01:05,469 --> 03:01:08,118
+VOICE OF THE RING [IN BLACK SPEECH]: <i> In the void...
+<font color="#bd2600">(Gûm-ishi...)</font></i>
+
+210
+03:01:13,734 --> 03:01:14,987
+<i>...only...
+<font color="#bd2600">(...ashi...)</font></i>
+
+211
+03:01:17,250 --> 03:01:19,069
+<i>death.
+<font color="#bd2600">(gurum.)</font></i>
+
+212
+03:02:34,486 --> 03:02:35,672
+VOICE OF THE RING [IN BLACK SPEECH]: <i> Here...
+<font color="#bd2600">(Akha...)</font></i>
+
+213
+03:02:37,041 --> 03:02:41,028
+<i>...only death.
+<font color="#bd2600">(...ashi gurum.)</font></i>
+
+214
+03:06:40,518 --> 03:06:56,468
+{\an8}[CHORUS SINGS IN BLACK SPEECH]:
+<i>One Ring for the Dark lord on his dark throne
+<font color="#bd2600">(Ash Burz-Durbagu burzum-ishi)</font></i>
+
+215
+03:07:58,722 --> 03:08:16,422
+{\an8}[CHORUS SINGS IN SINDARIN]:
+<i>I do not love the bright sword for its sharpness
+<font color="#00bd00">(Ú-velin i vegil an eigas)</font></i>
+
+216
+03:08:16,580 --> 03:08:38,763
+{\an8}<i>Nor the arrow for its swiftness
+<font color="#00bd00">(Egor i bilin a lin[nas])</font></i>
+
+217
+03:08:48,917 --> 03:08:59,080
+{\an8}[CHORUS SINGS IN QUENYA]: <i> The tree is bare, the fountain still.
+<font color="#0078bd">([I al]da helda, i ehtele lína.)</font></i>
+
+218
+03:08:59,104 --> 03:09:18,104
+{\an8}<i>Whither goest thou Boromir?
+<font color="#0078bd">(Manna lelyalye Voromírë?)</font></i>
+
+219
+03:09:18,128 --> 03:09:25,160
+{\an8}<i>Your call...
+<font color="#0078bd">(Cánalya...)</font></i>
+
+220
+03:09:25,184 --> 03:09:30,481
+{\an8}<i>Upon...
+<font color="#0078bd">(Desse...)</font></i>
+
+221
+03:09:30,505 --> 03:09:34,751
+{\an8}<i>Now where?
+<font color="#0078bd">(Sí massë?)</font></i>
+
+222
+03:21:52,002 --> 03:22:03,585
+[ENYA IN QUENYA]: <i> Darkness has come
+<font color="#0078bd">(Mornie utúlië)</font></i>
+
+223
+03:22:15,550 --> 03:22:27,968
+<i>Darkness has fallen
+<font color="#0078bd">(Mornie alantië)</font></i>
+
+224
+03:22:27,992 --> 03:22:39,658
+<i>Darkness has come
+<font color="#0078bd">(Mornie utúlië)</font></i>
+
+225
+03:23:47,778 --> 03:23:59,532
+<i>Darkness has fallen
+<font color="#0078bd">(Mornie alantië)</font></i>
+
+226
+03:26:53,139 --> 03:27:13,339
+[CHORUS IN SINDARIN]: <i> Here Elbereth Star-kindler,
+<font color="#00bd00">(Nef Elbereth Gilthoniel,)</font></i>
+
+227
+03:27:13,363 --> 03:27:35,025
+<i>Glittering slants down like sparkling jewels
+<font color="#00bd00">(Silivren penna míriel)</font></i>
+
+228
+03:48:06,074 --> 03:48:08,076
+[v1.7]
+
